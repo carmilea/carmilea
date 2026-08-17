@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Buy Your Friends Batteries](https://domenkozar.com/2026/08/17/buy-your-friends-batteries/)
-- [Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
-- [Launch HN: Speko &lpar;YC S26&rpar; – OpenRouter for Voice AI](https://speko.ai/)
-- [Ahmad on X: &quot;Anthropic&#39;s War on open source AI&quot; / X](https://twitter.com/TheAhmadOsman/status/2065307070044234186)
-- [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
+- [The Lonely Men Who Work in Patagonia, at the End of the World](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
+- [How I Over-Engineered My Book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
+- [Meta faces &#39;astronomical&#39; consequences as legal fight reaches critical moment](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html)
+- [Llama.cpp v0.1.0](https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0)
+- [We Are Forking dotenvy into dotenv-ng](https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
