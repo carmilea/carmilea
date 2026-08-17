@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Gmail might partially be to blame for receiving emails from other Sean Conners](https://boston.conman.org/2026/08/11.1)
-- [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
-- [Prolly: A content-addressed ordered map built on prolly trees](https://github.com/crabbuild/prolly)
-- [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
+- [$12B of US ratepayers&#39; money wasted on a modeling mistake in PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
+- [Linear Algebra Done Right – Sheldon Axler](https://linear.axler.net/)
+- [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
+- [Strong gravitational lensing and microlensing of supernovae &lpar;2024&rpar;](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
