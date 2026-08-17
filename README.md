@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
-- [GitHub down again? no PR access](https://news.ycombinator.com/item?id=49330632)
-- [Show HN: 1667, a terminal UI for writing fiction with language models](https://1667.ai/)
-- [Tell HN: GitHub Is Overloaded](https://news.ycombinator.com/item?id=49330597)
+- [AI-Generated GitHub Copilot &quot;Autofix&quot; Allowed Compromise of Snowflake&#39;s Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+- [Apple&#39;s App Tracking Transparency treated its own apps better than rivals](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
+- [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/)
+- [Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)
 <!-- BLOG-POST-LIST:END -->
 
 ---
