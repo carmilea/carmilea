@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Buy Your Friends Batteries](https://domenkozar.com/2026/08/17/buy-your-friends-batteries/)
 - [Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
 - [Launch HN: Speko &lpar;YC S26&rpar; – OpenRouter for Voice AI](https://speko.ai/)
+- [Ahmad on X: &quot;Anthropic&#39;s War on open source AI&quot; / X](https://twitter.com/TheAhmadOsman/status/2065307070044234186)
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Judge relying wholly on AI in order is covered by judicial immunity, court rules](https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/)
-- [Qwen3.8 27B at 256K: 50 TPS on a 24 GB GPU](https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
