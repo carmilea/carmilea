@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Show HN: Desktopcolors.com – A museum for solid background colors of classic OS](https://desktopcolors.com)
-- [Linear algebra done right](https://linear.axler.net/)
-- [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
-- [Strong gravitational lensing and microlensing of supernovae &lpar;2024&rpar;](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
+- [David Sacks on X: Some thoughts on Dario&#39;s post](https://twitter.com/DavidSacks/status/2089227290769080656)
+- [Buyer cancels showing after Deflock shows two cameras utilized by the HOA](https://twitter.com/lydiakauppi/status/2089196932413452386)
+- [Mexico Crackdown on Coastal Development Underway](https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/)
+- [GPT 5.6 Sol is the best &quot;vision&quot; model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
