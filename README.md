@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AirTag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
 - [The Lonely Men Who Work in Patagonia, at the End of the World](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
+- [Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground/)
 - [How I Over-Engineered My Book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
-- [Meta faces &#39;astronomical&#39; consequences as legal fight reaches critical moment](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html)
-- [Llama.cpp v0.1.0](https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0)
-- [We Are Forking dotenvy into dotenv-ng](https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/)
+- [Amazon, which started off selling books, is destroying rare texts to train AI](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
