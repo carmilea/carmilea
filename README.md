@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
+- [Nation&#39;s Largest Reservoirs Are Drying Up, Threatening Life in the Southwest](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
+- [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
+- [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617)
 - [The Origin of Consciousness &lpar;2008&rpar;](https://blog.plover.com/brain/Jaynes.html)
-- [Will you have spent more of your life with computers than your family?](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
-- [AI;DR &lpar;AI; Didn&#39;t Read&rpar;](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
-- [India has paved the way for charging merchants a fee on UPI transactions](https://www.bbc.com/news/articles/c8xnwqe00v1o)
-- [Los Puesteros, solitary men who look after ranches and livestock in Patagonia](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
