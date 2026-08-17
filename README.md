@@ -62,7 +62,7 @@
 - [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/)
 - [Linear algebra done right](https://linear.axler.net/)
 - [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
-- [Strong gravitational lensing and microlensing of supernovae &lpar;2024&rpar;](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
+- [On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
