@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [$12B of US ratepayers&#39; money wasted on a modeling mistake in PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
-- [Linear Algebra Done Right – Sheldon Axler](https://linear.axler.net/)
+- [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/)
+- [Linear algebra done right](https://linear.axler.net/)
 - [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 - [Strong gravitational lensing and microlensing of supernovae &lpar;2024&rpar;](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
 <!-- BLOG-POST-LIST:END -->
