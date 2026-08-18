@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude: Degraded Performance for Multiple Models](https://status.claude.com/incidents/q7txxvbsftgq)
+- [Launch HN: machine0 &lpar;YC S26&rpar; – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
+- [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
+- [Show HN: Openleetcode – local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)
 - [Code-native generation of highly programmable 3D assets &lpar;2026&rpar;](https://arxiv.org/abs/2607.22738)
-- [The coolest anti-surveillance tools at Defcon [video]](https://www.youtube.com/watch?v=-2uAsJ5EPAw)
-- [JPEG XL converter and .jxl viewer](https://jpegxlconvert.com/en/)
-- [An Engineer&#39;s Old Cooking Trick Is Going Viral, Divides the Internet](https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/)
-- [Babies born under sugar rationing grew into adults with lower cancer risk](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873)
 <!-- BLOG-POST-LIST:END -->
 
 ---
