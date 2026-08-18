@@ -61,8 +61,8 @@
 - [Google buys crashed airline Spirit&#39;s data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 - [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
 - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
+- [Finger: Social network that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/)
 - [Exercise intensity modulates interorgan communication and is associated with](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
-- [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
