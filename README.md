@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google wins bankruptcy auction for Spirit Airlines emails, chats, documents](https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy)
 - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
-- [Puppy PPE](http://amosdudley.com/weblog/Designing-PPE-for-Hilde)
 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 - [scScript for Linux](https://scapplications.com/)
 - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
