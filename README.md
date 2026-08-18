@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI to help planes avoid climate-warming &#39;sky graffiti&#39;](https://www.bbc.com/news/articles/c62em5lpvnjo)
-- [A group of Gandalfs protest outside the home of Peter Thiel in Argentina](https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/)
+- [Babies born under sugar rationing grew into adults with lower cancer risk](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873)
+- [Python Polars Cheatsheet &lpar;based on our O&#39;Reilly book&rpar;](https://opensource.posit.co/resources/cheatsheets/polars/)
 - [NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions](https://github.com/pitiflautico/neobrowser)
+- [The Amazon Tax](https://seths.blog/2026/08/the-amazon-tax/)
 - [Fixing a Bricked Framework Laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
-- [Show HN: I canceled my AI code reviewer and wrote a free local one](https://github.com/mukundzha/avouch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
