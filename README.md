@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google wins bankruptcy auction for Spirit Airlines emails, chats, documents](https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy)
+- [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 - [scScript for Linux](https://scapplications.com/)
