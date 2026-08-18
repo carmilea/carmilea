@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude: Degraded Performance for Multiple Models](https://status.claude.com/incidents/q7txxvbsftgq)
+- [Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows](https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows)
+- [Degraded performance for multiple models](https://status.claude.com/incidents/q7txxvbsftgq)
+- [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
 - [Launch HN: machine0 &lpar;YC S26&rpar; – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
-- [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
 - [Show HN: Openleetcode – local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)
-- [Code-native generation of highly programmable 3D assets &lpar;2026&rpar;](https://arxiv.org/abs/2607.22738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
