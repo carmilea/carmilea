@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude writing a macOS driver for my obscure HP printer built only for Windows](https://twitter.com/kuberwastaken/status/2089377982536388964)
-- [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
-- [Google buys crashed airline Spirit&#39;s data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
-- [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
-- [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
+- [AI to help planes avoid climate-warming &#39;sky graffiti&#39;](https://www.bbc.com/news/articles/c62em5lpvnjo)
+- [A group of Gandalfs protest outside the home of Peter Thiel in Argentina](https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/)
+- [NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions](https://github.com/pitiflautico/neobrowser)
+- [Fixing a Bricked Framework Laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
+- [Show HN: I canceled my AI code reviewer and wrote a free local one](https://github.com/mukundzha/avouch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
