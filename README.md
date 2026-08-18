@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
+- [Flock impersonates journalist in order to cancel his hotel reservations](https://xcancel.com/bennjordan/status/2089430236945342508)
 - [Claude Code Teaching macOS to Natively Print to the HP Laser 1008a](https://cdn.kuber.studio/chat/hp-laser-1008a-driver)
-- [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)
-- [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
-- [IndieWeb Homebrew Website Club Asia Pacific: Reflections](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
-- [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
+- [Companies promote incompetent employees to management tolimit damage they can do](https://lawsofsoftwareengineering.com/laws/dilbert-principle/)
+- [Find Chicago Parking Cops](https://www.secondcitycitation.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
