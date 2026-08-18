@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I don&#39;t enjoy the Internet any more](https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/)
 - [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 - [scScript for Linux](https://scapplications.com/)
+- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
