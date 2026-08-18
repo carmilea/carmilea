@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows](https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows)
-- [Degraded performance for multiple models](https://status.claude.com/incidents/q7txxvbsftgq)
-- [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
-- [Launch HN: machine0 &lpar;YC S26&rpar; – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
-- [Show HN: Openleetcode – local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)
+- [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
+- [Turbovec – Google&#39;s TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
+- [Show HN: macOS data protection keychain for Electron apps](https://github.com/biw/keychain-store)
+- [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+- [Claude Code May–August 2026 weekly limits promotion](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
