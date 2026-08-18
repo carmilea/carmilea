@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When I worked at Apple, I remember seeing code that was 15 years old](https://twitter.com/sean_geiger/status/2089487682305216534)
+- [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
+- [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 - [Exercise intensity modulates interorgan communication and is associated with](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
 - [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
-- [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
-- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
-- [scScript for Linux](https://scapplications.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
