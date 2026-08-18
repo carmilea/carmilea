@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Code-native generation of highly programmable 3D assets &lpar;2026&rpar;](https://arxiv.org/abs/2607.22738)
+- [The coolest anti-surveillance tools at Defcon [video]](https://www.youtube.com/watch?v=-2uAsJ5EPAw)
+- [JPEG XL converter and .jxl viewer](https://jpegxlconvert.com/en/)
+- [An Engineer&#39;s Old Cooking Trick Is Going Viral, Divides the Internet](https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/)
 - [Babies born under sugar rationing grew into adults with lower cancer risk](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873)
-- [Python Polars Cheatsheet &lpar;based on our O&#39;Reilly book&rpar;](https://opensource.posit.co/resources/cheatsheets/polars/)
-- [NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions](https://github.com/pitiflautico/neobrowser)
-- [The Amazon Tax](https://seths.blog/2026/08/the-amazon-tax/)
-- [Fixing a Bricked Framework Laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
