@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
+- [Puppy PPE](http://amosdudley.com/weblog/Designing-PPE-for-Hilde)
 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 - [scScript for Linux](https://scapplications.com/)
-- [Colorado River plummets as lakes Powell and Mead drop to record lows](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
 - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
-- [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
 <!-- BLOG-POST-LIST:END -->
 
 ---
