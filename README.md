@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IndieWeb Homebrew Website Club Asia Pacific: Reflections](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
+- [US announces new sanctions on top ICC figures](https://www.bbc.com/news/articles/cnvnl0elz47o)
+- [Could Four Billion People Die at 3°C?](https://safeclimate.org.au/article/could-four-billion-people-die-at-3c/)
+- [Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](https://pantheongpu.com/)
 - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
-- [Turbovec – Google&#39;s TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
-- [Show HN: macOS data protection keychain for Electron apps](https://github.com/biw/keychain-store)
-- [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
-- [Claude Code May–August 2026 weekly limits promotion](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
