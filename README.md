@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
-- [Flock impersonates journalist in order to cancel his hotel reservations](https://xcancel.com/bennjordan/status/2089430236945342508)
-- [Claude Code Teaching macOS to Natively Print to the HP Laser 1008a](https://cdn.kuber.studio/chat/hp-laser-1008a-driver)
-- [Companies promote incompetent employees to management tolimit damage they can do](https://lawsofsoftwareengineering.com/laws/dilbert-principle/)
-- [Find Chicago Parking Cops](https://www.secondcitycitation.com)
+- [The Microsoft Rebrand Registry](https://www.msrebrandregistry.com/analysis.html)
+- [Who owns the code?](https://whoownsthecode.com/)
+- [AI usage patterns in software teams](https://linear.app/data)
+- [GLM-5.3 Artificial Analysis Benchmarks](https://artificialanalysis.ai/models/glm-5-3)
+- [fx :Tiny, open, native coding agent.](https://fx.sh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
