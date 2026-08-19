@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing MicroLighter](https://daverupert.com/2026/08/microlighter/)
-- [Openrouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
-- [Show HN: Frugal Tokens – explore costs and usage across coding agents](https://demo.frugaltokens.com/)
-- [Launch HN: OneCLI &lpar;YC S26&rpar; – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
-- [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
+- [Police officer used Flock cameras to track estranged wife 717 times](https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/)
+- [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
+- [Rules of Good Social Skills](https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/)
+- [Go 1.27](https://go.dev/blog/go1.27)
+- [The A.I. In Google&#39;s New Pixel 11 Is Not Helpful](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
