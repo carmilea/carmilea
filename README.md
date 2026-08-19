@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Launch HN: OneCLI &lpar;YC S26&rpar; – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
-- [Civic Hygiene – avoid building technologies that could be used by a police state](https://shkspr.mobi/blog/2013/11/civic-hygiene/)
-- [Remote workers report the highest well-being in study of 7,700 employees](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees)
-- [New Casio F-B100W – Upgrade to the iconic F-91W after 40 years](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)
-- [Mathematics in the Age of AI](https://arxiv.org/abs/2608.16753)
+- [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
+- [How Kubernetes Probes Work](https://ngrok.com/blog/probes)
+- [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
+- [Civic Hygiene – avoid building technologies that could be used by a police state &lpar;2013&rpar;](https://shkspr.mobi/blog/2013/11/civic-hygiene/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
