@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Microsoft Rebrand Registry](https://www.msrebrandregistry.com/analysis.html)
-- [Who owns the code?](https://whoownsthecode.com/)
-- [AI usage patterns in software teams](https://linear.app/data)
-- [GLM-5.3 Artificial Analysis Benchmarks](https://artificialanalysis.ai/models/glm-5-3)
-- [fx :Tiny, open, native coding agent.](https://fx.sh)
+- [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
+- [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
+- [Scientists stunned by children&#39;s lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
+- [Cerebras CS4](https://www.cerebras.ai/cs4)
+- [Why crypto&#39;s best infrastructure companies stopped looking like crypto?](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
