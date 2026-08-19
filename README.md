@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Collaborative Human Agent Protocol &lpar;CHAP&rpar;](https://github.com/BrightbeamAI/chap)
+- [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
 - [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
 - [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
-- [XWayland 26.1-rc1 Released Two Years After the Last Release](https://lists.x.org/archives/xorg/2026-August/062280.html)
-- [Digital Immortality](https://dogdogfish.com/blog/2026/08/19/digital-immortality/)
-- [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
+- [Xwayland 26.1.0 rc1](https://lists.x.org/archives/xorg/2026-August/062280.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
