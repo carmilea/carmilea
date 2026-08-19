@@ -62,7 +62,7 @@
 - [Meta&#39;s blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 - [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/)
 - [OpenLogi](https://openlogi.org/en)
-- [That Disgraceful, Disreputable, &lpar;Wonderful&rpar; Form of Punctuation: The Parenthesis](https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/)
+- [The Vietnam Binh Chau &lpar;Chau Tan&rpar; Late Tang Wreck](https://www.koh-antique.com/client/tangwreck/tangwreck.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
