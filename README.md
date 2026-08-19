@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
 - [The Mojo language &lpar;by Modular, now Qualcomm&rpar; is now open-source](https://www.modular.com/blog/modcon-announcements)
 - [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
 - [λλ: A Programming Language for Silicon Photonics](https://dl.acm.org/doi/10.1145/3789240.3829151)
 - [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
-- [Meta&#39;s blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
