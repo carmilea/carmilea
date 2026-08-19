@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Privacy focused client side password generator](https://password-generator.aaqa.dev/)
-- [Japan&#39;s Gen X workers are struggling](https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling)
-- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
-- [Meta&#39;s blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
-- [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/)
+- [The Mojo language &lpar;by Modular, now Qualcomm&rpar; is now open-source](https://www.modular.com/blog/modcon-announcements)
+- [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
+- [&quot;Sabotage&quot;: Experts, lawmakers blast RFK Jr. for destroying healthcare research](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/)
+- [Berd](https://berd.xyz)
+- [λλ: A Programming Language for Silicon Photonics](https://dl.acm.org/doi/10.1145/3789240.3829151)
 <!-- BLOG-POST-LIST:END -->
 
 ---
