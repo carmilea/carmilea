@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta&#39;s blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
+- [OpenLogi](https://openlogi.org/en)
+- [That Disgraceful, Disreputable, &lpar;Wonderful&rpar; Form of Punctuation: The Parenthesis](https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/)
 - [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
 - [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
-- [Scientists stunned by children&#39;s lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
-- [Cerebras CS4](https://www.cerebras.ai/cs4)
-- [Why crypto&#39;s best infrastructure companies stopped looking like crypto?](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
