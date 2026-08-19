@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Copper Shortage Threatens the Green Transition](https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html)
-- [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
+- [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
+- [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
+- [XWayland 26.1-rc1 Released Two Years After the Last Release](https://lists.x.org/archives/xorg/2026-August/062280.html)
+- [Digital Immortality](https://dogdogfish.com/blog/2026/08/19/digital-immortality/)
 - [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
-- [Ramp Launches a Model Router](https://router.com)
-- [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
