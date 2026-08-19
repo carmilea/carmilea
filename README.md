@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Privacy focused client side password generator](https://password-generator.aaqa.dev/)
+- [Japan&#39;s Gen X workers are struggling](https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling)
 - [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 - [Meta&#39;s blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 - [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/)
-- [OpenLogi](https://openlogi.org/en)
-- [The Vietnam Binh Chau &lpar;Chau Tan&rpar; Late Tang Wreck](https://www.koh-antique.com/client/tangwreck/tangwreck.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
