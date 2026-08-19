@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Proposal to prohibit vibe coded projects from being hosted on Sourcehut](https://lists.sr.ht/~sircmpwn/sr.ht-discuss/%3CDKSTMKM0ZD9N.2FTBDFREZH699@ddevault.org%3E)
 - [Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma](https://twitter.com/NoubarAfeyan/status/2090050162441752787)
 - [PostgreSQL for Everything](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
 - [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
 - [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
-- [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
