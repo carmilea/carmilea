@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma](https://twitter.com/NoubarAfeyan/status/2090050162441752787)
-- [PostgreSQL for Everything](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
-- [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
-- [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
-- [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
+- [Launch HN: OneCLI &lpar;YC S26&rpar; – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
+- [Civic Hygiene – avoid building technologies that could be used by a police state](https://shkspr.mobi/blog/2013/11/civic-hygiene/)
+- [Remote workers report the highest well-being in study of 7,700 employees](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees)
+- [New Casio F-B100W – Upgrade to the iconic F-91W after 40 years](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)
+- [Mathematics in the Age of AI](https://arxiv.org/abs/2608.16753)
 <!-- BLOG-POST-LIST:END -->
 
 ---
