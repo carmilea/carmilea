@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Mojo language &lpar;by Modular, now Qualcomm&rpar; is now open-source](https://www.modular.com/blog/modcon-announcements)
 - [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
-- [&quot;Sabotage&quot;: Experts, lawmakers blast RFK Jr. for destroying healthcare research](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/)
 - [λλ: A Programming Language for Silicon Photonics](https://dl.acm.org/doi/10.1145/3789240.3829151)
 - [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
+- [Meta&#39;s blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
