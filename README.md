@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
+- [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
 - [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
 - [The Mojo language &lpar;by Modular, now Qualcomm&rpar; is now open-source](https://www.modular.com/blog/modcon-announcements)
-- [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
 - [λλ: A Programming Language for Silicon Photonics](https://dl.acm.org/doi/10.1145/3789240.3829151)
-- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
