@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing MicroLighter](https://daverupert.com/2026/08/microlighter/)
+- [Openrouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+- [Show HN: Frugal Tokens – explore costs and usage across coding agents](https://demo.frugaltokens.com/)
 - [Launch HN: OneCLI &lpar;YC S26&rpar; – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
 - [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
-- [How Kubernetes Probes Work](https://ngrok.com/blog/probes)
-- [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
-- [Civic Hygiene – avoid building technologies that could be used by a police state &lpar;2013&rpar;](https://shkspr.mobi/blog/2013/11/civic-hygiene/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
