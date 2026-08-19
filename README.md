@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Police officer used Flock cameras to track estranged wife 717 times](https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/)
-- [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
-- [Rules of Good Social Skills](https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/)
-- [Go 1.27](https://go.dev/blog/go1.27)
-- [The A.I. In Google&#39;s New Pixel 11 Is Not Helpful](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)
+- [Copper Shortage Threatens the Green Transition](https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html)
+- [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
+- [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
+- [Ramp Launches a Model Router](https://router.com)
+- [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
