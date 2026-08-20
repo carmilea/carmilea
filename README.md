@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
+- [Generic Methods in Go 1.27](https://dominik.info/blog/go-generic-methods)
+- [Launch HN: Vendo &lpar;YC S26&rpar; – Let users build features on top of your product](https://github.com/runvendo/vendo)
 - [Clean up Claude 5&#39;s token vomit with a separate LLM](https://github.com/zachahn/vomit)
 - [Anti-AI fonts are useless and harmful](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
-- [Show HN: Open-source Stripe Connect alternative](https://zoneless.com)
-- [Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](https://pub.doub.ly/)
-- [An elliptic curve of rank ≥ 30](https://elliptic-rank.icarm.cloud/curve/273)
 <!-- BLOG-POST-LIST:END -->
 
 ---
