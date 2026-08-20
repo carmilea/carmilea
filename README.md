@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX](https://bitflash.network/)
+- [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
+- [Scientific study reveals TikTok videos deactivate key cognitive brain regions](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
+- [Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser](https://kandelo.dev/20260819-demo/)
+- [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
 - [Optimizing things in the USSR &lpar;2016&rpar;](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/)
-- [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
-- [Project Cybersyn](https://bactra.org/notebooks/cybersyn.html)
-- [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
