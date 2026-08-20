@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Harvest hikes bills by 1500% after purchased by Bending Spoons](https://www.bbc.com/news/articles/clyq011414eo)
+- [Clean up Claude 5&#39;s token vomit with a separate LLM](https://github.com/zachahn/vomit)
+- [Anti-AI fonts are useless and harmful](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+- [Show HN: Open-source Stripe Connect alternative](https://zoneless.com)
+- [Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](https://pub.doub.ly/)
 - [An elliptic curve of rank ≥ 30](https://elliptic-rank.icarm.cloud/curve/273)
-- [Bun 1.4](https://bun.com/blog/bun-v1.4)
-- [Hacking with Claude on a $27 Smart Watch](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html)
-- [Stwipe Acquires OpenWouter](https://stwipe.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
