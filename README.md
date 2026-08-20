@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
 - [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
-- [Citizen Devs: Everyone is an engineer now](https://www.massdriver.cloud/blogs/the-citizen-developer)
 - [Code as an Artifact](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
 - [The Wonders of the Male Human Pelvis](https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947)
 - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
