@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
+- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 - [Don&#39;t Paste the AI, please](https://dontpastetheai.com/)
 - [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 - [Turns are Better than Radians &lpar;2022&rpar;](https://www.computerenhance.com/p/turns-are-better-than-radians)
-- [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
-- [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
