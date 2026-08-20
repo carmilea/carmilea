@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sixtyfour &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern)
 - [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
+- [Linux 7.2 Released](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
 - [Generic Methods in Go 1.27](https://dominik.info/blog/go-generic-methods)
 - [Launch HN: Vendo &lpar;YC S26&rpar; – Let users build features on top of your product](https://github.com/runvendo/vendo)
-- [Clean up Claude 5&#39;s token vomit with a separate LLM](https://github.com/zachahn/vomit)
-- [Anti-AI fonts are useless and harmful](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
