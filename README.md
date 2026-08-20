@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Browser De-Slop](https://www.sacredheartsc.com/blog/browser-de-slop/)
-- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)
-- [Proof of Human &lpar;YC S23&rpar; Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
-- [Australia passes law to levy tech giants that fail to pay for local news](https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/)
-- [Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/)
+- [Harvest hikes bills by 1500% after purchased by Bending Spoons](https://www.bbc.com/news/articles/clyq011414eo)
+- [An elliptic curve of rank ≥ 30](https://elliptic-rank.icarm.cloud/curve/273)
+- [Bun 1.4](https://bun.com/blog/bun-v1.4)
+- [Hacking with Claude on a $27 Smart Watch](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html)
+- [Stwipe Acquires OpenWouter](https://stwipe.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
