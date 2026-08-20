@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
-- [Stop Eating Lady Gaga&#39;s Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
+- [Stop eating Lady Gaga&#39;s Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
 - [GitHub, autoscaling, and the component substitution fallacy](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
+- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
 - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
-- [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
