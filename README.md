@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
-- [Scientific study reveals TikTok videos deactivate key cognitive brain regions](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
-- [Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser](https://kandelo.dev/20260819-demo/)
-- [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
-- [Optimizing things in the USSR &lpar;2016&rpar;](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/)
+- [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
+- [Stop Eating Lady Gaga&#39;s Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
+- [GitHub, autoscaling, and the component substitution fallacy](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
+- [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
+- [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
