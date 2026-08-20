@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sixtyfour &lpar;YC P25&rpar; Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern)
-- [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
-- [Linux 7.2 Released](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
-- [Generic Methods in Go 1.27](https://dominik.info/blog/go-generic-methods)
-- [Launch HN: Vendo &lpar;YC S26&rpar; – Let users build features on top of your product](https://github.com/runvendo/vendo)
+- [Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX](https://bitflash.network/)
+- [Optimizing things in the USSR &lpar;2016&rpar;](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/)
+- [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
+- [Project Cybersyn](https://bactra.org/notebooks/cybersyn.html)
+- [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
