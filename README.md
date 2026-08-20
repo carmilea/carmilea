@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Paste the AI, please](https://dontpastetheai.com/)
 - [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 - [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
 - [Turns are Better than Radians &lpar;2022&rpar;](https://www.computerenhance.com/p/turns-are-better-than-radians)
 - [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
-- [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
