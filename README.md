@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I own 28,000 books – here&#39;s what I&#39;ve learned](https://www.shelvd.org/blog/28000-books)
+- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
+- [&#39;Ghost Job&#39; Ads Are Getting So Bad That Lawmakers Want to Ban Them](https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e)
 - [Remotely Unlocking Electric Scooters](https://henriemategui.com/post/remotely-unlocking-electric-scooters)
 - [SalesPatriot &lpar;YC W25&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
-- [Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
-- [Tumble Forth – from assembly to OS with C compiler](https://tumbleforth.hardcoded.net/)
-- [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
