@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SalesPatriot &lpar;YC W25&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 - [Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
-- [Church of the TigerBeetle: A Look at Tech Evangelism](https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html)
 - [Tumble Forth – from assembly to OS with C compiler](https://tumbleforth.hardcoded.net/)
 - [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
 - [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
