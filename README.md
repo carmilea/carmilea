@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Omacom Foundation Launches with $8M](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/)
-- [I Just Want to Search](https://www.0xsid.com/blog/just-want-to-search)
-- [How We Made a Text-to-Speech Model Respond in Sub-50 ms](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
-- [AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows](https://canews24.online/?p=71)
-- [Cancer-Related Mortality Among US Pilots and Flight Attendants](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504)
+- [LiteLLM &lpar;YC W23&rpar; Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
+- [Another Better Lower Bound for N=17 Square Packing](http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html)
+- [A self hosted AI software factory](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
+- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+- [What happens when a GPU reads memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
