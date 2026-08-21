@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The B-right/V R2 Operating System](http://tronweb.super-nova.co.jp/b-right-vr2intro.html)
-- [c100](https://caligra.com/c100/)
-- [Claudette: Make Claude Stop Talking Like a BuzzFeed Article](https://github.com/adnanakil/nobuzz/blob/main/README.md)
-- [What We Lost When Search Stopped Making Us Think](https://blog.8ball.space/what-we-lost-when-search/)
-- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
+- [Omacom Foundation Launches with $8M](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/)
+- [I Just Want to Search](https://www.0xsid.com/blog/just-want-to-search)
+- [How We Made a Text-to-Speech Model Respond in Sub-50 ms](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
+- [AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows](https://canews24.online/?p=71)
+- [Cancer-Related Mortality Among US Pilots and Flight Attendants](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
