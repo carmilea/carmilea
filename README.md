@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The B-right/V R2 Operating System](http://tronweb.super-nova.co.jp/b-right-vr2intro.html)
+- [c100](https://caligra.com/c100/)
+- [Claudette: Make Claude Stop Talking Like a BuzzFeed Article](https://github.com/adnanakil/nobuzz/blob/main/README.md)
 - [What We Lost When Search Stopped Making Us Think](https://blog.8ball.space/what-we-lost-when-search/)
-- [Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest](https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/)
 - [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
-- [Kodak&#39;s &quot;Pre-Invented&quot; Lunar Orbiter Camera; Or, the Fate of SAMOS Readout](https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/)
-- [Rama 0.4: System proxy and PAC support](https://plabayo.tech/blog/rama-0-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
