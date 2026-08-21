@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Religious Experience of Philip K. Dick by R. Crumb &lpar;1986&rpar;](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
+- [Japan tried to build an operating system for the world, the US intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
 - [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
 - [AI companies destroy physical books – let&#39;s scan rare books before it&#39;s too late](https://annas-archive.gl/blog/physical-destruction.html)
 - [There&#39;s no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
-- [Ox Alpha](https://openrouter.ai/stealth/ox-alpha)
-- [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
