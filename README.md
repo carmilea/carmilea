@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Lost Treasure of Sid Meier&#39;s Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
+- [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
+- [Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](https://Argentic.network)
 - [The Religious Experience of Philip K. Dick by R. Crumb &lpar;1986&rpar;](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
-- [Japan tried to build an operating system for the world, the US intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
-- [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
-- [AI companies destroy physical books – let&#39;s scan rare books before it&#39;s too late](https://annas-archive.gl/blog/physical-destruction.html)
-- [There&#39;s no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
+- [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
