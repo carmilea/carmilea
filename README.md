@@ -62,7 +62,7 @@
 - [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
 - [Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](https://Argentic.network)
 - [The Religious Experience of Philip K. Dick by R. Crumb &lpar;1986&rpar;](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
-- [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
+- [Japan tried to build an operating system for the world, the US intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
