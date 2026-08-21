@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It is a sign of the times that Amazon gets to call this fair use](http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html)
+- [There&#39;s no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
+- [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
+- [Stealth Model](https://openrouter.ai/stealth/ox-alpha)
 - [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
-- [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
-- [Code as an Artifact](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
-- [The Wonders of the Male Human Pelvis](https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947)
-- [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
