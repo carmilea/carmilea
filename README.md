@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
+- [Church of the TigerBeetle: A Look at Tech Evangelism](https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html)
+- [Tumble Forth – from assembly to OS with C compiler](https://tumbleforth.hardcoded.net/)
+- [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
 - [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
-- [Rebuilding our Electron meeting-recording engine in Swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
-- [Galactic Compass 2: now with new augmented reality mode](https://interconnected.org/home/2026/08/21/galactic)
-- [LiteLLM &lpar;YC W23&rpar; Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
-- [Another better lower bound for n=17 square packing](http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
