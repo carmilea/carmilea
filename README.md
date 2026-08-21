@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
+- [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
+- [Kino: A high-performance Ractor web server for Ruby 4.0](https://github.com/yaroslav/kino)
 - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
-- [Small, native web tricks worth remembering](https://htmlcat.net/)
-- [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)
-- [The Lost Treasure of Sid Meier&#39;s Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
-- [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
+- [AI companies destroy physical books – let&#39;s scan rare books before it&#39;s too late](https://annas-archive.pk/blog/physical-destruction.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
