@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
 - [Small, native web tricks worth remembering](https://htmlcat.net/)
-- [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
+- [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)
 - [The Lost Treasure of Sid Meier&#39;s Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
 - [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
-- [The Religious Experience of Philip K. Dick by R. Crumb &lpar;1986&rpar;](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
