@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence Policy](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
+- [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
+- [AI companies destroy physical books – let&#39;s scan rare books before it&#39;s too late](https://annas-archive.gl/blog/physical-destruction.html)
 - [There&#39;s no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
-- [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
-- [Stealth Model](https://openrouter.ai/stealth/ox-alpha)
-- [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
+- [Ox Alpha](https://openrouter.ai/stealth/ox-alpha)
+- [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
