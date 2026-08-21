@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
-- [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
-- [Kino: A high-performance Ractor web server for Ruby 4.0](https://github.com/yaroslav/kino)
-- [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
-- [AI companies destroy physical books – let&#39;s scan rare books before it&#39;s too late](https://annas-archive.pk/blog/physical-destruction.html)
+- [What We Lost When Search Stopped Making Us Think](https://blog.8ball.space/what-we-lost-when-search/)
+- [Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest](https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/)
+- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
+- [Kodak&#39;s &quot;Pre-Invented&quot; Lunar Orbiter Camera; Or, the Fate of SAMOS Readout](https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/)
+- [Rama 0.4: System proxy and PAC support](https://plabayo.tech/blog/rama-0-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
