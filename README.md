@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Debt-to-GDP Ratio](https://www.us-debt-clock.com/debt-to-gdp)
 - [There&#39;s no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
 - [HN: The Good Parts &lpar;2016&rpar;](https://danluu.com/hn-comments/)
 - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
-- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
