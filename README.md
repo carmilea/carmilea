@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I own 28,000 books – here&#39;s what I&#39;ve learned](https://www.shelvd.org/blog/28000-books)
+- [There&#39;s no reason for software to be slow anymore](https://danluu.com/perf-opt/)
+- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
+- [HN: The Good Parts &lpar;2016&rpar;](https://danluu.com/hn-comments/)
+- [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
 - [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
-- [&#39;Ghost Job&#39; Ads Are Getting So Bad That Lawmakers Want to Ban Them](https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e)
-- [Remotely Unlocking Electric Scooters](https://henriemategui.com/post/remotely-unlocking-electric-scooters)
-- [SalesPatriot &lpar;YC W25&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
