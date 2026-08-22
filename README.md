@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
+- [Htmx live is cool. Datastar is fast. This cow is raw and strong](https://stario.dev/ox)
+- [Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+- [Learning about &quot;The Unix Time-Sharing System&quot;](https://playtechnique.io/long/the-unix-time-sharing-system.html)
 - [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
-- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
-- [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
-- [A Kantian Critique of &quot;Sorry&quot; by Justin Bieber](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/)
-- [Hook, hold, harvest and hide: Meta&#39;s alleged strategy laid out in first week](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
