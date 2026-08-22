@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada will match US tariffs &#39;dollar for dollar&#39; as trade talks break down](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
 - [There&#39;s no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
 - [HN: The Good Parts &lpar;2016&rpar;](https://danluu.com/hn-comments/)
 - [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
+- [SalesPatriot &lpar;YC W25&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
