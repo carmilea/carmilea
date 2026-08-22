@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
-- [Htmx live is cool. Datastar is fast. This cow is raw and strong](https://stario.dev/ox)
-- [Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
-- [Learning about &quot;The Unix Time-Sharing System&quot;](https://playtechnique.io/long/the-unix-time-sharing-system.html)
 - [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
+- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
+- [Chinese robot runs 100M sprint quicker than Usain Bolt&#39;s world record](https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record)
+- [New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
