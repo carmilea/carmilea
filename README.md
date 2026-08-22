@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Knowing When to Stop: The Art of Making a Loop Converge](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)
+- [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
 - [English ↔ Claudish Translator](https://programasweights.com/claudish)
 - [NetBSD and My Life &lpar;2005&rpar;](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
-- [Show HN: Make your logo extra bright on HDR screens](https://www.soverybright.com/)
-- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
 <!-- BLOG-POST-LIST:END -->
 
 ---
