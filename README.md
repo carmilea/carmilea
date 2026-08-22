@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Debt-to-GDP Ratio](https://www.us-debt-clock.com/debt-to-gdp)
+- [Early Humans Likely Ate Carbs and Sugary Foods](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
 - [There&#39;s no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
 - [HN: The Good Parts &lpar;2016&rpar;](https://danluu.com/hn-comments/)
