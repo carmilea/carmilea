@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
+- [A Kantian Critique of &quot;Sorry&quot; by Justin Bieber](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/)
 - [Hook, hold, harvest and hide: Meta&#39;s alleged strategy laid out in first week](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
+- [A formal degree and algorithmic problem-solving is the answer. Always has been](https://zaksa.zip/blog/formal-education-is-the-answer/)
 - [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
-- [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
-- [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
-- [There&#39;s no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
