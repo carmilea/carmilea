@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
+- [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
+- [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
 - [There&#39;s no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
-- [HN: The Good Parts &lpar;2016&rpar;](https://danluu.com/hn-comments/)
-- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
-- [SalesPatriot &lpar;YC W25&rpar; Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
