@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [4 in 10 travellers visit tourist sites to capture social media content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
+- [GPT 5.6 Sol 20% price reduction](https://developers.openai.com/api/docs/models/gpt-5.6-sol)
 - [There&#39;s no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
 - [HN: The Good Parts &lpar;2016&rpar;](https://danluu.com/hn-comments/)
