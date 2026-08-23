@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html)
+- [Wi-Fi 8 is the first wireless upgrade in years that isn&#39;t chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
+- [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
+- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 - [The Golden Rule for Becoming a Better Writer](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
 - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
-- [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
-- [The Art and Beauty of Blade Runner](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
