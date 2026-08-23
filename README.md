@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html)
+- [The Golden Rule for Becoming a Better Writer](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
 - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
 - [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
 - [The Art and Beauty of Blade Runner](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
-- [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
-- [NetBSD and my life &lpar;2005&rpar;](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
