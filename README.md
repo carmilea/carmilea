@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;The Nerd Reich&#39; tracks the &#39;unmasking of Silicon Valley&#39;s true politics&#39;](https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics)
-- [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
+- [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
+- [Google Workspace thinks my domain is an email provider](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
+- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
 - [Fable and the End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)
 - [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
-- [Say It Four Times &lpar;In Your System Prompt&rpar;](https://www.khola.blog/p/say-it-four-times)
 <!-- BLOG-POST-LIST:END -->
 
 ---
