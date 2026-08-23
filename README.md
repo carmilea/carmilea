@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
+- [Iranian hackers shut down UK power plant for 4 days](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
+- [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
 - [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
-- [Doomscrolling at work wastes time, but the real cost is what happens after](https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/)
-- [Wi-Fi 8 is the first wireless upgrade in years that isn&#39;t chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
-- [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
-- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
+- [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
