@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Engineering in the Agentic Era](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)
+- [US Military newspaper editor voices censorship fears after being fired](https://www.bbc.com/news/articles/cm2g23ng8p4o)
 - [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
-- [English ↔ Claudish Translator](https://programasweights.com/claudish)
 - [NetBSD and my life &lpar;2005&rpar;](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
-- [Show HN: Make your logo extra bright on HDR screens](https://www.soverybright.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
