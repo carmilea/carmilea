@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Planet Now Has More Trees Than It Did 35 Years Ago](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
+- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
+- [The planet now has more trees than it did 35 years ago &lpar;2018&rpar;](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
 - [A complex structure on S^6 [pdf]](https://alpo.ge/s6.pdf)
-- [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
-- [Training AI to Paint with Code](https://surya.website/rling-qwen-to-paint-with-code)
-- [Google Workspace thinks my domain is an email provider](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
+- [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake)
+- [Residential proxies scraping your site? Drain their bandwidth](https://layer3intel.com/blog/residential-proxy-bandwidth-drain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
