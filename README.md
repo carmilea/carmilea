@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coconut Oil Jet Fuel Matches Kerosene&#39;s Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
+- [Universal Housing](https://twitter.com/christianreber/status/2091532545577849008)
+- [How Complex Systems Fail](https://how.complexsystems.fail/)
+- [Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi](https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/)
 - [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
-- [Authoritarianism of Code](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
-- [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
-- [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
-- [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
