@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tragically, as many as 9625 out of every 10k individuals may be neurotypical](https://erikengdahl.se/autism/isnt/)
 - [Wi-Fi 8 is the first wireless upgrade in years that isn&#39;t chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 - [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
 - [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 - [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
-- [Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
