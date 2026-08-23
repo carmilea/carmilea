@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
+- [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
+- [The Art and Beauty of Blade Runner](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
 - [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
 - [NetBSD and my life &lpar;2005&rpar;](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
-- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
-- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
-- [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
