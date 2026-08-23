@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Obituary for Dr Tim King, Tripos, AmigaOS, Helios and UK Online Pioneer](https://www.theregister.com/software/2026/08/18/tim-king-amigados-royalty-dies-aged-70/5289101)
+- [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
+- [Anthropic&#39;s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+- [Explain it to me like I&#39;m ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
+- [Dutch regulator fines Uber $966M for automating driver suspensions](https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions)
 - [We must not grant AI agents legal personhood](https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473)
-- [A website for debloated open source alternatives](https://debloat.dev/)
-- [GLM-5.3 &lpar;open-weight&rpar; beat Anthropic/OpenAI models – for 1/5 the cost](https://reinvently.co.uk/tools/ed-o-meter/)
-- [Why Sal Khan&#39;t: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
