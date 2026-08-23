@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Nerd Reich&#39; tracks the &#39;unmasking of Silicon Valley&#39;s true politics&#39;](https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics)
+- [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
+- [Fable and the End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)
 - [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
-- [Anthropic&#39;s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
-- [Explain it to me like I&#39;m ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
-- [Dutch regulator fines Uber $966M for automating driver suspensions](https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions)
-- [We must not grant AI agents legal personhood](https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473)
+- [Say It Four Times &lpar;In Your System Prompt&rpar;](https://www.khola.blog/p/say-it-four-times)
 <!-- BLOG-POST-LIST:END -->
 
 ---
