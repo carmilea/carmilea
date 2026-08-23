@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A website for debloated open source alternatives](https://debloat.dev/)
+- [GLM-5.3 &lpar;open-weight&rpar; beat Anthropic/OpenAI models – for 1/5 the cost](https://reinvently.co.uk/tools/ed-o-meter/)
+- [Why Sal Khan&#39;t: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
 - [Coconut Oil Jet Fuel Matches Kerosene&#39;s Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
-- [Universal Housing](https://twitter.com/christianreber/status/2091532545577849008)
-- [How Complex Systems Fail](https://how.complexsystems.fail/)
-- [Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi](https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/)
-- [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
+- [How Complex Systems Fail &lpar;1998&rpar;](https://how.complexsystems.fail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
