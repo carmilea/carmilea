@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Planet Now Has More Trees Than It Did 35 Years Ago](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
+- [A complex structure on S^6 [pdf]](https://alpo.ge/s6.pdf)
 - [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
+- [Training AI to Paint with Code](https://surya.website/rling-qwen-to-paint-with-code)
 - [Google Workspace thinks my domain is an email provider](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
-- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
-- [Fable and the End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)
-- [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
