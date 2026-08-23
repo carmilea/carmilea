@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
+- [Authoritarianism of Code](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
+- [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
 - [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
 - [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
-- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
-- [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
-- [Iranian hackers shut down UK power plant for 4 days](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
