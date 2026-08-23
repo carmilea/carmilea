@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering in the Agentic Era](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)
-- [US Military newspaper editor voices censorship fears after being fired](https://www.bbc.com/news/articles/cm2g23ng8p4o)
 - [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
 - [NetBSD and my life &lpar;2005&rpar;](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
+- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
+- [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
