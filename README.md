@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
-- [OpenAI: GPT 5.6 Sol price reduction &lpar;until at least Nov 21&rpar;](https://developers.openai.com/api/docs/pricing)
-- [Anna&#39;s Archive Owes $340 Million, Lost Several Domains, but It&#39;s Still Online](https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/)
-- [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
-- [Hot Chips 2026: Applying High Bandwidth Flash &lpar;HBF&rpar;](https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth)
+- [A Practical Intuition for C++20 Coroutines](https://blog.ydb.tech/making-coroutines-routine-building-a-scalable-tpc-c-client-in-c-b14f55a09471?postPublishedType=repub)
+- [Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3](https://github.com/ovenpasta/adi2)
+- [Public services are increasingly strained by LLM-written appeals for benefits](https://arxiv.org/abs/2608.16603)
+- [A Server Lost Power at 00:32. We Found Out at 08:18](https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026)
+- [a Blackstone real estate company exposed SSN digits, DOBs, addresses and more](https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
