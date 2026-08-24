@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fastmail Pricing Changes](https://www.fastmail.com/pricing/us/)
+- [Nearly 3M Teslas recalled in China over hidden door handles](https://www.bbc.com/news/articles/c4g6ggdg030o)
+- [Former OC actor Ben McKenzie on crusade to take down &#39;stupid&#39; cryptocurrency](https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency)
 - [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)
-- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
-- [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
-- [The planet now has more trees than it did 35 years ago &lpar;2018&rpar;](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
+- [The first search engine for Internet-connected devices](https://www.shodan.io/)
+- [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
