@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
+- [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
 - [The planet now has more trees than it did 35 years ago &lpar;2018&rpar;](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
 - [A complex structure on S^6 [pdf]](https://alpo.ge/s6.pdf)
 - [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake)
-- [Residential proxies scraping your site? Drain their bandwidth](https://layer3intel.com/blog/residential-proxy-bandwidth-drain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
