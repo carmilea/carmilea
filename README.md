@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
 - [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
 - [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
 - [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](https://github.com/getkern/kern)
 - [Your &quot;File&quot; Menu Isn&#39;t About Files](https://adam.farkas.pro/your-file-menu-isnt-about-files/)
-- [Technology Is Over](https://www.taylorforeman.com/p/technology-is-over)
 <!-- BLOG-POST-LIST:END -->
 
 ---
