@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The treasury bond mess: is this the demise of the US as a safe haven?](https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt)
+- [Ask HN: Those making $500/month on side projects in 2026 – Show and tell](https://news.ycombinator.com/item?id=49417766)
 - [Woman stranded in Spain after UK&#39;s eVisa system mistakes her for twin sister](https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister)
 - [The Future Belongs to the Weird](https://essays.georgestrakhov.com/weird/)
 - [Fast drilldown dashboards from a single Parquet file](https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/)
-- [Over 5,200 Ebola cases recorded in Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration)
-- [Andreessen Horowitz is investing billions into a bleak future](https://www.modelrepublic.org/articles/a16z-portfolio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
