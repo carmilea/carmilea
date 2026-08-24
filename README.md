@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Intuition for C++20 Coroutines](https://blog.ydb.tech/making-coroutines-routine-building-a-scalable-tpc-c-client-in-c-b14f55a09471?postPublishedType=repub)
-- [Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3](https://github.com/ovenpasta/adi2)
-- [Public services are increasingly strained by LLM-written appeals for benefits](https://arxiv.org/abs/2608.16603)
-- [A Server Lost Power at 00:32. We Found Out at 08:18](https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026)
-- [a Blackstone real estate company exposed SSN digits, DOBs, addresses and more](https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure)
+- [Where Did All the Public Bathrooms Go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/)
+- [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
+- [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc)
+- [EuroHPC Launches 6 Quantum Calls with €119M in Funding](https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/)
+- [Man Dressed as Darth Vader Defends Flock Cameras to San Diego City Council](https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
