@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why do corporate failures always seem to punish the wrong people?](https://news.ycombinator.com/item?id=49418675)
-- [Anthropic candidates face blunt money question](https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question)
+- [Show HN: A techno machine in one HTML file, with verifiable renders](https://ssx360.github.io/rack-02/?src=hn)
+- [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
 - [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)
+- [Why older tech is sometimes safer from hackers](https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers)
 - [Agent Is Not the Model](https://code.joejag.com/2026/your-agent-is-not-the-model.html)
-- [Omakase Computing](https://learn.omacom.io/3/omacom/76/omakase-computing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
