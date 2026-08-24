@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
 - [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
 - [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
 - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
 - [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
-- [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
 <!-- BLOG-POST-LIST:END -->
 
 ---
