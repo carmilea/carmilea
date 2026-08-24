@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA clears blood test to aid evaluation for Alzheimer&#39;s disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
-- [OCR It – pull text out of un-copyable documents for your LLM](https://github.com/thiagotigaz/ocr-it)
-- [New EU-wide product repair rules come into force](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/)
-- [Elevated Errors for Multiple Models](https://status.claude.com/incidents/vgz5psbjmt1h)
-- [Former OC actor Ben McKenzie on crusade to take down &#39;stupid&#39; cryptocurrency](https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency)
+- [We are not going anywhere](https://gist.github.com/omeid/a9d6d1e3c25cb3aa577931e60e006f54)
+- [The Work Number: credit score but for your employment history – by Equifax](https://employees.theworknumber.com)
+- [Over 5,200 Ebola cases recorded in Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration)
+- [Andreessen Horowitz is investing billions into a bleak future](https://www.modelrepublic.org/articles/a16z-portfolio)
+- [Anthropic Claude and API service outages](https://status.claude.com/uptime)
 <!-- BLOG-POST-LIST:END -->
 
 ---
