@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A techno machine in one HTML file, with verifiable renders](https://ssx360.github.io/rack-02/?src=hn)
-- [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
-- [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)
-- [Why older tech is sometimes safer from hackers](https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers)
-- [Agent Is Not the Model](https://code.joejag.com/2026/your-agent-is-not-the-model.html)
+- [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
+- [OpenAI: GPT 5.6 Sol price reduction &lpar;until at least Nov 21&rpar;](https://developers.openai.com/api/docs/pricing)
+- [Anna&#39;s Archive Owes $340 Million, Lost Several Domains, but It&#39;s Still Online](https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/)
+- [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
+- [Hot Chips 2026: Applying High Bandwidth Flash &lpar;HBF&rpar;](https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
