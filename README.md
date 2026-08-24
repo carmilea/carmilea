@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where Did All the Public Bathrooms Go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/)
-- [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
-- [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc)
-- [EuroHPC Launches 6 Quantum Calls with €119M in Funding](https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/)
-- [Man Dressed as Darth Vader Defends Flock Cameras to San Diego City Council](https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance/)
+- [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
+- [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
+- [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](https://github.com/getkern/kern)
+- [Your &quot;File&quot; Menu Isn&#39;t About Files](https://adam.farkas.pro/your-file-menu-isnt-about-files/)
+- [Technology Is Over](https://www.taylorforeman.com/p/technology-is-over)
 <!-- BLOG-POST-LIST:END -->
 
 ---
