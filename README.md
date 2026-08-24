@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearly 3M Teslas recalled in China over hidden door handles](https://www.bbc.com/news/articles/c4g6ggdg030o)
-- [This Fact About KPIs May Surprise You](https://www.satisfice.com/blog/archives/488189)
+- [FDA clears blood test to aid evaluation for Alzheimer&#39;s disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+- [OCR It – pull text out of un-copyable documents for your LLM](https://github.com/thiagotigaz/ocr-it)
+- [New EU-wide product repair rules come into force](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/)
+- [Elevated Errors for Multiple Models](https://status.claude.com/incidents/vgz5psbjmt1h)
 - [Former OC actor Ben McKenzie on crusade to take down &#39;stupid&#39; cryptocurrency](https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency)
-- [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)
-- [The first search engine for Internet-connected devices](https://www.shodan.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
