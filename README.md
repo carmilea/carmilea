@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clara &lpar;YC P26&rpar; Is Hiring a Growth Engineer to Bring AI Doctors to Market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
-- [Lightweight system monitor for Linux VPS written in Go](https://github.com/leodeim/vpsmon)
-- [Nitter project received cease and desist](https://github.com/zedeus/nitter/issues/1442)
-- [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
-- [A new ceiling for Λ: the de Bruijn–Newman constant is at most 0.1787854](https://www.judegomila.com/posts/riemann-lambda-0.1787854)
+- [Pgbot: A 5.9 MB read-only Postgres tool for humans and agents](https://pgbot.dev/)
+- [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
+- [Firefox 157 will include JPEG XL by default on all platforms](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
+- [Clara &lpar;YC P26&rpar; is hiring a growth engineer to bring AI doctors to market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
+- [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
