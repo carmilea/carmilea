@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How much of HN is AI?](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
+- [Beyond Good and Evil: Nietzsche and the Great War](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
+- [AI is hitting entry-level jobs hardest, Stanford study finds](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 - [Bomb Fishing Is Wreaking Havoc on Indonesia&#39;s Coral Reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
 - [Building a backyard office, the build and cost breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown)
-- [MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it](https://www.erathos.com/en/blog/mysql-cdc-to-bigquery)
-- [Anthropic tells staff to work from home due to possible security team strike](https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8)
-- [The state of AI in 2026: On the road to ROI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
