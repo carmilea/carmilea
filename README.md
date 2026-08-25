@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool](https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN)
+- [More Fucked Today Than Yesterday](https://climatecasino.substack.com/p/more-fucked-today-than-yesterday)
+- [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
 - [Python&#39;s pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
 - [XCancel also down, at least for time being](https://news.ycombinator.com/item?id=49440786)
 - [When str.lower&lpar;&rpar; is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
-- [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
