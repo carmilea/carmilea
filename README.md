@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic Sees over $30T in Potential Revenue](https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea)
 - [How much of HN is AI?](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 - [Beyond Good and Evil: Nietzsche and the Great War](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
 - [AI is hitting entry-level jobs hardest, Stanford study finds](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 - [Bomb Fishing Is Wreaking Havoc on Indonesia&#39;s Coral Reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
-- [Building a backyard office, the build and cost breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
