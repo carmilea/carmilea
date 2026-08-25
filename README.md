@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What languages are agent skills written in?](https://plicara.ai/research/agent-skill-languages/)
+- [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
 - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
-- [Moon](https://ciechanow.ski/moon/)
+- [Moon &lpar;2024&rpar;](https://ciechanow.ski/moon/)
 - [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
-- [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
-- [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
