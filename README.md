@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)
+- [Volcanoes that made history](https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history)
 - [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
 - [SiFive&#39;s First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform)
 - [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
-- [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
