@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rupert Lowe set to be paid as much for divisive posts on X as for being MP](https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk)
+- [Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)
 - [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
-- [Ask HN: Good large format &lpar;&gt;20 inches&rpar; touchscreen E-Paper display options?](https://news.ycombinator.com/item?id=49428842)
+- [SiFive&#39;s First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform)
 - [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
-- [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
-- [Was modern art a CIA psy-op? &lpar;2020&rpar;](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
