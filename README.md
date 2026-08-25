@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum battery upends the rules of charging](https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets)
-- [Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)
-- [Screen viewing time from age 1 to 8 years and subsequent academic performance](https://link.springer.com/article/10.1007/s12519-026-01046-1)
-- [Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)
-- [Volcanoes that made history](https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history)
+- [France&#39;s tax agency got hacked &lpar;in French&rpar;](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/)
+- [OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users](https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/)
+- [Don&#39;t Wordle](https://dontwordle.com/)
+- [HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly)
+- [Credit Card Rewards Became a $9.2B Wealth Transfer](https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
