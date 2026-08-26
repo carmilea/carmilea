@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Risklytics &lpar;YC S26&rpar; – Insurance brokerage for frontier tech companies](https://www.risklytics.ai/)
-- [Tim Curry, Star of Rocky Horror Picture Show and Stephen King&#39;s It, Dies Aged 80](https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film)
-- [It&#39;s so hard to finish an idea that is not yours &lpar;and suggested by AI&rpar;](https://www.ssp.sh/brain/using-obsidian-with-ai/)
-- [Disruption with Some GitHub Services](https://www.githubstatus.com/incidents/hcbtzksccj2f)
-- [Show HN: TexLite – A lightweight self-hosted LaTeX workspace](https://github.com/SWUFE-DB-Group/TexLite)
+- [Designation of Autistici/Inventati as a Specially Designated Global Terrorist](https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/)
+- [Study Reveals UnitedHealth&#39;s Profit Margins Four Times What It Claimed [pdf]](https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf)
+- [The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada](https://thetariffcost.com/)
+- [Tailcat](https://github.com/tailscale/tailcat)
+- [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
