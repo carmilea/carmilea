@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Designation of Autistici/Inventati as a Specially Designated Global Terrorist](https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/)
-- [Study Reveals UnitedHealth&#39;s Profit Margins Four Times What It Claimed [pdf]](https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf)
-- [The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada](https://thetariffcost.com/)
-- [Tailcat](https://github.com/tailscale/tailcat)
-- [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/)
+- [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
+- [mold: A Parallel Linker](https://arxiv.org/abs/2608.23228)
+- [IBM Unveils Next Generation Dual-Architecture Processor](https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone)
+- [Serve Markdown to AI Agents with Accept Headers](https://acceptmarkdown.com/)
+- [GitHub Outage Tracker: Is GitHub Cooked?](https://isgithubcooked.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
