@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Makes Your Supplements?](https://www.worseonpurpose.com/p/who-actually-makes-your-supplements)
-- [Twitter Viewer – View Twitter Without Account](https://twitterwebviewer.com/)
-- [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
-- [AI Is a Harsh Mistress](https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/)
-- [Meta reaches $16.68B settlement over social media harms to children](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/)
+- [Launch HN: Risklytics &lpar;YC S26&rpar; – Insurance brokerage for frontier tech companies](https://www.risklytics.ai/)
+- [Tim Curry, Star of Rocky Horror Picture Show and Stephen King&#39;s It, Dies Aged 80](https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film)
+- [It&#39;s so hard to finish an idea that is not yours &lpar;and suggested by AI&rpar;](https://www.ssp.sh/brain/using-obsidian-with-ai/)
+- [Disruption with Some GitHub Services](https://www.githubstatus.com/incidents/hcbtzksccj2f)
+- [Show HN: TexLite – A lightweight self-hosted LaTeX workspace](https://github.com/SWUFE-DB-Group/TexLite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
