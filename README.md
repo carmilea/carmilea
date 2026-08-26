@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Letter from Dolly Parton to Eminem](https://twitter.com/Eminem/status/2092367272891310482)
+- [The brain may be about to have its Ozempic moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 - [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
 - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
 - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
-- [Python&#39;s pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
-- [When str.lower&lpar;&rpar; is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
