@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A curmudgeon tries a language server](https://entropicthoughts.com/curmudgeon-tries-language-server)
-- [Bill Gates: The turbulent AI era is here](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make)
-- [X sends in the lawyers to shut down open source project](https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548)
-- [Merchants of Insecurity](https://blog.happyfellow.dev/merchants-of-insecurity/)
-- [Fake US thinktank set up and funded by Israel sought to game AI for propaganda](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
+- [Who Makes Your Supplements?](https://www.worseonpurpose.com/p/who-actually-makes-your-supplements)
+- [Twitter Viewer – View Twitter Without Account](https://twitterwebviewer.com/)
+- [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
+- [AI Is a Harsh Mistress](https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/)
+- [Meta reaches $16.68B settlement over social media harms to children](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
