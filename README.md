@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise AI Will Be a Network, Not a Monolith](https://www.singlestore.com/blog/enterprise-ai-will-be-a-network-not-a-monolith)
-- [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
-- [Graph database or distributed SQL for identity resolution?](https://www.singlestore.com/blog/graph-vs-distributed-identity)
-- [Serving advertiser dashboards to thousands of partners at once](https://www.singlestore.com/blog/advertiser-dashboard-concurrency)
-- [The Token Tax: Why Your Model Shouldn’t Be Doing the Database’s Job](https://www.singlestore.com/blog/why-your-llm-shouldnt-do-database-jobs)
+- [Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests](https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026)
+- [Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503)
+- [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
+- [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
+- [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
