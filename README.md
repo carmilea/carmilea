@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Letter from Dolly Parton to Eminem](https://twitter.com/Eminem/status/2092367272891310482)
-- [The brain may be about to have its Ozempic moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
-- [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
-- [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
-- [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
+- [Enterprise AI Will Be a Network, Not a Monolith](https://www.singlestore.com/blog/enterprise-ai-will-be-a-network-not-a-monolith)
+- [Feeding fresh context to the models that spend the money](https://www.singlestore.com/blog/fresh-context-ad-models)
+- [Graph database or distributed SQL for identity resolution?](https://www.singlestore.com/blog/graph-vs-distributed-identity)
+- [Serving advertiser dashboards to thousands of partners at once](https://www.singlestore.com/blog/advertiser-dashboard-concurrency)
+- [The Token Tax: Why Your Model Shouldn’t Be Doing the Database’s Job](https://www.singlestore.com/blog/why-your-llm-shouldnt-do-database-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
