@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+- [Nobody Wants Artisanal Code Anymore](https://gordonbeeming.com/blog/2026-04-29/nobody-wants-artisanal-code-anymore)
+- [Social media use on the rise among Australian under-16s after ban: data](https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data)
 - [Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY](https://www.globalsolo.global/data/banking-access-index)
 - [Value Classes Still Need Compiler Sympathy](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/)
-- [Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/)
-- [RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think)
-- [Show HN: Buslens – where can I get to by bus? &lpar;UK&rpar;](https://rupertlinacre.com/buslens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
