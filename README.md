@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US removes Syria from terrorism sponsor list, lifting major investment obstacle](https://www.reuters.com/world/middle-east/us-removes-syrias-designation-state-sponsor-terrorism-2026-08-24/)
+- [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
 - [More than half of adults in U.S. say they lack basic statistical understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
 - [Harvest &lpar;IBM 7950&rpar;: Supercomputer for cryptanalysis at the NSA in the Cold War](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
 - [Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503)
-- [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
-- [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
