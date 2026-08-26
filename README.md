@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests](https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026)
+- [More than half of adults in U.S. say they lack basic statistical understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
+- [Secret Cold War IBM Supercomputer Was Built for One Job](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
 - [Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503)
 - [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
 - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
-- [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
