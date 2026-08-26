@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [More than half of adults in U.S. say they lack basic statistical understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
-- [Secret Cold War IBM Supercomputer Was Built for One Job](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
+- [Harvest &lpar;IBM 7950&rpar;: Supercomputer for cryptanalysis at the NSA in the Cold War](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
 - [Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503)
 - [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
 - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
