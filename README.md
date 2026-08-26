@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More Fucked Today Than Yesterday](https://climatecasino.substack.com/p/more-fucked-today-than-yesterday)
+- [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
+- [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
 - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
 - [Python&#39;s pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
-- [XCancel also down, at least for time being](https://news.ycombinator.com/item?id=49440786)
 - [When str.lower&lpar;&rpar; is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
 <!-- BLOG-POST-LIST:END -->
 
