@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. gov&#39;t moves to suppress pushback on data centers](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
-- [It&#39;s Not the End of Programming](https://mathstodon.xyz/@abuseofnotation/117161292083848755)
-- [Beyond Recall and the Illusion of Competence](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html)
-- [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
-- [Social media use on the rise among Australian under-16s after ban: data](https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data)
+- [A curmudgeon tries a language server](https://entropicthoughts.com/curmudgeon-tries-language-server)
+- [Bill Gates: The turbulent AI era is here](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make)
+- [X sends in the lawyers to shut down open source project](https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548)
+- [Merchants of Insecurity](https://blog.happyfellow.dev/merchants-of-insecurity/)
+- [Fake US thinktank set up and funded by Israel sought to game AI for propaganda](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
