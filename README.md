@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
-- [mold: A Parallel Linker](https://arxiv.org/abs/2608.23228)
-- [IBM Unveils Next Generation Dual-Architecture Processor](https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone)
-- [Serve Markdown to AI Agents with Accept Headers](https://acceptmarkdown.com/)
-- [GitHub Outage Tracker: Is GitHub Cooked?](https://isgithubcooked.com/)
+- [Kusama Yayoi has died](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
+- [Getting video models to learn better, faster](https://www.linum.ai/field-notes/data-filtering-gen-video)
+- [Laion Big Video Dataset](https://projects.laion.ai/bvd/)
+- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive)
+- [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
