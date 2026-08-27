@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kusama Yayoi has died](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
-- [Getting video models to learn better, faster](https://www.linum.ai/field-notes/data-filtering-gen-video)
-- [Laion Big Video Dataset](https://projects.laion.ai/bvd/)
-- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive)
-- [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
+- [Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
+- [Autism mutations drive neurodevelopmental pathology](https://www.science.org/doi/10.1126/science.ady4523)
+- [Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview)
+- [Show HN: Voronoi Go](https://voronoigo.com/)
+- [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
