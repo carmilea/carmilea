@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please stop flooding our projects with AI slop to furnish your CV](https://neilalexander.dev/2026/06/30/flooding-contributions)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
-- [Bootstrappable Builds: How and Why](https://lwn.net/Articles/1088279/)
-- [Show HN: IndexFlow – Open-source indexing infrastructure built with Rust](https://github.com/IndexFlowing/IndexFlow-core)
-- [USDA recalls 30k pounds of Argentine beef sold in Texas and Florida](https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida)
+- [Secrets of the Atomic City](https://longreads.com/2026/08/06/radiation-paducah-atavist/)
+- [Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment](https://arxiv.org/abs/2608.23691)
+- [Attimet &lpar;YC F24&rpar; Is Hiring Members of Technical Staff – Engineering and Research](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering)
+- [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
+- [How Dactyl Works](https://dactyl.dev/blog/how-dactyl-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
