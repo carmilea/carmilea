@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
-- [Autism mutations drive neurodevelopmental pathology](https://www.science.org/doi/10.1126/science.ady4523)
-- [Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview)
-- [Show HN: Voronoi Go](https://voronoigo.com/)
-- [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
+- [Please stop flooding our projects with AI slop to furnish your CV](https://neilalexander.dev/2026/06/30/flooding-contributions)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
+- [Bootstrappable Builds: How and Why](https://lwn.net/Articles/1088279/)
+- [Show HN: IndexFlow – Open-source indexing infrastructure built with Rust](https://github.com/IndexFlowing/IndexFlow-core)
+- [USDA recalls 30k pounds of Argentine beef sold in Texas and Florida](https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida)
 <!-- BLOG-POST-LIST:END -->
 
 ---
