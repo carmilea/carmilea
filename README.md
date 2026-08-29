@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
-- [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
-- [PPWR lands another blow to an precarious tabletop industry](https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/)
-- [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)
-- [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)
+- [You Know GDPR Is Good Based on Who Hates It](https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/)
+- [Autistici/inventati: Manifesto – who we are and what do we want &lpar;2002&rpar;](https://www.inventati.org/who/manifesto)
+- [e is a customizable self-aware Emacs-like editor written in Chez Scheme](https://github.com/paveluv/e)
+- [Samsung&#39;s Processing-in-Memory &lpar;PIM&rpar;](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
+- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
