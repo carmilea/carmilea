@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
-- [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
-- [Quantifying Colour](https://ekunazanu.foo/lab/quantifying-colour/)
-- [Parsing the Infamous Japanese Postal CSV](https://www.dampfkraft.com/posuto.html)
-- [GrapheneOS project: pixel 11 no longer supports hardware memory tagging &lpar;MTE&rpar;](https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e)
+- [What we want is a hunter gatherer lifestyle with space age tools](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
+- [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+- [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents)
+- [A safe MySQL upgrade that wasn&#39;t so safe](https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/)
+- [Functional State Machines in Rust: Typestate and Newtype Patterns](https://dl.acm.org/doi/10.1145/3830438.3830958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
