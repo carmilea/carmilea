@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html)
-- [Debian votes to allow &quot;responsible use of generative AI&quot;](https://lwn.net/Articles/1091231/)
-- [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo)
-- [Samsung&#39;s Processing-in-Memory &lpar;PIM&rpar;](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
-- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
+- [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
+- [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
+- [Quantifying Colour](https://ekunazanu.foo/lab/quantifying-colour/)
+- [Parsing the Infamous Japanese Postal CSV](https://www.dampfkraft.com/posuto.html)
+- [GrapheneOS project: pixel 11 no longer supports hardware memory tagging &lpar;MTE&rpar;](https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
