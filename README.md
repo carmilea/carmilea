@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Know GDPR Is Good Based on Who Hates It](https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/)
-- [Autistici/inventati: Manifesto – who we are and what do we want &lpar;2002&rpar;](https://www.inventati.org/who/manifesto)
-- [e is a customizable self-aware Emacs-like editor written in Chez Scheme](https://github.com/paveluv/e)
+- [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html)
+- [Debian votes to allow &quot;responsible use of generative AI&quot;](https://lwn.net/Articles/1091231/)
+- [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo)
 - [Samsung&#39;s Processing-in-Memory &lpar;PIM&rpar;](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 - [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
 <!-- BLOG-POST-LIST:END -->
