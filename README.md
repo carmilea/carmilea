@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Palestinian woman and NBC News team attacked by Israeli settlers in West Bank](https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024)
-- [California lawmakers unanimously pass Linux exemption from age-verification law](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
-- [Algorithmic rent-pricing litigation expands under new state and local laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
-- [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
-- [Benjamin Franklin&#39;s Alter Egos Gave Him the Most Freedom](https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/)
+- [Fair Work Commission condemns &#39;plain wrong&#39; AI legal advice](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
+- [Spark: Sparklines in your shell](https://git.zx2c4.com/spark/about/)
+- [Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website](https://github.com/AniketWathore/bolnee-chat)
+- [Everyone Should Build Their Own Network Stack](https://blog.lyc8503.net/en/post/dn42-2-dnet/)
+- [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
