@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What we want is a hunter gatherer lifestyle with space age tools](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
+- [Highest-ever ocean temperature measured as powerful El Niño forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
+- [I co-founded Burning Man. The festival has lost its soul](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
+- [Defrag98: Windows 98 Disk Defragmenter Simulator Online](https://defrag98.com)
 - [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
 - [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents)
-- [A safe MySQL upgrade that wasn&#39;t so safe](https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/)
-- [Functional State Machines in Rust: Typestate and Newtype Patterns](https://dl.acm.org/doi/10.1145/3830438.3830958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
