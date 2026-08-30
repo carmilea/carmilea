@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fair Work Commission condemns &#39;plain wrong&#39; AI legal advice](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
-- [Spark: Sparklines in your shell](https://git.zx2c4.com/spark/about/)
-- [Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website](https://github.com/AniketWathore/bolnee-chat)
-- [Everyone Should Build Their Own Network Stack](https://blog.lyc8503.net/en/post/dn42-2-dnet/)
-- [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
+- [Artie &lpar;YC S23&rpar; Is Hiring Technical AES](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1)
+- [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/)
+- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
+- [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/)
+- [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
