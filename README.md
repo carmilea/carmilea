@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html)
+- [The world may have less time than it thinks on climate change](https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change)
+- [Why open source rocks – a new SM750 &lpar;Silicon Motion GPU&rpar; HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb)
+- [Norway Shrugged](https://paragraph.com/@hagaetc/norway-shrugged)
 - [Artie &lpar;YC S23&rpar; Is Hiring Technical AES](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1)
-- [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/)
-- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
-- [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/)
-- [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
