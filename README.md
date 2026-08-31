@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The EU has begun enforcing the AI Act: first RFIs to model providers](https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis)
-- [UC Berkeley indefinitely suspends international student work authorizations](https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html)
-- [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
-- [Internet centralization and the original sin of NAT](https://dreamstation.systems/personal/ntppost.html)
-- [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)
+- [Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
+- [What I Learned About AI Trust from Reconciling over 100B Transactions](https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling)
+- [The Universe as a Minified Bundle](https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/)
+- [Agent Memory as a File Format](https://calpaterson.com/memoryfields.html)
+- [A CVE Dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
