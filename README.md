@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
-- [What I Learned About AI Trust from Reconciling over 100B Transactions](https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling)
-- [The Universe as a Minified Bundle](https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/)
-- [Agent Memory as a File Format](https://calpaterson.com/memoryfields.html)
-- [A CVE Dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/)
+- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
+- [Weave &lpar;YC W25&rpar; is hiring ML, AI, product, &amp; design engineers](https://jobs.ashbyhq.com/workweave)
+- [Kids These Days](https://smallpotatoes.paulbloom.net/p/kids-these-days)
+- [&#39;Stunning&#39; percolation proof solves decades-old puzzle about phase transitions](https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/)
+- [Konrad Zuse Museum shutting down due to lack of funding](https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
