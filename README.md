@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
-- [Weave &lpar;YC W25&rpar; is hiring ML, AI, product, &amp; design engineers](https://jobs.ashbyhq.com/workweave)
-- [Kids These Days](https://smallpotatoes.paulbloom.net/p/kids-these-days)
-- [&#39;Stunning&#39; percolation proof solves decades-old puzzle about phase transitions](https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/)
-- [Konrad Zuse Museum shutting down due to lack of funding](https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html)
+- [Run macOS Software on Linux](https://www.darlinghq.org/)
+- [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
+- [How we configured OpenTelemetry logs in Rails](https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails)
+- [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
+- [Autonomous &lpar;YC F25&rpar; is hiring engineers](https://news.ycombinator.com/item?id=49514781)
 <!-- BLOG-POST-LIST:END -->
 
 ---
