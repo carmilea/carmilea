@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)
+- [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
+- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
+- [Fluorescent lamps &lpar;don&#39;t&rpar; have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
 - [Show HN: HN Match Maker – Matching &quot;Who Wants to Be Hired?&quot; With &quot;Who&#39;s Hiring?&quot;](https://hnmatchmaker.com/)
-- [Dyson CameraJet electric toothbrush](https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue)
-- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)
-- [Apple reveals &#39;shocking evidence&#39; from ex-employee&#39;s MacBook in OpenAI suit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/)
-- [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
