@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-- [UEFA&#39;s Champions League draw creates unfair clusters; a Cayley graph fixes it](https://sariyuce.com/blog/2026/UEFA-Draw/)
-- [Claude Fable 5.1](https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1)
-- [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc)
-- [Launch HN: Nori Robotics &lpar;YC S26&rpar; – A low-cost humanoid robot for development](https://www.norirobotics.com/)
+- [Show HN: HN Match Maker – Matching &quot;Who Wants to Be Hired?&quot; With &quot;Who&#39;s Hiring?&quot;](https://hnmatchmaker.com/)
+- [Dyson CameraJet electric toothbrush](https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue)
+- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)
+- [Apple reveals &#39;shocking evidence&#39; from ex-employee&#39;s MacBook in OpenAI suit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/)
+- [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
