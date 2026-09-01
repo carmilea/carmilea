@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Run macOS Software on Linux](https://www.darlinghq.org/)
-- [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
-- [How we configured OpenTelemetry logs in Rails](https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails)
-- [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
-- [Autonomous &lpar;YC F25&rpar; is hiring engineers](https://news.ycombinator.com/item?id=49514781)
+- [Restroom Archive](https://restroomarchive.com)
+- [Google Antigravity introduces Boost deep reasoning &lpar;/boost&rpar;](https://antigravity.google/docs/boost/)
+- [Fastpotify](https://fastpotify.rocks/)
+- [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell)
+- [DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs](https://www.dolthub.com/blog/2026-08-31-doltlite-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
