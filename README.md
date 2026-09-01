@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
-- [Restroom Archive](https://restroomarchive.com)
-- [GPU World](https://www.gpuworld.org/)
-- [Fastpotify](https://fastpotify.rocks/)
-- [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell)
+- [Saab Enters Collaborative Combat Aircraft Race with High-End Concept](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)
+- [Io_uring Without Readahead](https://frn.sh/io-uring/)
+- [EFF to Courts: Don&#39;t Rewrite Copyright over AI Hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
+- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
+- [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
