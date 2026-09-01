@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CollectWise &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
 - [Restroom Archive](https://restroomarchive.com)
-- [Google Antigravity introduces Boost deep reasoning &lpar;/boost&rpar;](https://antigravity.google/docs/boost/)
+- [GPU World](https://www.gpuworld.org/)
 - [Fastpotify](https://fastpotify.rocks/)
 - [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell)
-- [DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs](https://www.dolthub.com/blog/2026-08-31-doltlite-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
