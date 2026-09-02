@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Telli &lpar;YC F24&rpar; is hiring engineers and designers [Berlin, on-site]](https://careers.telli.com/)
+- [Commodore 64 released September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
+- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
 - [WebFPGA](https://webfpga.io/)
 - [True Rate of Unemployment](https://www.lisep.org/tru)
-- [Anthropic banned me for &quot;suspicious signals&quot;](https://kix.codes/anthropic-banned-me-for-suspicious-signals/)
-- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
-- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
