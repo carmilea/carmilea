@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nango &lpar;YC W23&rpar; is hiring across eng, product and GTM &lpar;SF and remote&rpar;](https://nango.dev/careers)
-- [Mamdani Bans AI in NYC Schools](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
-- [Vidact – a compiler that turns React into direct DOM operations](https://www.vidact.dev/)
-- [Altair Basic Interpreter Source Code &lpar;1975&rpar; [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
-- [I wanna live an NPC life](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
+- [METR Report on OpenAI / Hugging Face Hacking Incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident)
+- [Maybe We Shouldn&#39;t Be Reviewing All This Code](https://martinfowler.com/rachels-ramblings/code-review.html)
+- [Launch HN: RonanRX &lpar;YC S26&rpar; – Personalized Peptides and GLP-1s](https://ronanrx.com/)
+- [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
+- [Uber shuts operations in Nigeria and Uganda with immediate effect](https://www.bbc.com/news/articles/c86xpv8l9y9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
