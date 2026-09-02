@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Don&#39;t Have a Smartphone](https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html)
-- [Paint.net 5.2 alpha now runs on Linux](https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/)
-- [How Railroad Crossings Work](https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work)
-- [Tangle – Visual ML Pipeline Editor](https://tangleml.com/)
-- [How to debloat your Xiaomi 15 Ultra without root access](https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer/)
+- [Nango &lpar;YC W23&rpar; is hiring across eng, product and GTM &lpar;SF and remote&rpar;](https://nango.dev/careers)
+- [Mamdani Bans AI in NYC Schools](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
+- [Vidact – a compiler that turns React into direct DOM operations](https://www.vidact.dev/)
+- [Altair Basic Interpreter Source Code &lpar;1975&rpar; [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
+- [I wanna live an NPC life](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
