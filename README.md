@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)
-- [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
-- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
-- [Fluorescent lamps &lpar;don&#39;t&rpar; have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
-- [Show HN: HN Match Maker – Matching &quot;Who Wants to Be Hired?&quot; With &quot;Who&#39;s Hiring?&quot;](https://hnmatchmaker.com/)
+- [WebFPGA](https://webfpga.io/)
+- [True Rate of Unemployment](https://www.lisep.org/tru)
+- [Anthropic banned me for &quot;suspicious signals&quot;](https://kix.codes/anthropic-banned-me-for-suspicious-signals/)
+- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
+- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
