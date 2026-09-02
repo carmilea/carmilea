@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Telli &lpar;YC F24&rpar; is hiring engineers and designers [Berlin, on-site]](https://careers.telli.com/)
-- [Commodore 64 released September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
-- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
-- [WebFPGA](https://webfpga.io/)
-- [True Rate of Unemployment](https://www.lisep.org/tru)
+- [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
+- [Three sites made 215,128 &quot;best software&quot; pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+- [Dyson CameraJet: The only toothbrush with a camera and a jet](https://www.dyson.com/discover/news/latest/introducing-camerajet)
+- [Poisson Disk Sampling](https://stripeacross.com/posts/poisson-disk-sampling/)
+- [Six curl CVEs after OpenAI and Anthropic came back with zero](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero)
 <!-- BLOG-POST-LIST:END -->
 
 ---
