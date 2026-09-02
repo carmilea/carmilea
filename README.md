@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
-- [Three sites made 215,128 &quot;best software&quot; pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
-- [Dyson CameraJet: The only toothbrush with a camera and a jet](https://www.dyson.com/discover/news/latest/introducing-camerajet)
-- [Poisson Disk Sampling](https://stripeacross.com/posts/poisson-disk-sampling/)
-- [Six curl CVEs after OpenAI and Anthropic came back with zero](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero)
+- [I Don&#39;t Have a Smartphone](https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html)
+- [Paint.net 5.2 alpha now runs on Linux](https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/)
+- [How Railroad Crossings Work](https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work)
+- [Tangle – Visual ML Pipeline Editor](https://tangleml.com/)
+- [How to debloat your Xiaomi 15 Ultra without root access](https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
