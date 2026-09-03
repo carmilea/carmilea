@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Agentic AI: The Shift from Automation to Autonomous Action](https://www.youtube.com/watch?v=FBCLbMBu-0U)
+- [AI Fundamentals Glossary - What This Course Covers](https://www.youtube.com/watch?v=eKq4ZV1orpQ)
 - [Get Support and Keep Learning | H2O.ai Managed Cloud](https://www.youtube.com/watch?v=MMhbUIxwWKE)
 - [Admin Guide: Access and Resources | H2O.ai Managed Cloud](https://www.youtube.com/watch?v=Dq2kfyVTW4A)
 - [Real-Time AI Answers on Live Data, at a Fraction of the Tokens | SingleStore Live Demo](https://www.youtube.com/watch?v=xP6FXSA_36o)
-- [The Full Interface Tour | H2O.ai Managed Cloud](https://www.youtube.com/watch?v=NEnkTSTmMWI)
-- [Set Up Your Account in 5 Steps | H2O.ai Managed Cloud](https://www.youtube.com/watch?v=ojVKQ3dIlkg)
 <!-- YOUTUBE:END -->
 
 
