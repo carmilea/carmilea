@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Double Matthew Walker Knot by Fable 5.1](https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c)
-- [&quot;Welcome to the AGI era,&quot; OpenAI says as GPT-6 Astra debuts](https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman)
-- [The paradox of diffusion distillation &lpar;2024&rpar;](https://sander.ai/2024/02/28/paradox.html)
-- [Instrument Clusters Are Now Paid Extras in Two Hyundai Models](https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/)
-- [Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB](https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb)
+- [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
+- [Tasklet &lpar;YC P26&rpar; Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
+- [OpenAI&#39;s GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
+- [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
