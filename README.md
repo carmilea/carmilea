@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Protecting Engineers&#39; Skills in the AI Era](https://spectrum.ieee.org/ai-engineer-skills)
+- [GLP-1s Are Being Linked to Fewer Serious Infections, Including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
 - [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
 - [Tasklet &lpar;YC P26&rpar; Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
 - [OpenAI&#39;s GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
-- [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
-- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
