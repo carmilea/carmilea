@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Three schoolgirls in Kinsale pulled up a pea plant covered in warts &lpar;2016&rpar;](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
-- [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
-- [Launch HN: RonanRX &lpar;YC S26&rpar; – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
-- [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
-- [Nango &lpar;YC W23&rpar; is hiring across eng, product and GTM &lpar;SF and remote&rpar;](https://nango.dev/careers)
+- [Mom Gets 6-Mo Suspended Sentence for Letting 5-Year-Old Walk to the Pond](https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/)
+- [Astronomers Detect a 10-Sided Structure in Saturn&#39;s Atmosphere](https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere)
+- [ICE Has a $2M Contract for Spyware That Can Hack Phones Without a Click](https://www.military.com/ice-has-a-2-million-contract-for-spyware-that-can-hack-phones-without-a-click)
+- [Elevated Errors for Multiple Models](https://status.claude.com/incidents/461yvfrzpwtt)
+- [Nvidia to Acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
