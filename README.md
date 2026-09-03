@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wk. 6 of Vibecoding an MMO](https://eldermyr.com/)
+- [Three schoolgirls in Kinsale pulled up a pea plant covered in warts &lpar;2016&rpar;](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
+- [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
 - [Launch HN: RonanRX &lpar;YC S26&rpar; – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
 - [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
 - [Nango &lpar;YC W23&rpar; is hiring across eng, product and GTM &lpar;SF and remote&rpar;](https://nango.dev/careers)
-- [Altair Basic Interpreter Source Code &lpar;1975&rpar; [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
