@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mom Gets 6-Mo Suspended Sentence for Letting 5-Year-Old Walk to the Pond](https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/)
-- [Astronomers Detect a 10-Sided Structure in Saturn&#39;s Atmosphere](https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere)
-- [ICE Has a $2M Contract for Spyware That Can Hack Phones Without a Click](https://www.military.com/ice-has-a-2-million-contract-for-spyware-that-can-hack-phones-without-a-click)
-- [Elevated Errors for Multiple Models](https://status.claude.com/incidents/461yvfrzpwtt)
-- [Nvidia to Acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/)
+- [The Double Matthew Walker Knot by Fable 5.1](https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c)
+- [&quot;Welcome to the AGI era,&quot; OpenAI says as GPT-6 Astra debuts](https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman)
+- [The paradox of diffusion distillation &lpar;2024&rpar;](https://sander.ai/2024/02/28/paradox.html)
+- [Instrument Clusters Are Now Paid Extras in Two Hyundai Models](https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/)
+- [Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB](https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
