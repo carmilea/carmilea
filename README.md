@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Protecting Engineers&#39; Skills in the AI Era](https://spectrum.ieee.org/ai-engineer-skills)
-- [GLP-1s Are Being Linked to Fewer Serious Infections, Including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
-- [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
-- [Tasklet &lpar;YC P26&rpar; Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
-- [OpenAI&#39;s GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
+- [Grep beats LSP? Why coding agents ignore your fancier tools](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)
+- [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
+- [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
+- [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
+- [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
