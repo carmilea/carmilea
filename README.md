@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fermat&#39;s Last Theorem: Anthropic has beaten me to it](https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/)
-- [Statichost.eu – 100% European static site hosting](https://www.statichost.eu/)
-- [How to Create a Tor Exit Node](https://madpsy.uk/how-to-create-a-tor-exit-node/)
-- [An open DNS recursive service for free security and high privacy](https://quad9.net/)
-- [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+- [Can guitar frets perform multiplication?](https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html)
+- [Christmas Village shoppers no longer will be allowed to enter booths](https://www.phillyvoice.com/christmas-village-booths-ada-compliance/)
+- [Record-High 89% in U.S. Say Government Corruption Widespread](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx)
+- [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+- [Icons as a Service](https://nravic.com/blog/images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
