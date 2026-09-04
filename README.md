@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Is Saying Why OpenAI and Anthropic Had Outages](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
-- [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)
-- [Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace](https://twitter.com/ggerganov/status/2095897173376618881)
-- [Adult Film Producer Unmasks Prolific &#39;John DOE&#39; Torrent Pirate as Meta Executive](https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/)
-- [Project HydraFusion: Frontier quality via multi-model orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/)
+- [Fermat&#39;s Last Theorem: Anthropic has beaten me to it](https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/)
+- [Statichost.eu – 100% European static site hosting](https://www.statichost.eu/)
+- [How to Create a Tor Exit Node](https://madpsy.uk/how-to-create-a-tor-exit-node/)
+- [An open DNS recursive service for free security and high privacy](https://quad9.net/)
+- [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
