@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Raspberry Pi Interactive Timeline · 2006–2026](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline)
-- [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
-- [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)
-- [Grep beats LSP? Why coding agents ignore your fancier tools](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)
-- [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
+- [&#39;People are going to get screwed&#39; Pennsylvania voters unite against data centres](http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5)
+- [Scientists Find Worms in Almost Every Fish in a Tuna Haul – 96% Were Infected](https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected)
+- [IBM Bob](https://bob.ibm.com/)
+- [Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region](https://github.com/hawshemi/lg-c5-webos25-region-change)
+- [Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+](https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
