@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;People are going to get screwed&#39; Pennsylvania voters unite against data centres](http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5)
-- [Scientists Find Worms in Almost Every Fish in a Tuna Haul – 96% Were Infected](https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected)
-- [IBM Bob](https://bob.ibm.com/)
-- [Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region](https://github.com/hawshemi/lg-c5-webos25-region-change)
-- [Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+](https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/)
+- [Nobody Is Saying Why OpenAI and Anthropic Had Outages](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
+- [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)
+- [Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace](https://twitter.com/ggerganov/status/2095897173376618881)
+- [Adult Film Producer Unmasks Prolific &#39;John DOE&#39; Torrent Pirate as Meta Executive](https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/)
+- [Project HydraFusion: Frontier quality via multi-model orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
