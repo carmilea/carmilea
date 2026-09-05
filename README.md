@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding a 1995 GPS Time Server so I don&#39;t get Telstra&#39;d](https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/)
-- [How the Planet-Altering Disaster of &quot;Forever Chemicals&quot; Was Kept Secret](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
-- [There&#39;s No Limit to How Bad Code Can Get](https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/)
-- [Meet the Ig Nobel Prize Winners](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
-- [The &quot;$60 Gaming PC&quot; – AMD BC-250 &lpar;2025&rpar;](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
+- [Flock used &gt;100 times to track veteran who recorded traffic stop](https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/)
+- [Bob and Van](https://marco.org/2026/09/04/bob-and-van)
+- [How the Tobacco Industry Drove the Rise of Ultra-Processed Foods &lpar;2025&rpar;](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
+- [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
+- [How the Disaster of &quot;Forever Chemicals&quot; Was Kept Secret](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
