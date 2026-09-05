@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can guitar frets perform multiplication?](https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html)
-- [Christmas Village shoppers no longer will be allowed to enter booths](https://www.phillyvoice.com/christmas-village-booths-ada-compliance/)
-- [Record-High 89% in U.S. Say Government Corruption Widespread](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx)
-- [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
-- [Icons as a Service](https://nravic.com/blog/images/)
+- [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
+- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+- [Show HN: Moadim.io – A scheduler for agents](https://moadim.io/)
+- [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
+- [Connecting every app to every other app](https://blog.val.town/connectors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
