@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Netherlands pulls gold out of the US for fears of &#39;geopolitical unrest&#39;](https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990)
-- [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
-- [GPT-6 Astra in code review: Gains, privacy, and cost](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)
-- [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
-- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+- [Rebuilding a 1995 GPS Time Server so I don&#39;t get Telstra&#39;d](https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/)
+- [How the Planet-Altering Disaster of &quot;Forever Chemicals&quot; Was Kept Secret](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
+- [There&#39;s No Limit to How Bad Code Can Get](https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/)
+- [Meet the Ig Nobel Prize Winners](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
+- [The &quot;$60 Gaming PC&quot; – AMD BC-250 &lpar;2025&rpar;](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
