@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
+- [Git hosting that never leaves Europe](https://pushin.eu)
+- [GPT-6 Astra in code review: Gains, privacy, and cost](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)
 - [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
 - [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
-- [Show HN: Moadim.io – A scheduler for agents](https://moadim.io/)
-- [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
-- [Connecting every app to every other app](https://blog.val.town/connectors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
