@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Schemy Lisp En DOS](https://sled.neocities.org/)
-- [The pencil case model of creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity)
-- [Intellectual Fly Is Open](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
-- [Doomscrolling Ourselves to Death](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death)
-- [New all in one 6502 computer &lpar;Neo6502kbd&rpar;](https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/)
+- [An Alien Mind](https://openai.com/index/an-alien-mind/)
+- [Research carried out using NetBSD](https://www.netbsd.org/gallery/research.html)
+- [Cultivating Trust](https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/)
+- [NetBSD 9.5 released and EOL for NetBSD-9](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and)
+- [Alberta &lpar;Canada&rpar; slaps punitive tax on solar panels](https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
