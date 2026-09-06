@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter)
+- [Nitter is unarchived and will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
+- [Opalite Health &lpar;YC W26&rpar; Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
+- [We monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
 - [An Alien Mind](https://openai.com/index/an-alien-mind/)
-- [Research carried out using NetBSD](https://www.netbsd.org/gallery/research.html)
-- [Cultivating Trust](https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/)
-- [NetBSD 9.5 released and EOL for NetBSD-9](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and)
-- [Alberta &lpar;Canada&rpar; slaps punitive tax on solar panels](https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
