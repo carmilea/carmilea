@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
+- [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
+- [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
+- [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
 - [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory)
-- [Falsehoods Programmers Believe About LANs](https://dreamstation.systems/personal/lanfalsehoods.html)
-- [America&#39;s two largest school districts impose AI moratoriums](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
-- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
-- [South African diamond mines are closing due to weak sales and lab-grown stones](https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
