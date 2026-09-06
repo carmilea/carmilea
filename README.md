@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Play GTA Vice City in the Browser](https://quenq.com/apps/vice-city-online/)
-- [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
-- [Site Is Closed on Sundays](https://v7.robweychert.com/)
-- [AMD Based FreeBSD Desktop Reloaded](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/)
-- [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
+- [Schemy Lisp En DOS](https://sled.neocities.org/)
+- [The pencil case model of creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity)
+- [Intellectual Fly Is Open](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
+- [Doomscrolling Ourselves to Death](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death)
+- [New all in one 6502 computer &lpar;Neo6502kbd&rpar;](https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
