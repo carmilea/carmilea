@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+- [Is mathematics about to enter the conservatory?](https://mbmccoy.dev/posts/mathematical-conservatory/)
+- [Hackers have withdrawn ~4k BTC &lpar;~$320M&rpar; from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108)
+- [Political meddling at the Census Bureau damages the US statistical system](https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system)
 - [Windows 11&#39;s &quot;special&quot; developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
-- [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)
-- [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
-- [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540)
-- [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649)
 <!-- BLOG-POST-LIST:END -->
 
 ---
