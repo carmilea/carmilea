@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 19 Interactive Tour](https://victoriametrics.com/blog/postgres-19/index.html)
-- [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
-- [Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set)
-- [C Is Not a Low-Level Language &lpar;2018&rpar;](https://queue.acm.org/doi/10.1145/3212477.3212479)
-- [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
+- [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)
+- [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
+- [A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
+- [Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559)
+- [Watch Los Angeles get built, one building at a time &lpar;1880–2026&rpar;](https://lax-skyline.parcelscope.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
