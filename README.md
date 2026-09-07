@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Orchestration &amp; Agent Harness: How AI Systems Are Coordinated](https://www.youtube.com/watch?v=9ks7tmsk_Vo)
 - [Agentic AI: The Shift from Automation to Autonomous Action](https://www.youtube.com/watch?v=FBCLbMBu-0U)
 - [AI Fundamentals Glossary - What This Course Covers](https://www.youtube.com/watch?v=eKq4ZV1orpQ)
 - [Get Support and Keep Learning | H2O.ai Managed Cloud](https://www.youtube.com/watch?v=MMhbUIxwWKE)
 - [Admin Guide: Access and Resources | H2O.ai Managed Cloud](https://www.youtube.com/watch?v=Dq2kfyVTW4A)
-- [Real-Time AI Answers on Live Data, at a Fraction of the Tokens | SingleStore Live Demo](https://www.youtube.com/watch?v=xP6FXSA_36o)
 <!-- YOUTUBE:END -->
 
 
