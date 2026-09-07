@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smartphone makers don&#39;t bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
-- [Apparently CodePen 2.0 sends data to their servers as you type](https://news.ycombinator.com/item?id=49596976)
-- [Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame](https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/)
-- [Impedance Matching &lpar;2017&rpar;](https://www.edge.org/response-detail/27238)
-- [&#39;You Can See Everything&#39; Review: Nathan Fielder&#39;s Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
+- [PostgreSQL 19 Interactive Tour](https://victoriametrics.com/blog/postgres-19/index.html)
+- [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
+- [Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set)
+- [C Is Not a Low-Level Language &lpar;2018&rpar;](https://queue.acm.org/doi/10.1145/3212477.3212479)
+- [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
