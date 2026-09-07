@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
-- [Is mathematics about to enter the conservatory?](https://mbmccoy.dev/posts/mathematical-conservatory/)
-- [Hackers have withdrawn ~4k BTC &lpar;~$320M&rpar; from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108)
-- [Political meddling at the Census Bureau damages the US statistical system](https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system)
-- [Windows 11&#39;s &quot;special&quot; developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
+- [Nvidia&#39;s Jensen Huang says &#39;AGI has arrived&#39; and congratulates OpenAI](https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9)
+- [I refused to train the AI that could replace me](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Has anybody seen my keys? A key-hierarchy strategy for rack-level security](https://rfd.shared.oxide.computer/rfd/0301)
+- [Show HN: GET Together – A social network where you don&#39;t need POST to Post](https://gettogether.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
