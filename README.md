@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia&#39;s Jensen Huang says &#39;AGI has arrived&#39; and congratulates OpenAI](https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9)
-- [I refused to train the AI that could replace me](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
-- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
-- [Has anybody seen my keys? A key-hierarchy strategy for rack-level security](https://rfd.shared.oxide.computer/rfd/0301)
-- [Show HN: GET Together – A social network where you don&#39;t need POST to Post](https://gettogether.dev)
+- [Smartphone makers don&#39;t bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
+- [Apparently CodePen 2.0 sends data to their servers as you type](https://news.ycombinator.com/item?id=49596976)
+- [Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame](https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/)
+- [Impedance Matching &lpar;2017&rpar;](https://www.edge.org/response-detail/27238)
+- [&#39;You Can See Everything&#39; Review: Nathan Fielder&#39;s Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
