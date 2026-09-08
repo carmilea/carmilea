@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
-- [Why I&#39;m Not Excited About the Graphene OS and Motorola Partnership](https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership)
-- [C*: Unifying Programming and Verification in C](https://arxiv.org/abs/2504.02246)
-- [US police fear Meta smart glasses could be used to secretly record them](https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses)
-- [Disappointed Optimists](https://cwodtke.com/disappointed-optimists/)
+- [Muse: Meta&#39;s personal AI agent, features and capabilities](https://ai.meta.com/muse/)
+- [Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
+- [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
+- [100s of flights cancelled at UK airports due to ATC issue](https://www.bbc.com/news/live/c6x2z0yy32ejt)
+- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
