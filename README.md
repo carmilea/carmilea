@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
-- [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
-- [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
-- [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
-- [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
+- [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
+- [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
+- [The VMs Powering Mobile Agents &lpar;Instinct, Claude Code&rpar;](https://rohanadwankar.github.io/posts/platforms.html)
+- [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics)
+- [I tested 10 model/harness combinations on the same Three.js task](https://alvins82.github.io/hangar-harness-model-tests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
