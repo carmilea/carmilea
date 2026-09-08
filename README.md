@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
-- [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
-- [The VMs Powering Mobile Agents &lpar;Instinct, Claude Code&rpar;](https://rohanadwankar.github.io/posts/platforms.html)
-- [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics)
-- [I tested 10 model/harness combinations on the same Three.js task](https://alvins82.github.io/hangar-harness-model-tests/)
+- [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
+- [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics)
+- [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
+- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+- [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
