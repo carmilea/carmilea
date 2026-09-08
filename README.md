@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)
+- [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+- [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
+- [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
 - [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
-- [A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
-- [Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559)
-- [Watch Los Angeles get built, one building at a time &lpar;1880–2026&rpar;](https://lax-skyline.parcelscope.net/)
+- [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
