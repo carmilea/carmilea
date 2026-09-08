@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Muse: Meta&#39;s personal AI agent, features and capabilities](https://ai.meta.com/muse/)
-- [Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
-- [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
-- [100s of flights cancelled at UK airports due to ATC issue](https://www.bbc.com/news/live/c6x2z0yy32ejt)
-- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+- [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+- [How to Build a Printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+- [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
+- [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
+- [Kimi K3 &lpar;2.8T&rpar; at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
