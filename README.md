@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
-- [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics)
-- [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
-- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
-- [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
+- [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
+- [Why I&#39;m Not Excited About the Graphene OS and Motorola Partnership](https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership)
+- [C*: Unifying Programming and Verification in C](https://arxiv.org/abs/2504.02246)
+- [US police fear Meta smart glasses could be used to secretly record them](https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses)
+- [Disappointed Optimists](https://cwodtke.com/disappointed-optimists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
