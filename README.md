@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roame &lpar;YC S23&rpar; Is Hiring Viral Content Editor](https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor)
-- [I advertise malicious software on Google Ads](https://xlii.space/eng/malicious-software-on-google-ads/)
-- [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
-- [DeepSeek launching v4.1 flash cheaper and more capable than v4 pro](https://news.ycombinator.com/item?id=49624603)
-- [Flock Wants a Closely Surveilled World with No Exit](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
+- [Defining AI Psychosis. Part 2: &quot;Prolific AI Psychosis&quot;](https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific)
+- [Anthropic Is Building a Predictive Surveillance System to Monitor Activists](https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/)
+- [Understanding the Recent DDoS Attack Against Read the Docs](https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/)
+- [GNU Radio in the Browser](https://gnuradioworld.com/)
+- [No Man&#39;s Sky Cosmos](https://www.nomanssky.com/cosmos-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
