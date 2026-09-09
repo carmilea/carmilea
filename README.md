@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Defining AI Psychosis. Part 2: &quot;Prolific AI Psychosis&quot;](https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific)
-- [Anthropic Is Building a Predictive Surveillance System to Monitor Activists](https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/)
-- [Understanding the Recent DDoS Attack Against Read the Docs](https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/)
-- [GNU Radio in the Browser](https://gnuradioworld.com/)
-- [No Man&#39;s Sky Cosmos](https://www.nomanssky.com/cosmos-update/)
+- [Introducing Singlestore Analyst : Question to Insight While It Still Matters](https://www.singlestore.com/blog/introducing-singlestore-analyst-question-to-insight-while-it-still-matters)
+- [iPhone Duo](https://www.apple.com/iphone-duo/)
+- [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)
+- [Apple Watch Ultra 4](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/)
+- [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
