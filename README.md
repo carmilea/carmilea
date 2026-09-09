@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Resigned from Anthropic Today](https://xcancel.com/hilbertspaess/status/2097476196791709843#m)
-- [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
-- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-- [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
-- [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560)
+- [Trying](https://gwern.net/on-really-trying)
+- [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
+- [&quot;Tweet&quot; and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
+- [The Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)
+- [AI Has a Discovery Problem](https://mhacevedo.com/posts/the-discovery-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
