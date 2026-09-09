@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [South Park creators rename show &#39;South America&#39;](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)
+- [Matt Mullenweg put on &#39;leave of absence&#39;](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
 - [Introducing Singlestore Analyst : Question to Insight While It Still Matters](https://www.singlestore.com/blog/introducing-singlestore-analyst-question-to-insight-while-it-still-matters)
 - [iPhone Duo](https://www.apple.com/iphone-duo/)
 - [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)
-- [Apple Watch Ultra 4](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/)
-- [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
