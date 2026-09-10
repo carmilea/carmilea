@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: OpenAI keeps re-enabling the &#39;allow training&#39; setting](https://news.ycombinator.com/item?id=49643556)
-- [Another researcher says OpenAI trained on conversations, then claimed breakthrou](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d)
-- [Who People Talk to When They&#39;re Struggling](https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling)
-- [List of references on Sony websites to players &quot;owning&quot; their digital games](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit)
-- [Thanks to Siri Recaps, your Apple Watch is always listening](https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash)
+- [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
+- [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+- [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html)
+- [Cognition&#39;s SWE-2 achieves 92.8 on Terminal-Bench 2.1](https://tokenstead.ai/models/swe-2)
+- [I have a theory that software drives people insane](https://graybeard.ing/software-drives-people-insane/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
