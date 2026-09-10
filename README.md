@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [South Park creators rename show &#39;South America&#39;](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)
-- [Matt Mullenweg put on &#39;leave of absence&#39;](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
-- [Introducing Singlestore Analyst : Question to Insight While It Still Matters](https://www.singlestore.com/blog/introducing-singlestore-analyst-question-to-insight-while-it-still-matters)
-- [iPhone Duo](https://www.apple.com/iphone-duo/)
-- [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)
+- [Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes](https://hugovergnes.github.io/little-lm-3-8b/)
+- [A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
+- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+- [Automattic&#39;s board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
+- [Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
