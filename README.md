@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s Navier-Stokes release included a Lean 4 formal proof](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
+- [Bodily Oddities](https://vester.si/bodily-oddities/)
 - [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
 - [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
-- [Creativity is the New Moat](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
-- [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
-- [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
+- [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
