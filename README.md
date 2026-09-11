@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI’s Navier-Stokes release included a Lean 4 formal proof](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
-- [Bodily Oddities](https://vester.si/bodily-oddities/)
-- [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
-- [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
-- [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/)
+- [LLM Visualizer – Build a Transformer from Scratch](https://jayvisaria.github.io/LLM-Visualizer/#/dashboard)
+- [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
+- [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
+- [Google will buy half the electricity from one of Finland&#39;s nuclear power plants](https://www.bbc.com/news/articles/c8r6y4me2g6o)
+- [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
