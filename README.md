@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [MCP &amp; MCP Runner: The Protocol Behind Agent Communication](https://www.youtube.com/watch?v=ZfrH98nojv4)
 - [How AI Agents Work: Tools, Builders &amp; the Internal Architecture](https://www.youtube.com/watch?v=cNzuh8I3CW0)
 - [Orchestration &amp; Agent Harness: How AI Systems Are Coordinated](https://www.youtube.com/watch?v=9ks7tmsk_Vo)
 - [Agent Types in Action: Task-Specific vs. General-Purpose Agents](https://www.youtube.com/watch?v=iudHQXJB7dA)
 - [Agentic AI: The Shift from Automation to Autonomous Action](https://www.youtube.com/watch?v=FBCLbMBu-0U)
-- [AI Fundamentals Glossary - What This Course Covers](https://www.youtube.com/watch?v=eKq4ZV1orpQ)
 <!-- YOUTUBE:END -->
 
 
