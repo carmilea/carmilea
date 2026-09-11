@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
-- [Neijuan](https://en.wikipedia.org/wiki/Neijuan)
-- [US diesel hits record $6 a gallon on Iran supply shock](https://www.ft.com/content/ebfa69a3-323b-450d-8bfd-0b12e01d2a5b)
-- [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
-- [GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/)
+- [Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you](https://github.com/Field-Logic-Ltd/ClaudeStatsBar)
+- [If coding is solved, what now?: Measuring the sloppiness of code](https://earendil.com/posts/measuring-code-sloppiness/)
+- [Re-Engineering YouTube for the Living Room: Bringing &quot;Chrobalt&quot; to RDK](https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html)
+- [Houthis &#39;take control&#39; of key island in global shipping route](https://www.bbc.com/news/live/cmd683p01eljt)
+- [Diesel prices in U.S. top $6 a gallon for first time](https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
