@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
-- [Show HN: Toast, a beautiful by default in terminal IDE](https://github.com/paradise-runner/toast)
-- [Room 641A](https://en.wikipedia.org/wiki/Room_641A)
-- [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
-- [Zep AI &lpar;YC W24&rpar; Is Hiring a Head of Forward Deployed Engineering](https://www.getzep.com/careers/)
+- [ElevenLabs Music v2.5](https://elevenmusic.io/blog/introducing-music-v2-5)
+- [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
+- [GrapheneOS&#39; rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+- [CIA Releases President&#39;s Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/)
+- [I spent $220 on Google app ads. 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
