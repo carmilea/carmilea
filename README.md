@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Visualizer – Build a Transformer from Scratch](https://jayvisaria.github.io/LLM-Visualizer/#/dashboard)
-- [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-- [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
-- [Google will buy half the electricity from one of Finland&#39;s nuclear power plants](https://www.bbc.com/news/articles/c8r6y4me2g6o)
-- [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
+- [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
+- [Neijuan](https://en.wikipedia.org/wiki/Neijuan)
+- [US diesel hits record $6 a gallon on Iran supply shock](https://www.ft.com/content/ebfa69a3-323b-450d-8bfd-0b12e01d2a5b)
+- [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
+- [GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
