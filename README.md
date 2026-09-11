@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you](https://github.com/Field-Logic-Ltd/ClaudeStatsBar)
-- [If coding is solved, what now?: Measuring the sloppiness of code](https://earendil.com/posts/measuring-code-sloppiness/)
-- [Re-Engineering YouTube for the Living Room: Bringing &quot;Chrobalt&quot; to RDK](https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html)
-- [Houthis &#39;take control&#39; of key island in global shipping route](https://www.bbc.com/news/live/cmd683p01eljt)
-- [Diesel prices in U.S. top $6 a gallon for first time](https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/)
+- [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
+- [Show HN: Toast, a beautiful by default in terminal IDE](https://github.com/paradise-runner/toast)
+- [Room 641A](https://en.wikipedia.org/wiki/Room_641A)
+- [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
+- [Zep AI &lpar;YC W24&rpar; Is Hiring a Head of Forward Deployed Engineering](https://www.getzep.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
