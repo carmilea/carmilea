@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+- [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
+- [The Worst Spam Emails: Inside iLands&#39; AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
+- [We&#39;ve followed their lives for six decades; now the stars of 7 Up are bowing out](https://www.bbc.co.uk/news/articles/crm932el3yjo)
 - [Resistance Training Prescription for Muscle Function, Hypertrophy in Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)
-- [Retrospectively Reverse-Engineering Apple&#39;s Neural Engine](https://eiln.github.io/posts/ane.html)
-- [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
-- [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
-- [google.com/goto: Google&#39;s anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
 <!-- BLOG-POST-LIST:END -->
 
 ---
