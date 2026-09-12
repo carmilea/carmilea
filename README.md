@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Resistance Training Prescription for Muscle Function, Hypertrophy in Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)
+- [Retrospectively Reverse-Engineering Apple&#39;s Neural Engine](https://eiln.github.io/posts/ane.html)
 - [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
-- [Clay Mathematics Institute on the Navier-Stokes Problem](https://www.claymath.org/news/navier-stokes-announcement/)
-- [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
-- [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
-- [Starlink Signal Leakage Threatens Radio Astronomy&#39;s Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
+- [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
+- [google.com/goto: Google&#39;s anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
 <!-- BLOG-POST-LIST:END -->
 
 ---
