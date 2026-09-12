@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)
+- [An open letter to Dario: if you mean it, open the weights](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)
+- [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
 - [Microcode in Intel&#39;s 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
-- [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
-- [Is it time for a Luddite Renaissance?](https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance)
 - [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
 <!-- BLOG-POST-LIST:END -->
 
