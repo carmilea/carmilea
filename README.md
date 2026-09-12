@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An open letter to Dario: if you mean it, open the weights](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)
-- [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
-- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
-- [Microcode in Intel&#39;s 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
-- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+- [Financial Times&#39; 404 Page not Found](https://www.ft.com/article/404)
+- [OpenAI&#39;s Sam Altman says it would be &#39;ill-advised&#39; to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
+- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
+- [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/)
+- [LG Says We&#39;re Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
 <!-- BLOG-POST-LIST:END -->
 
 ---
