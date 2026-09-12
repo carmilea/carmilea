@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ElevenLabs Music v2.5](https://elevenmusic.io/blog/introducing-music-v2-5)
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+- [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
+- [Project Blinkenlights](https://blinkenlights.de/en/)
+- [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
 - [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
-- [GrapheneOS&#39; rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
-- [CIA Releases President&#39;s Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/)
-- [I spent $220 on Google app ads. 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
