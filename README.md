@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
-- [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
-- [Project Blinkenlights](https://blinkenlights.de/en/)
-- [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
-- [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
+- [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
+- [Clay Mathematics Institute on the Navier-Stokes Problem](https://www.claymath.org/news/navier-stokes-announcement/)
+- [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
+- [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
+- [Starlink Signal Leakage Threatens Radio Astronomy&#39;s Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
