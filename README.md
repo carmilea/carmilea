@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia dismisses &quot;circular financing&quot;, says every $1 it invests brings back $100](https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/)
-- [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
-- [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
-- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
-- [A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html)
+- [Libraries Run Rust Inside Python &lpar;With PyO3&rpar;](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
+- [Predictive intelligence to anticipate anything.](https://prior.chat/)
+- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
+- [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows)
+- [Making Startups Powerful](https://paulgraham.com/powerful.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
