@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Killing with a car costs $1.6M, California requires drivers to carry $30K](https://maxmautner.com/2026/09/11/liability-coverage.html)
-- [Financial Times&#39; 404 Page not Found](https://www.ft.com/article/404)
-- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
-- [LG Says We&#39;re Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
-- [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
+- [Nvidia dismisses &quot;circular financing&quot;, says every $1 it invests brings back $100](https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/)
+- [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
+- [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
+- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+- [A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
