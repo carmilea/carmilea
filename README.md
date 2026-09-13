@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Libraries Run Rust Inside Python &lpar;With PyO3&rpar;](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
-- [Predictive intelligence to anticipate anything.](https://prior.chat/)
-- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
-- [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows)
-- [Making Startups Powerful](https://paulgraham.com/powerful.html)
+- [Flock cameras used to arrest a child for playing on a swing](https://www.youtube.com/watch?v=koclOnlde0E)
+- [I&#39;m being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html)
+- [Global Shortage Has Led to Motor Oil Rationing at Costco](https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/)
+- [Device Drivers lab exercise – COSC562](https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html)
+- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
 <!-- BLOG-POST-LIST:END -->
 
 ---
