@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Killing with a car costs $1.6M, California requires drivers to carry $30K](https://maxmautner.com/2026/09/11/liability-coverage.html)
 - [Financial Times&#39; 404 Page not Found](https://www.ft.com/article/404)
-- [OpenAI&#39;s Sam Altman says it would be &#39;ill-advised&#39; to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
 - [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
-- [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/)
 - [LG Says We&#39;re Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
+- [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
