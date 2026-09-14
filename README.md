@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
-- [Flawed Routers Flood University of Wisconsin Internet Time Server &lpar;2003&rpar;](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
-- [Mark Zuckerberg: &quot;Cambridge Analytica&quot; &lpar;2017&rpar;](https://twitter.com/TechEmails/status/2099214399840059428)
-- [There Is No AI &lpar;It&#39;s Just People&rpar; with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
-- [AI recursive self-improvement might not come so quickly after all &lpar;August 2026&rpar;](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/)
+- [The Coming War on General Computation &lpar;2011&rpar;](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
+- [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
+- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
+- [Why is privacy so hard?](https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/)
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
 <!-- BLOG-POST-LIST:END -->
 
 ---
