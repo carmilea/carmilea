@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge](https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/)
-- [What a time to be alive – rouge AI agents attack RubyGems.org](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/)
-- [Texas judge rules TikTok misled users on child safety feature](https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/)
-- [XCancel suspended &quot;due to a new development in the ongoing legal proceedings&quot;](https://xcancel.com/twitter)
-- [Apple&#39;s Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/)
+- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
+- [Steam Frame starts at $1059](https://store.steampowered.com/hardware/steamframe)
+- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
+- [Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%](https://blog.cloudflare.com/automatic-key-exchange-for-origins/)
+- [Cua &lpar;YC P25&rpar; Is Hiring a Founding Technical GTM Lead](https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
