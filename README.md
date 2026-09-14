@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Coming War on General Computation &lpar;2011&rpar;](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
-- [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
-- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
-- [Why is privacy so hard?](https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/)
-- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+- [Who Gets to Define the Rules for AI?](https://cohere.com/blog/who-gets-to-define-the-rules-for-ai)
+- [Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping](https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html)
+- [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228)
+- [Show HN: Exploring the intersection of prediction markets and social media](https://www.thevidmarket.com/)
+- [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
