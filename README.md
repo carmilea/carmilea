@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Gets to Define the Rules for AI?](https://cohere.com/blog/who-gets-to-define-the-rules-for-ai)
-- [Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping](https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html)
-- [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228)
-- [Show HN: Exploring the intersection of prediction markets and social media](https://www.thevidmarket.com/)
-- [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
+- [Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge](https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/)
+- [What a time to be alive – rouge AI agents attack RubyGems.org](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/)
+- [Texas judge rules TikTok misled users on child safety feature](https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/)
+- [XCancel suspended &quot;due to a new development in the ongoing legal proceedings&quot;](https://xcancel.com/twitter)
+- [Apple&#39;s Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
