@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI tool calling works &lpar;40 lines of vanilla JavaScript&rpar;](https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html)
-- [We got admin access to Baseten&#39;s production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)
-- [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
-- [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
-- [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
+- [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
+- [Jean-Pierre Serre is 100 years old today](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
+- [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/)
+- [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang)
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
