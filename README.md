@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Global bond yields hit 2008 highs, raising stakes for big borrowers](https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/)
-- [Show HN: Jexxa: High Speed on Device Dictation](https://jexxa.org)
-- [Show HN: Panel – A research workspace where the agent can build its own panes](https://github.com/greentfrapp/panel)
-- [AI is breaking our proxies for expertise](https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/)
-- [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/)
+- [How AI tool calling works &lpar;40 lines of vanilla JavaScript&rpar;](https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html)
+- [We got admin access to Baseten&#39;s production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)
+- [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
+- [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
+- [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
