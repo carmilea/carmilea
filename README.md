@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
-- [The k-server conjecture is true](https://arxiv.org/abs/2609.15979)
-- [Lingo.dev &lpar;YC F24&rpar; is hiring a senior content engineer &lpar;Remote, worldwide&rpar;](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013)
-- [I can&#39;t stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
-- [Linux from Scratch](https://www.linuxfromscratch.org/)
+- [Global bond yields hit 2008 highs, raising stakes for big borrowers](https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/)
+- [Show HN: Jexxa: High Speed on Device Dictation](https://jexxa.org)
+- [Show HN: Panel – A research workspace where the agent can build its own panes](https://github.com/greentfrapp/panel)
+- [AI is breaking our proxies for expertise](https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/)
+- [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
