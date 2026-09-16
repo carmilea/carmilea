@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [AI &amp; Machine Learning: The Foundation Behind Every AI Solution](https://www.youtube.com/watch?v=AiHwKsslWyo)
 - [Knowledge Graphs &amp; Ontology: How Agents Understand Enterprise Context](https://www.youtube.com/watch?v=icP-qUcqk44)
 - [MCP &amp; MCP Runner: The Protocol Behind Agent Communication](https://www.youtube.com/watch?v=ZfrH98nojv4)
 - [How AI Agents Work: Tools, Builders &amp; the Internal Architecture](https://www.youtube.com/watch?v=cNzuh8I3CW0)
 - [Orchestration &amp; Agent Harness: How AI Systems Are Coordinated](https://www.youtube.com/watch?v=9ks7tmsk_Vo)
-- [Agent Types in Action: Task-Specific vs. General-Purpose Agents](https://www.youtube.com/watch?v=iudHQXJB7dA)
 <!-- YOUTUBE:END -->
 
 
