@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ImpactGate: A merge gate that scores the structural decay AI adds](https://github.com/officefloor/ImpactGate)
-- [Kyber &lpar;YC W23&rpar; Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer)
-- [Original Sony PlayStation 2 security chip &#39;broken wide open&#39; after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
-- [The Google Play app review process now regularly takes longer than a week](https://gultsch.social/@daniel/117280438824908947)
-- [Salesforce Global Outage](https://status.salesforce.com/products/all)
+- [ER visits for gambling disorders doubled after expanded online gambling market](https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market)
+- [Claude Cowork and chat are now one Claude](https://claude.com/blog/cowork-is-now-claude)
+- [This Code Is CRAP &lpar;2011&rpar;](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
+- [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+- [Can we stop with the uptime percentages?](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
