@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MartyPC – A Cycle-Accurate IBM PC/XT Emulator](https://github.com/dbalsom/martypc)
-- [A software thing I built: GPS on a 25MHz 486-SX](https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/)
-- [Datamimic – don&#39;t let your coding agent invent its own test world](https://github.com/rapiddweller/datamimic)
-- [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
-- [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
+- [ImpactGate: A merge gate that scores the structural decay AI adds](https://github.com/officefloor/ImpactGate)
+- [Kyber &lpar;YC W23&rpar; Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer)
+- [Original Sony PlayStation 2 security chip &#39;broken wide open&#39; after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
+- [The Google Play app review process now regularly takes longer than a week](https://gultsch.social/@daniel/117280438824908947)
+- [Salesforce Global Outage](https://status.salesforce.com/products/all)
 <!-- BLOG-POST-LIST:END -->
 
 ---
