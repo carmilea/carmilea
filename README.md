@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ER visits for gambling disorders doubled after expanded online gambling market](https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market)
-- [Claude Cowork and chat are now one Claude](https://claude.com/blog/cowork-is-now-claude)
-- [This Code Is CRAP &lpar;2011&rpar;](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
-- [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
-- [Can we stop with the uptime percentages?](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/)
+- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
+- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
+- [macOS 27 Golden Gate – Review](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/)
+- [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
+- [Accurate Models of AMD Matrix Cores](https://arxiv.org/abs/2609.14845)
 <!-- BLOG-POST-LIST:END -->
 
 ---
