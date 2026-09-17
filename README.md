@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
-- [Australia says it could follow Canada in forging deeper ties with EU](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)
-- [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
-- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
-- [Backups Aren&#39;t Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
+- [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
+- [Jev Ultrafast: A browser agent with a dynamic, indexed action space](https://github.com/browser-use/jev-ultrafast)
+- [Keys Not Included: recovering the signing keys for US driver&#39;s license barcodes](https://ryan.science/blog/keys-not-included)
+- [Monsanto&#39;s Cruel, and Dangerous, Monopolization on American Farming &lpar;2008&rpar;](https://www.vanityfair.com/news/2008/05/monsanto200805)
+- [Part-human part-mouse brain developed in science breakthrough](https://www.bbc.com/news/articles/c60m3k28j81mo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
