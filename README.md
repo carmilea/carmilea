@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Economic Policy for AGI](https://institute.deepmind.com/essays/economic-policy-for-agi/)
-- [Zettascale &lpar;YC S24&rpar; Is Hiring ASIC/FPGA Engineers to Build Chips for ASI](https://zscc.ai/careers?job_id=109821)
-- [Towards Self-Driving Codebases](https://blog.detail.dev/posts/towards-self-driving-codebases/)
-- [Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data](https://arxiv.org/abs/2609.18842)
-- [Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot)
+- [I Hate You Microsoft](https://henriquenunez.eu/posts/you_did_it_again_ms/)
+- [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
+- [The most important product decision is what you don&#39;t build](https://liamnugent.me/posts/what-you-dont-build/)
+- [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/)
+- [Bend – A language that blocks AI mistakes via proof and runs on GPUs](https://bend-lang.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
