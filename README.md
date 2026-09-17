@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
-- [Jev Ultrafast: A browser agent with a dynamic, indexed action space](https://github.com/browser-use/jev-ultrafast)
-- [Keys Not Included: recovering the signing keys for US driver&#39;s license barcodes](https://ryan.science/blog/keys-not-included)
-- [Monsanto&#39;s Cruel, and Dangerous, Monopolization on American Farming &lpar;2008&rpar;](https://www.vanityfair.com/news/2008/05/monsanto200805)
-- [Part-human part-mouse brain developed in science breakthrough](https://www.bbc.com/news/articles/c60m3k28j81mo)
+- [Show HN: I built a new version of my fun spatial 3D online meeting app](https://flat.social)
+- [Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)
+- [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
+- [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
+- [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
