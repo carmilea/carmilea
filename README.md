@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
+- [Australia says it could follow Canada in forging deeper ties with EU](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)
+- [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
 - [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
-- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
-- [macOS 27 Golden Gate – Review](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/)
-- [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
-- [Accurate Models of AMD Matrix Cores](https://arxiv.org/abs/2609.14845)
+- [Backups Aren&#39;t Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
