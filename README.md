@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built a new version of my fun spatial 3D online meeting app](https://flat.social)
-- [Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)
-- [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
-- [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
-- [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+- [Economic Policy for AGI](https://institute.deepmind.com/essays/economic-policy-for-agi/)
+- [Zettascale &lpar;YC S24&rpar; Is Hiring ASIC/FPGA Engineers to Build Chips for ASI](https://zscc.ai/careers?job_id=109821)
+- [Towards Self-Driving Codebases](https://blog.detail.dev/posts/towards-self-driving-codebases/)
+- [Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data](https://arxiv.org/abs/2609.18842)
+- [Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
