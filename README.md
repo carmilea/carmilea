@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I don&#39;t like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
-- [Bend 2 and the Vibe-Coding Trap](https://blog.liampwll.com/posts/bend_vibe_coding/)
-- [Cekura &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
-- [Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him](https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html)
-- [ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
+- [US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments](https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/)
+- [AI is an elite crime spree](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
+- [GrassLobster: AI Agentic Generation of Parametric Geometry Workflows](https://www.miro.vision/index.php/2026/09/17/grasslobbster/)
+- [Build Faster Feedback Loops Using Qualitative User Research](https://blog.nseldeib.com/p/build-faster-feedback-loops-using)
+- [Show HN: Rickub – The Smartest Git in the Universe](https://rickub.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
