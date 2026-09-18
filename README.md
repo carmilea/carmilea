@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
-- [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
-- [Waymo in Singapore](https://waymo.com/waymo-in-singapore/)
-- [Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)
-- [Code Scans](https://devin.ai/blog/introducing-code-scans)
+- [I don&#39;t like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
+- [Bend 2 and the Vibe-Coding Trap](https://blog.liampwll.com/posts/bend_vibe_coding/)
+- [Cekura &lpar;YC F24&rpar; Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
+- [Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him](https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html)
+- [ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
 <!-- BLOG-POST-LIST:END -->
 
 ---
