@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Hate You Microsoft](https://henriquenunez.eu/posts/you_did_it_again_ms/)
+- [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
+- [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
 - [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
 - [The most important product decision is what you don&#39;t build](https://liamnugent.me/posts/what-you-dont-build/)
-- [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/)
-- [Bend – A language that blocks AI mistakes via proof and runs on GPUs](https://bend-lang.com/)
+- [Computer Reset, Dallas](https://dfarq.homeip.net/computer-reset-dallas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
