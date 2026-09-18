@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US troop deaths during Iran war exceed Pentagon count by at least four](https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/)
+- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
 - [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
 - [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
 - [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852)
-- [Cache-to-Cache: Direct Semantic Communication Between Large Language Models](https://arxiv.org/abs/2510.03215)
-- [Saving another 100TB of RAM with math &lpar;and Rust&rpar;](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
