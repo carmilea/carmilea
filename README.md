@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
-- [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
-- [Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe](https://liveworld.info/)
-- [Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
-- [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
+- [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
+- [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
+- [Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7](https://browser.geekbench.com/v7/cpu/389219)
+- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
+- [Stepfun Step 5 Preview &lpar;LLM&rpar;: On AA Pareto frontier](https://artificialanalysis.ai/models/step-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
