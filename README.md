@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI and Anthropic oversold AI security breaches](https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/)
-- [Economics Nobel Laureates&#39; Letter Supporting the California Billionaire Tax [pdf]](https://gabriel-zucman.eu/files/prop40letter.pdf)
-- [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
-- [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
-- [Supabase &lpar;YC S20&rpar; Is Hiring for OrioleDB](https://supabase.link/orioledbjob)
+- [Mayday Mysteries](http://www.maydaymystery.org/mayday/)
+- [How Hacker News ranking works: scoring, controversy, and penalties &lpar;2013&rpar;](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
+- [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
+- [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
+- [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install)
 <!-- BLOG-POST-LIST:END -->
 
 ---
