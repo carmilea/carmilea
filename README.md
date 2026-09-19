@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
+- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
 - [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
 - [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
-- [Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7](https://browser.geekbench.com/v7/cpu/389219)
 - [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
-- [Stepfun Step 5 Preview &lpar;LLM&rpar;: On AA Pareto frontier](https://artificialanalysis.ai/models/step-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
