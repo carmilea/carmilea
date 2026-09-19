@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
-- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
-- [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
-- [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
-- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
+- [Supabase &lpar;YC S20&rpar; Is Hiring for OrioleDB](https://supabase.link/orioledbjob)
+- [Agreement between the USA and Denmark &lpar;1951,2004&rpar; [pdf]](https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf)
+- [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
+- [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
+- [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
