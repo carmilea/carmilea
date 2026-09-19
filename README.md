@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI and Anthropic oversold AI security breaches](https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/)
+- [Economics Nobel Laureates&#39; Letter Supporting the California Billionaire Tax [pdf]](https://gabriel-zucman.eu/files/prop40letter.pdf)
+- [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
+- [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring for OrioleDB](https://supabase.link/orioledbjob)
-- [Agreement between the USA and Denmark &lpar;1951,2004&rpar; [pdf]](https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf)
-- [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
-- [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
-- [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
