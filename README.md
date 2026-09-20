@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
-- [I turned Jev into a &lpar;lousy&rpar; chatbot](https://github.com/kyle-pena-nlp/jevchat/)
-- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
-- [Resident Evil 4 &lpar;GameCube&rpar; – complete byte-identical decompilation to C/C++](https://github.com/adonis-singh/re4)
-- [Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line&rpar;](https://www.papydeck.eu/)
+- [Nipple tattooist &#39;frustrated&#39; by online censorship](https://www.bbc.com/news/articles/cx2z7ejn891o)
+- [Nobody pays for FOSS, we can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
+- [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
+- [OpenAI&#39;s Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
+- [Frontier Labs Are Selling Garbage to Fools in Washington](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
