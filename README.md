@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One-Electron Universe](https://en.wikipedia.org/wiki/One-electron_universe)
-- [Singapore Is Paying People to Put Down Their Phones and Read Books](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books)
-- [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
-- [Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/)
-- [Do birds have accents? the regional differences in birdsong](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
+- [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
+- [I turned Jev into a &lpar;lousy&rpar; chatbot](https://github.com/kyle-pena-nlp/jevchat/)
+- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
+- [Resident Evil 4 &lpar;GameCube&rpar; – complete byte-identical decompilation to C/C++](https://github.com/adonis-singh/re4)
+- [Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line&rpar;](https://www.papydeck.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
