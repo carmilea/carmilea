@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If AI coding is lowering your code quality, you&#39;re not managing quality right](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code)
-- [I&#39;m Tired of the AI Tone](https://sagivo.com/blog/im-tired-of-the-ai-tone)
-- [Why Do We Need Human Mathematicians Anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
-- [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
-- [Microsoft agentically ports Copilot runtime to Rust for $120K](https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549)
+- [One-Electron Universe](https://en.wikipedia.org/wiki/One-electron_universe)
+- [Singapore Is Paying People to Put Down Their Phones and Read Books](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books)
+- [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
+- [Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/)
+- [Do birds have accents? the regional differences in birdsong](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
