@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI chatbots give wrong answers to financial queries &#39;most of the time&#39;](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
-- [Winning the Visa Lottery](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)
-- [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
-- [Why back propagation goes backward](https://gregorygundersen.com/blog/2018/04/15/backprop/)
-- [Amiga Unix, Again](https://amigaux.org/)
+- [Raspberry Pi blocks changing RAM chips](https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888)
+- [Ask HN: Is it impossible to disable Siri on macOS 27?](https://news.ycombinator.com/item?id=49786609)
+- [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory)
+- [ZuckOff Know when a camera is in the room](https://zuckoff.app/)
+- [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
