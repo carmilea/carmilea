@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nipple tattooist &#39;frustrated&#39; by online censorship](https://www.bbc.com/news/articles/cx2z7ejn891o)
-- [Nobody pays for FOSS, we can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
-- [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
-- [OpenAI&#39;s Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
-- [Frontier Labs Are Selling Garbage to Fools in Washington](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
+- [Amiga Unix, Again](https://amigaux.org/)
+- [DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air](https://github.com/BytedTsinghua-SIA/DAPO)
+- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
+- [Google&#39;s Open Agentic Orchestrator](https://agentexecutor.io)
+- [Not all AI workers think the tech could kill everyone](https://www.bbc.com/news/articles/cm5y7qj54klpo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
