@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US halts flights at busy East Coast airports, says fiber line cut](https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/)
-- [Help 404 Media Find Out How Your Local Police Are Surveiling You](https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/)
-- [Why Does an NPM Math Library Need an Encrypted Loader?](https://safedep.io/mathmain-encrypted-loader/)
-- [Avoiding the babbling-idiot failure in a time-triggered communication system](https://ieeexplore.ieee.org/document/689473)
-- [Turn off and restrict access to Apple Intelligence features on Mac](https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac)
+- [Data Protection Commission fines Google €403M over processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
+- [I don&#39;t want to read what you didn&#39;t write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+- [Suspension of the de minimis administrative exemption for imports $800 or less](https://www.personalimportation.org/advocacy)
+- [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+- [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
