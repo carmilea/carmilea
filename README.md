@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi blocks changing RAM chips](https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888)
-- [Ask HN: Is it impossible to disable Siri on macOS 27?](https://news.ycombinator.com/item?id=49786609)
-- [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory)
-- [ZuckOff Know when a camera is in the room](https://zuckoff.app/)
-- [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff)
+- [US halts flights at busy East Coast airports, says fiber line cut](https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/)
+- [Help 404 Media Find Out How Your Local Police Are Surveiling You](https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/)
+- [Why Does an NPM Math Library Need an Encrypted Loader?](https://safedep.io/mathmain-encrypted-loader/)
+- [Avoiding the babbling-idiot failure in a time-triggered communication system](https://ieeexplore.ieee.org/document/689473)
+- [Turn off and restrict access to Apple Intelligence features on Mac](https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
