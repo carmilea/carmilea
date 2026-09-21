@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI chatbots give wrong answers to financial queries &#39;most of the time&#39;](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
+- [Winning the Visa Lottery](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)
+- [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
+- [Why back propagation goes backward](https://gregorygundersen.com/blog/2018/04/15/backprop/)
 - [Amiga Unix, Again](https://amigaux.org/)
-- [DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air](https://github.com/BytedTsinghua-SIA/DAPO)
-- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
-- [Google&#39;s Open Agentic Orchestrator](https://agentexecutor.io)
-- [Not all AI workers think the tech could kill everyone](https://www.bbc.com/news/articles/cm5y7qj54klpo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
