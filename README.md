@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
-- [Launch HN: Coverage Cat &lpar;YC S22&rpar; – Umbrella insurance via your personal agent](https://www.coveragecat.com/)
-- [There&#39;s a high chance of devices being sold with GrapheneOS preinstalled in 2027](https://grapheneos.social/@GrapheneOS/117299954135808210)
-- [Claude Opus 5.5 Intelligence, Performance and Price Analysis &lpar;Max&rpar;](https://artificialanalysis.ai/models/claude-opus-5-5)
-- [WordPress: Unauthenticated path traversal leading to conditional RCE](https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp)
+- [The UV index is not the warm sensation of sunlight on bare skin](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
+- [Microsoft killed FoxPro in 2007. Anyway, here&#39;s FoxPro revived](https://foxscript.org/)
+- [LLM Ass Bench](https://www.assbench.com/)
+- [The JavaScript Midlife Crisis](https://maroun-baydoun.com/blog/javascript-midlife-crisis/)
+- [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
 <!-- BLOG-POST-LIST:END -->
 
 ---
