@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Protection Commission fines Google €403M over processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
+- [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)
+- [Socrates vs. the Written Word &lpar;2011&rpar;](https://wondermark.com/socrates-vs-writing/)
+- [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
+- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
 - [I don&#39;t want to read what you didn&#39;t write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
-- [Suspension of the de minimis administrative exemption for imports $800 or less](https://www.personalimportation.org/advocacy)
-- [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
-- [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
