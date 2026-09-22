@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)
-- [Socrates vs. the Written Word &lpar;2011&rpar;](https://wondermark.com/socrates-vs-writing/)
-- [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
-- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
-- [I don&#39;t want to read what you didn&#39;t write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+- [Study: Young users &lpar;9 to 18Y&rpar; ditch Google for AI, with unknown consequences](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/)
+- [I said no and Apple said yes](https://dbushell.com/2026/09/22/apple-intelligence/)
+- [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
+- [Used ThinkPad Buyer&#39;s Guide &lpar;2019&rpar;](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
+- [MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/mimo-v2-6-pro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
