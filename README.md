@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple has added persistent &#39;ads&#39; to iOS, and it&#39;s driving users crazy](https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy)
-- [Stanford R&amp;DE Uses AI to Race Swap Students for Advertising](https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/)
-- [Show HN: Drop – a rootless Linux sandbox with gVisor support](https://droprun.sh/)
-- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
-- [People Training OpenAI&#39;s AI Fired for Using AI to Train the AI](https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/)
+- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
+- [Launch HN: Coverage Cat &lpar;YC S22&rpar; – Umbrella insurance via your personal agent](https://www.coveragecat.com/)
+- [There&#39;s a high chance of devices being sold with GrapheneOS preinstalled in 2027](https://grapheneos.social/@GrapheneOS/117299954135808210)
+- [Claude Opus 5.5 Intelligence, Performance and Price Analysis &lpar;Max&rpar;](https://artificialanalysis.ai/models/claude-opus-5-5)
+- [WordPress: Unauthenticated path traversal leading to conditional RCE](https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
