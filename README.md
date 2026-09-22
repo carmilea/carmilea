@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study: Young users &lpar;9 to 18Y&rpar; ditch Google for AI, with unknown consequences](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/)
-- [I said no and Apple said yes](https://dbushell.com/2026/09/22/apple-intelligence/)
-- [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
-- [Used ThinkPad Buyer&#39;s Guide &lpar;2019&rpar;](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
-- [MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/mimo-v2-6-pro)
+- [Apple has added persistent &#39;ads&#39; to iOS, and it&#39;s driving users crazy](https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy)
+- [Stanford R&amp;DE Uses AI to Race Swap Students for Advertising](https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/)
+- [Show HN: Drop – a rootless Linux sandbox with gVisor support](https://droprun.sh/)
+- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+- [People Training OpenAI&#39;s AI Fired for Using AI to Train the AI](https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
