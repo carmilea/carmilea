@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Catch Network Issues Before They Become Care Calls | Aura Intelligence Demo](https://www.youtube.com/watch?v=5LWS1Aml1JA)
 - [Generative AI &amp; LLMs: From GPT to Open Source Models](https://www.youtube.com/watch?v=S1v65pGpJoo)
 - [NLP, NLU &amp; AGI: How Machines Process and Understand Language](https://www.youtube.com/watch?v=KS1tuQWGfqM)
 - [AI &amp; Machine Learning: The Foundation Behind Every AI Solution](https://www.youtube.com/watch?v=AiHwKsslWyo)
 - [Knowledge Graphs &amp; Ontology: How Agents Understand Enterprise Context](https://www.youtube.com/watch?v=icP-qUcqk44)
-- [MCP &amp; MCP Runner: The Protocol Behind Agent Communication](https://www.youtube.com/watch?v=ZfrH98nojv4)
 <!-- YOUTUBE:END -->
 
 
