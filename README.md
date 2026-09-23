@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting](https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/)
-- [Gemini 3.8 text-to-speech says hello](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)
-- [Radicle: Disclosure of Vulnerability in the Network Protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol)
-- [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
-- [GPT-6 Astra has gained the ability to drive a car](https://drivingbench.com/)
+- [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/)
+- [Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes](https://www.forensicdbg.com)
+- [Cloud Agents Are Inevitable AI Prisons](https://normanponte.io/19df691f)
+- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+- [A brief history of Windows scroll bar shortcuts](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
