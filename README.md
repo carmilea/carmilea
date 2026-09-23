@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/)
-- [Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes](https://www.forensicdbg.com)
-- [Cloud Agents Are Inevitable AI Prisons](https://normanponte.io/19df691f)
-- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
-- [A brief history of Windows scroll bar shortcuts](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/)
+- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+- [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5)
+- [We just shipped support for the ugliest part of HTTP: Vary – Cloudflare Blog](https://blog.cloudflare.com/vary-support/)
+- [White House Says Access Is a &#39;Privilege&#39; in Court Filing Defending Media Ban](https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html)
+- [VSCode&#39;s SSH Agent Is Bananas &lpar;2025&rpar;](https://fly.io/blog/vscode-ssh-wtf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
