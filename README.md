@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Download: why AI&#39;s latest breakthroughs and fears may be more hype than rea](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/)
-- [The darker side of being a doctor](https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/)
-- [I am done with this shit](https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/)
-- [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
-- [There is no epidemic of loneliness, but there is an epidemic of scurvy](https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness)
+- [Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting](https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/)
+- [Gemini 3.8 text-to-speech says hello](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)
+- [Radicle: Disclosure of Vulnerability in the Network Protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol)
+- [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
+- [GPT-6 Astra has gained the ability to drive a car](https://drivingbench.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
