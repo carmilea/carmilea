@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Generative AI &amp; LLMs: From GPT to Open Source Models](https://www.youtube.com/watch?v=S1v65pGpJoo)
 - [NLP, NLU &amp; AGI: How Machines Process and Understand Language](https://www.youtube.com/watch?v=KS1tuQWGfqM)
 - [AI &amp; Machine Learning: The Foundation Behind Every AI Solution](https://www.youtube.com/watch?v=AiHwKsslWyo)
 - [Knowledge Graphs &amp; Ontology: How Agents Understand Enterprise Context](https://www.youtube.com/watch?v=icP-qUcqk44)
 - [MCP &amp; MCP Runner: The Protocol Behind Agent Communication](https://www.youtube.com/watch?v=ZfrH98nojv4)
-- [How AI Agents Work: Tools, Builders &amp; the Internal Architecture](https://www.youtube.com/watch?v=cNzuh8I3CW0)
 <!-- YOUTUBE:END -->
 
 
