@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Data-only attacks are easier than you think &lpar;2024&rpar;](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
-- [Transit rewards &lpar;Waymo pays you to take the train&rpar;](https://waymo.com/blog/2026/09/transit-rewards/)
-- [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
-- [Microsoft killed FoxPro in 2007. Anyway, here&#39;s FoxPro revived](https://foxscript.org/)
-- [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
+- [The Download: why AI&#39;s latest breakthroughs and fears may be more hype than rea](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/)
+- [The darker side of being a doctor](https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/)
+- [I am done with this shit](https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/)
+- [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
+- [There is no epidemic of loneliness, but there is an epidemic of scurvy](https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness)
 <!-- BLOG-POST-LIST:END -->
 
 ---
