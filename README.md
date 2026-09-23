@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Data-only attacks are easier than you think &lpar;2024&rpar;](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
+- [Transit rewards &lpar;Waymo pays you to take the train&rpar;](https://waymo.com/blog/2026/09/transit-rewards/)
 - [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
-- [The UV index is not the warm sensation of sunlight on bare skin](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
 - [Microsoft killed FoxPro in 2007. Anyway, here&#39;s FoxPro revived](https://foxscript.org/)
-- [The JavaScript Midlife Crisis](https://maroun-baydoun.com/blog/javascript-midlife-crisis/)
 - [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
 <!-- BLOG-POST-LIST:END -->
 
