@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram)
-- [Best LLM for every budget, updated daily](https://bestmodelforyourbudget.terrydjony.com/)
-- [Oracle Cites &#39;Force Majeure&#39; to Shield Itself on Controversial Data Center](https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center)
-- [Owners mourn spoiled food after firmware update bricks Samsung smart fridges](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/)
-- [Hackers influence ChatGPT and Gemini to direct users to scam centers](https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073)
+- [Stable &lpar;YC W20&rpar; Is Hiring Product Engineers](https://www.usestable.com/careers/product-engineer)
+- [Creatine uptake enhances antitumor immunity](https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4)
+- [A Million Agents Is a Distributed System Problem](https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem)
+- [Show HN: Whiteboard &lpar;YC W26&rpar; – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
+- [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
