@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI has no intent and no motivation](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html)
-- [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
-- [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
-- [Contrastive Language Models](https://contrastive-lm.notion.site/)
-- [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+- [Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram)
+- [Best LLM for every budget, updated daily](https://bestmodelforyourbudget.terrydjony.com/)
+- [Oracle Cites &#39;Force Majeure&#39; to Shield Itself on Controversial Data Center](https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center)
+- [Owners mourn spoiled food after firmware update bricks Samsung smart fridges](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/)
+- [Hackers influence ChatGPT and Gemini to direct users to scam centers](https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073)
 <!-- BLOG-POST-LIST:END -->
 
 ---
