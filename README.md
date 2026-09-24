@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
-- [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5)
-- [We just shipped support for the ugliest part of HTTP: Vary – Cloudflare Blog](https://blog.cloudflare.com/vary-support/)
-- [White House Says Access Is a &#39;Privilege&#39; in Court Filing Defending Media Ban](https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html)
-- [VSCode&#39;s SSH Agent Is Bananas &lpar;2025&rpar;](https://fly.io/blog/vscode-ssh-wtf/)
+- [Show HN: How long do I need to work at my salary before I can coast, or retire?](https://github.com/karmanyaahm/budget-tools/tree/main/fire)
+- [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+- [Australia says OpenAI agent hacked into government website](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411)
+- [Liquid Network Security Incident Assessment](https://blog.blockstream.com/liquid-network-security-incident-assessment/)
+- [FLAWED&#39;s Flaws and What This Means for Industry Research](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
