@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stable &lpar;YC W20&rpar; Is Hiring Product Engineers](https://www.usestable.com/careers/product-engineer)
-- [Creatine uptake enhances antitumor immunity](https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4)
-- [A Million Agents Is a Distributed System Problem](https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem)
-- [Show HN: Whiteboard &lpar;YC W26&rpar; – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
-- [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
+- [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
+- [International observers to investigate Swedish election fraud](https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken)
+- [The Board Game of the Alpha Nerds &lpar;2014&rpar;](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
+- [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
+- [Opus 5.5 is good at explainer videos](https://launchvideo.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
