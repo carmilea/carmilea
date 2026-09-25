@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab Outage](https://status.gitlab.com/)
-- [Back and shoulder surgery is often worse than useless](https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless)
+- [CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
+- [Jev Based Code Review](https://github.com/egma-ai/jev-code-reviewer)
 - [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
 - [The Board Game of the Alpha Nerds &lpar;2014&rpar;](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
 - [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
