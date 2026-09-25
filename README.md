@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
-- [Jev Based Code Review](https://github.com/egma-ai/jev-code-reviewer)
-- [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
-- [The Board Game of the Alpha Nerds &lpar;2014&rpar;](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
-- [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
+- [Nobody Asked for a Crab Chair](https://newmobility.com/nobody-asked-for-a-crab-chair/)
+- [The Test](https://tante.cc/2026/09/24/the-test/)
+- [I&#39;m Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/)
+- [Silicon Valley &#39;sex assault list&#39; with &#39;over 100&#39; names circulated](https://nypost.com/2026/09/24/tech/silicon-valley-sex-assault-list-with-over-100-names-circulated-warning-female-tech-workers-of-predators-to-avoid/)
+- [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
