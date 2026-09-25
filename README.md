@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Doom or Bloom, map your AI worldview with Jev](https://www.doom-or-bloom.com)
-- [Gravity Seems Holographic. What Does That Mean for Reality?](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/)
-- [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
-- [Classified Estimates Show the NSA Is Paying Billions to Test AI Models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
-- [Factorio that you can touch](https://factorio.com/blog/post/fff-447)
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+- [Ask HN: Who&#39;s still keeping a DOS machine up because the business depends on it?](https://news.ycombinator.com/item?id=49848955)
+- [Bug: Border radius has infected VSCode editor](https://github.com/microsoft/vscode/issues/338035)
+- [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk)
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
