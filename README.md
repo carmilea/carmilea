@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Asked for a Crab Chair](https://newmobility.com/nobody-asked-for-a-crab-chair/)
-- [The Test](https://tante.cc/2026/09/24/the-test/)
-- [I&#39;m Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/)
-- [Silicon Valley &#39;sex assault list&#39; with &#39;over 100&#39; names circulated](https://nypost.com/2026/09/24/tech/silicon-valley-sex-assault-list-with-over-100-names-circulated-warning-female-tech-workers-of-predators-to-avoid/)
-- [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)
+- [Show HN: Doom or Bloom, map your AI worldview with Jev](https://www.doom-or-bloom.com)
+- [Gravity Seems Holographic. What Does That Mean for Reality?](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/)
+- [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
+- [Classified Estimates Show the NSA Is Paying Billions to Test AI Models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
+- [Factorio that you can touch](https://factorio.com/blog/post/fff-447)
 <!-- BLOG-POST-LIST:END -->
 
 ---
