@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A game about fake news and memes](https://unspin.app/)
+- [Lab on a Contact Lens Can Measure Stress Through Serotonin](https://spectrum.ieee.org/serotonin-stress-smart-contact-lens)
+- [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+- [Show HN: Ekselio – Loveable for finance workflows &lpar;local first&rpar;](https://www.gptbeyond.com/try?home=1)
 - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
-- [Ask HN: Who&#39;s still keeping a DOS machine up because the business depends on it?](https://news.ycombinator.com/item?id=49848955)
-- [Bug: Border radius has infected VSCode editor](https://github.com/microsoft/vscode/issues/338035)
-- [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk)
-- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
