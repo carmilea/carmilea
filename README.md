@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
-- [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
-- [The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
-- [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
-- [Floci: Locally emulating any cloud service](https://floci.io)
+- [I&#39;m the Mom in That Viral Giants Clip. Let Me Tell You About My Husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
+- [Banks and Credit Unions to Team Up Against Apple Pay Fees](https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/)
+- [Automattic has a new board after failed attempt to put CEO on leave](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/)
+- [Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills)
+- [Plunging test scores are a slow-moving catastrophe](https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
