@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
+- [What is the size of Yemen? &lpar;2024&rpar;](https://theborys.substack.com/p/what-is-the-size-of-yemen)
+- [OpenAI agents tried to bruteforce a UN website&#39;s API fields](https://swarmcha.se/posts/openai-unctad)
+- [Real-time feedback: My closing move in every interview](https://mgrebler.substack.com/p/real-time-feedback-my-closing-move)
 - [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
-- [DeepSeek Elastic Compute &lpar;DSec&rpar;](https://arxiv.org/abs/2609.22978)
-- [Japan moves to tighten rules for foreigners](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt)
-- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
-- [I&#39;m the mom in that viral Giants clip. Let me tell you about my husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
