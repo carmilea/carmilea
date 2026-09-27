@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There are no &quot;rogue&quot; AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
-- [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/)
-- [postmarketOS Rebrand: Nura](https://nura.eco/blog/2026/09/27/nura-rename/)
-- [The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
-- [&quot;They had no concept of a duty of care to their users.&quot;](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
+- [Alan Kay&#39;s answer to &quot;Did the ENIAC have a BIOS&quot;?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
+- [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
+- [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/)
+- [Oral history of John Chowning, inventor of FM synthesis [video]](https://www.youtube.com/watch?v=e1Xn3030IvM)
+- [Ember-1](https://fireworks.ai/blog/ember-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
