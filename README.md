@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
-- [What is the size of Yemen? &lpar;2024&rpar;](https://theborys.substack.com/p/what-is-the-size-of-yemen)
-- [OpenAI agents tried to bruteforce a UN website&#39;s API fields](https://swarmcha.se/posts/openai-unctad)
-- [Real-time feedback: My closing move in every interview](https://mgrebler.substack.com/p/real-time-feedback-my-closing-move)
-- [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
+- [&quot;As a Language Model&quot;: Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)
+- [Show HN: LightCloud – A cloud console organised like file system](https://www.light-cloud.com/)
+- [Meta Blocks President Lula&#39;s Facebook Page, Campaign Ads 2 Weeks from Election](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
+- [OpenAI Feared &quot;Optics&quot; of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+- [The internet discovers TLA+. Now what?](https://reasonable.io/blog/tla-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
