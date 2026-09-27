@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alan Kay&#39;s answer to &quot;Did the ENIAC have a BIOS&quot;?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
-- [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
-- [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/)
-- [Oral history of John Chowning, inventor of FM synthesis [video]](https://www.youtube.com/watch?v=e1Xn3030IvM)
-- [Ember-1](https://fireworks.ai/blog/ember-1)
+- [EV Sales Are Booming in Europe with Gasoline at $10 a Gallon](https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs)
+- [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
+- [My Recent Woodworking Projects](https://notoriousbfg.com/recent-woodworking-projects/)
+- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+- [Self-Hosting on the Dark Web](https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
