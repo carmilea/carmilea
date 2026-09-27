@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;As a Language Model&quot;: Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)
-- [Show HN: LightCloud – A cloud console organised like file system](https://www.light-cloud.com/)
-- [Meta Blocks President Lula&#39;s Facebook Page, Campaign Ads 2 Weeks from Election](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
-- [OpenAI Feared &quot;Optics&quot; of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
-- [The internet discovers TLA+. Now what?](https://reasonable.io/blog/tla-tutorial/)
+- [There are no &quot;rogue&quot; AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
+- [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/)
+- [postmarketOS Rebrand: Nura](https://nura.eco/blog/2026/09/27/nura-rename/)
+- [The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
+- [&quot;They had no concept of a duty of care to their users.&quot;](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
