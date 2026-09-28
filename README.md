@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EV Sales Are Booming in Europe with Gasoline at $10 a Gallon](https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs)
-- [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
-- [My Recent Woodworking Projects](https://notoriousbfg.com/recent-woodworking-projects/)
-- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
-- [Self-Hosting on the Dark Web](https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/)
+- [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834)
+- [Microsoft drops Copilot+ branding from its new laptops](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding)
+- [Nissan&#39;s third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
+- [TabPFN and TabICL vs. tuned XGBoost: the model that doesn&#39;t train won 14/14](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)
+- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
