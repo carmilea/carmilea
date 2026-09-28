@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Reddit have an astroturfing problem? What the data suggests](https://www.petervijeh.com/projects/reddit-astroturf)
-- [Show HN: Hntui – A TUI for Hacker News](https://github.com/ahmd-sh/hntui)
-- [The smart home graveyard is getting crowded](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard)
-- [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
-- [Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page](https://github.com/seamusc/papermono-shopping-list)
+- [SB 923 is Law: CCPA deletion rights now reach third-party data](https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed)
+- [First Steps of the PLC Organization – Independent Public Ledger of Credentials](https://blog.plcred.org/3mwlphq42d227)
+- [Neal Stephenson responds with wit and humor &lpar;2004&rpar;](https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor)
+- [MicroLLM Lab – Try 7 tiny LLM&#39;s in the browser](https://stateofutopia.com/experiments/microllmlab/)
+- [GrapheneOS – When an app is slow](https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
