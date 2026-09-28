@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834)
-- [Microsoft drops Copilot+ branding from its new laptops](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding)
-- [Nissan&#39;s third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
-- [TabPFN and TabICL vs. tuned XGBoost: the model that doesn&#39;t train won 14/14](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)
-- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
+- [Does Reddit have an astroturfing problem? What the data suggests](https://www.petervijeh.com/projects/reddit-astroturf)
+- [Show HN: Hntui – A TUI for Hacker News](https://github.com/ahmd-sh/hntui)
+- [The smart home graveyard is getting crowded](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard)
+- [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
+- [Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page](https://github.com/seamusc/papermono-shopping-list)
 <!-- BLOG-POST-LIST:END -->
 
 ---
