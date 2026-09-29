@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging](https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/)
-- [ChatGPT Pro 500](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
-- [Tcl/Tk 9.1 Released](https://www.tcl-lang.org/software/tcltk/9.1.html)
-- [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
-- [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap/)
+- [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website)
+- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+- [UnoDOS](https://github.com/hmofet/unodos)
+- [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)
+- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
