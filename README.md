@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The new Firefox design is here](https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/)
-- [Delhi Cut Electricity Loss from 50 to 5 Percent](https://spectrum.ieee.org/delhi-electricity-loss)
-- [Without the Hot Air](https://www.withouthotair.com/)
-- [1 in 8 cancer cases worldwide are caused by infections, study finds](https://www.cbc.ca/lite/story/9.7361622)
-- [Climate is accumulating 4 Hiroshima atomic bombs worth of heat per second](https://4hiroshimas.info/)
+- [The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging](https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/)
+- [ChatGPT Pro 500](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
+- [Tcl/Tk 9.1 Released](https://www.tcl-lang.org/software/tcltk/9.1.html)
+- [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
+- [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
