@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SB 923 is Law: CCPA deletion rights now reach third-party data](https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed)
-- [First Steps of the PLC Organization – Independent Public Ledger of Credentials](https://blog.plcred.org/3mwlphq42d227)
-- [Neal Stephenson responds with wit and humor &lpar;2004&rpar;](https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor)
-- [MicroLLM Lab – Try 7 tiny LLM&#39;s in the browser](https://stateofutopia.com/experiments/microllmlab/)
-- [GrapheneOS – When an app is slow](https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html)
+- [ESP32S3 cluster running 1.58-bit &lpar;BitNet&rpar; Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
+- [Deutsche Bahn &quot;joke&quot; is no longer funny](https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/)
+- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
+- [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
+- [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
 <!-- BLOG-POST-LIST:END -->
 
 ---
