@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tank Body Problem](http://www.jimsitu.com)
+- [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
+- [Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)
 - [ESP32S3 cluster running 1.58-bit &lpar;BitNet&rpar; Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
-- [Deutsche Bahn &quot;joke&quot; is no longer funny](https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/)
 - [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
-- [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
-- [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
 <!-- BLOG-POST-LIST:END -->
 
 ---
