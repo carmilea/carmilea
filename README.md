@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Magnitude &lpar;YC S25&rpar; – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
-- [Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)
-- [Bild AI &lpar;YC W25&rpar; Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer)
-- [Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603)
-- [Show HN: Strata – an expressive semantic layer that can say no to your LLM](https://strata.do/try/)
+- [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
+- [Automating Wi-Fi setup testing on the ESP32](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/)
+- [The top secret URSALA, RAQUEL, and FARRAH satellites](https://www.thespacereview.com/article/4951/1)
+- [Gitea 28.0](https://blog.gitea.com/release-of-28.0.0/)
+- [Functional Ultrasound Imaging &lpar;fUSI&rpar; from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from)
 <!-- BLOG-POST-LIST:END -->
 
 ---
