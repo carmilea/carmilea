@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most data centers refusing to say how much water, electricity they use](https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use)
-- [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
-- [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/)
-- [RSS Feeds for Last.fm](https://lfm.xiffy.nl/)
-- [Floppy Emu Hardware Failure Analysis Results](https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/)
+- [Launch HN: Magnitude &lpar;YC S25&rpar; – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
+- [Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)
+- [Bild AI &lpar;YC W25&rpar; Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer)
+- [Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603)
+- [Show HN: Strata – an expressive semantic layer that can say no to your LLM](https://strata.do/try/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
