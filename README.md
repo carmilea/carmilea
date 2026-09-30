@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website)
-- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
-- [UnoDOS](https://github.com/hmofet/unodos)
-- [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)
-- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+- [Tesla takes on $30B in credit as it approaches unprofitability](https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/)
+- [LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)
+- [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
+- [RSS Feeds for Last.fm](https://lfm.xiffy.nl/)
+- [Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
