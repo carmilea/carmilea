@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla takes on $30B in credit as it approaches unprofitability](https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/)
-- [LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)
-- [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
+- [Most data centers refusing to say how much water, electricity they use](https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use)
+- [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
+- [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/)
 - [RSS Feeds for Last.fm](https://lfm.xiffy.nl/)
-- [Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/)
+- [Floppy Emu Hardware Failure Analysis Results](https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
