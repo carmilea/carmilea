@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Yantra – an LALR&lpar;1&rpar; parser generator for C++](https://github.com/TantrixAuto/yantra)
-- [56k.rip – the 1996 dial-up internet experience](https://56k.rip/)
-- [The top secret URSALA, RAQUEL, and FARRAH satellites &lpar;2025&rpar;](https://www.thespacereview.com/article/4951/1)
-- [Functional Ultrasound Imaging &lpar;fUSI&rpar; from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from)
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+- [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
+- [Red Hat Being Phased Out of Existence &lpar;Like Many Other Companies IBM Bought&rpar;](https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml)
+- [OpenID Foundation: Identity Management for Agentic AI [pdf] &lpar;2025&rpar;](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)
+- [Figma restricts MCP access to whitelisted clients, excluding Pi](https://twitter.com/GayaniFigma/status/2105295629941350454)
+- [Polyedergarten: Garden of Paper Polyhedron Models](https://www.polyedergarten.de/e_index.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
