@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [10-year Treasury yield climbs above 5.3% to a level not seen in 24 years](https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f)
+- [Show HN: Yantra – an LALR&lpar;1&rpar; parser generator for C++](https://github.com/TantrixAuto/yantra)
 - [56k.rip – the 1996 dial-up internet experience](https://56k.rip/)
-- [Automating Wi-Fi setup testing on the ESP32](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/)
-- [The top secret URSALA, RAQUEL, and FARRAH satellites](https://www.thespacereview.com/article/4951/1)
+- [The top secret URSALA, RAQUEL, and FARRAH satellites &lpar;2025&rpar;](https://www.thespacereview.com/article/4951/1)
 - [Functional Ultrasound Imaging &lpar;fUSI&rpar; from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from)
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
