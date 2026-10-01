@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
-- [Red Hat Being Phased Out of Existence &lpar;Like Many Other Companies IBM Bought&rpar;](https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml)
-- [OpenID Foundation: Identity Management for Agentic AI [pdf] &lpar;2025&rpar;](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)
-- [Figma restricts MCP access to whitelisted clients, excluding Pi](https://twitter.com/GayaniFigma/status/2105295629941350454)
-- [Polyedergarten: Garden of Paper Polyhedron Models](https://www.polyedergarten.de/e_index.htm)
+- [The death of web development education](https://molily.de/web-dev-education/)
+- [Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus)
+- [Show HN: Rhun, an open-source code editor written in assembly](https://rhun.app/)
+- [Car Is a Smartphone on Wheels. Here&#39;s Who&#39;s Listening](https://automatictransmission.khoury.northeastern.edu/index.html)
+- [ArXiv&#39;s Updated Rate Limit Policy](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
