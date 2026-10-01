@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
+- [10-year Treasury yield climbs above 5.3% to a level not seen in 24 years](https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f)
+- [56k.rip – the 1996 dial-up internet experience](https://56k.rip/)
 - [Automating Wi-Fi setup testing on the ESP32](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/)
 - [The top secret URSALA, RAQUEL, and FARRAH satellites](https://www.thespacereview.com/article/4951/1)
-- [Gitea 28.0](https://blog.gitea.com/release-of-28.0.0/)
 - [Functional Ultrasound Imaging &lpar;fUSI&rpar; from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from)
 <!-- BLOG-POST-LIST:END -->
 
