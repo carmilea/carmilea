@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Power approval set to delay Oracle&#39;s Wisconsin AI datacenter](https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832)
-- [Mozilla shutting down Solo AI website creator](https://support.soloist.ai/doc/solo-shutdown-faq)
-- [AI Makes Me Sad](https://mondobe.com/ai-makes-me-sad)
-- [Big Tech ruined the cloud, so we&#39;re renaming ours](https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/)
-- [The Legend of von Neumann [pdf]](https://gwern.net/doc/math/1973-halmos.pdf)
+- [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
+- [GrapheneOS has fixed the Android 17 QPR1 kernel performance regression](https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression)
+- [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
+- [Muse Gadgets](https://gadgets.muse.ai)
+- [Apple Pass Designer](https://developer.apple.com/pass-designer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
