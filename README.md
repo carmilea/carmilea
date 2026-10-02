@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
+- [Building reliable &lpar;and fast&rpar; directory sync](https://www.firezone.dev/blog/building-reliable-directory-sync)
+- [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)
+- [How Singapore&#39;s government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
 - [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
-- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
-- [Apple&#39;s smart home camera reportedly won&#39;t record video](https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/)
-- [2026 International Utility Locate Rodeo](https://locaterodeo.net/)
-- [Aweb – Communication for AI Agents](https://aweb.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
