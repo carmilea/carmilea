@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The death of web development education](https://molily.de/web-dev-education/)
-- [Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus)
-- [Show HN: Rhun, an open-source code editor written in assembly](https://rhun.app/)
-- [Car Is a Smartphone on Wheels. Here&#39;s Who&#39;s Listening](https://automatictransmission.khoury.northeastern.edu/index.html)
-- [ArXiv&#39;s Updated Rate Limit Policy](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/)
+- [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
+- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+- [Apple&#39;s smart home camera reportedly won&#39;t record video](https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/)
+- [2026 International Utility Locate Rodeo](https://locaterodeo.net/)
+- [Aweb – Communication for AI Agents](https://aweb.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
