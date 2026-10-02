@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SLMs, Fine-Tuning &amp; LLMOps: Building Production-Ready Language Models](https://www.youtube.com/watch?v=8OrfWPE5n5k)
 - [Prompt Engineering: How to Guide LLM Behavior in Customer Conversations](https://www.youtube.com/watch?v=mMQMX8VUaFc)
 - [Tokens, Tokenomics &amp; Language Generation: What Drives LLM Output](https://www.youtube.com/watch?v=fx3IdBj_qNc)
 - [Meet SingleStore Aura Intelligence | AI for Your Live Business Data](https://www.youtube.com/watch?v=ntVyQWunOZM)
 - [RAG, Graph RAG &amp; Agentic RAG: How AI Retrieves and Uses Information](https://www.youtube.com/watch?v=puMWE_-zQ6s)
-- [Catch Network Issues Before They Become Care Calls | Aura Intelligence Demo](https://www.youtube.com/watch?v=5LWS1Aml1JA)
 <!-- YOUTUBE:END -->
 
 
