@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
-- [Building reliable &lpar;and fast&rpar; directory sync](https://www.firezone.dev/blog/building-reliable-directory-sync)
-- [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)
-- [How Singapore&#39;s government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
-- [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
+- [Power approval set to delay Oracle&#39;s Wisconsin AI datacenter](https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832)
+- [Mozilla shutting down Solo AI website creator](https://support.soloist.ai/doc/solo-shutdown-faq)
+- [AI Makes Me Sad](https://mondobe.com/ai-makes-me-sad)
+- [Big Tech ruined the cloud, so we&#39;re renaming ours](https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/)
+- [The Legend of von Neumann [pdf]](https://gwern.net/doc/math/1973-halmos.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
