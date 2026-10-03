@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://allenai.org/blog/astabrief)
+- [Every SaaS business will become a harness around a model](https://blog.sshh.io/p/the-harness-is-the-company)
+- [Zig v0.17.0](https://ziglang.org/download/0.17.0/release-notes.html)
 - [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
-- [GrapheneOS has fixed the Android 17 QPR1 kernel performance regression](https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression)
 - [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
-- [Muse Gadgets](https://gadgets.muse.ai)
-- [Apple Pass Designer](https://developer.apple.com/pass-designer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
