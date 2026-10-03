@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RetailReady &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations)
-- [City building games have a Soul Problem pt.2](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2)
-- [FTL: A new operating system for clouds](https://ftl-os.org/)
-- [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
-- [Kolibri is an open-weight LLM from Aleph Alpha for German and English](https://tej.as/blog/aleph-alpha-kolibri)
+- [We want you to build the next Git platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
+- [Our AI Midwife](https://www.astralcodexten.com/p/our-ai-midwife)
+- [RSS Feed Best Practices &lpar;2022&rpar;](https://kevincox.ca/2022/05/06/rss-feed-best-practices/)
+- [Two American Airlines Flights End Up with the Same Flight Numbers](https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/)
+- [Getting the most out of Opus 5.5 in Claude and Claude Code](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
