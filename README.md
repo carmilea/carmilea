@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Great Question &lpar;YC W21&rpar; Is Hiring Product Engineers in Canada &lpar;Remote&rpar;](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack)
+- [GitHub&#39;s new dashboard experience now the default](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/)
+- [Show HN: Offrun – manage every coding agent from one workspace](https://offrun.dev/)
 - [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
-- [What if AI worked at 1.000.000 tokens per seconds?](https://www.echohive.ai/one-million-tokens-per-second)
 - [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
-- [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
-- [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
