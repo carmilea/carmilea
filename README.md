@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We want you to build the next Git platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
-- [Our AI Midwife](https://www.astralcodexten.com/p/our-ai-midwife)
-- [RSS Feed Best Practices &lpar;2022&rpar;](https://kevincox.ca/2022/05/06/rss-feed-best-practices/)
-- [Two American Airlines Flights End Up with the Same Flight Numbers](https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/)
-- [Getting the most out of Opus 5.5 in Claude and Claude Code](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/)
+- [Big Balls Now Exposed to Serious Criminal Charges in at Least Six States](https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305)
+- [OpenAI safety leader quits, warning AI company&#39;s culture is &#39;broken&#39;](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
+- [Federal judge calls Flock &#39;indiscriminate mass surveillance&#39;](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
+- [Reasons I didn&#39;t become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
+- [Surely you have ultra-wideband radios on your bins too?](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
