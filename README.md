@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Great Question &lpar;YC W21&rpar; Is Hiring Product Engineers in Canada &lpar;Remote&rpar;](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack)
-- [GitHub&#39;s new dashboard experience now the default](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/)
-- [Show HN: Offrun – manage every coding agent from one workspace](https://offrun.dev/)
-- [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
-- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
+- [RetailReady &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations)
+- [City building games have a Soul Problem pt.2](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2)
+- [FTL: A new operating system for clouds](https://ftl-os.org/)
+- [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
+- [Kolibri is an open-weight LLM from Aleph Alpha for German and English](https://tej.as/blog/aleph-alpha-kolibri)
 <!-- BLOG-POST-LIST:END -->
 
 ---
