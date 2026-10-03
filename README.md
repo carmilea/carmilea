@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://allenai.org/blog/astabrief)
-- [Every SaaS business will become a harness around a model](https://blog.sshh.io/p/the-harness-is-the-company)
-- [Zig v0.17.0](https://ziglang.org/download/0.17.0/release-notes.html)
-- [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
-- [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
+- [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
+- [What if AI worked at 1.000.000 tokens per seconds?](https://www.echohive.ai/one-million-tokens-per-second)
+- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
+- [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
+- [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
