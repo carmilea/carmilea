@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Balls Now Exposed to Serious Criminal Charges in at Least Six States](https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305)
-- [OpenAI safety leader quits, warning AI company&#39;s culture is &#39;broken&#39;](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
+- [Why don&#39;t more developers &quot;use the platform&quot;?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+- [We&#39;re working on a new RuneScape MMO](https://play.runescape.com/4)
+- [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
+- [We&#39;re going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
 - [Federal judge calls Flock &#39;indiscriminate mass surveillance&#39;](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
-- [Reasons I didn&#39;t become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
-- [Surely you have ultra-wideband radios on your bins too?](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
