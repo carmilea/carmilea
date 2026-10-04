@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why don&#39;t more developers &quot;use the platform&quot;?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
-- [We&#39;re working on a new RuneScape MMO](https://play.runescape.com/4)
-- [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
-- [We&#39;re going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
-- [Federal judge calls Flock &#39;indiscriminate mass surveillance&#39;](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
+- [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
+- [VGHF Digital Archive passes 5000 magazines. Here&#39;s what&#39;s next](https://gamehistory.org/5k-magazines/)
+- [In Ukraine, distributed renewables foil Russia&#39;s assaults](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/)
+- [Emitting metadata early makes building/checking Rust up to twice as fast](https://github.com/PowderworksCode/headstart)
+- [Why don&#39;t more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
