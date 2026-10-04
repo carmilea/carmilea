@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
-- [VGHF Digital Archive passes 5000 magazines. Here&#39;s what&#39;s next](https://gamehistory.org/5k-magazines/)
-- [In Ukraine, distributed renewables foil Russia&#39;s assaults](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/)
-- [Emitting metadata early makes building/checking Rust up to twice as fast](https://github.com/PowderworksCode/headstart)
-- [Why don&#39;t more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+- [Background Passive FTP with No GUI Control Survives Apple Store DFU](https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d)
+- [Blindsight &lpar;Watts Novel&rpar;](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
+- [Car is a smartphone on wheels. Here&#39;s who&#39;s listening](https://automatictransmission.khoury.northeastern.edu/)
+- [RuneScape&#39;s Position on Gen AI](https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/)
+- [Run Qwen 3.8 Flash Next &lpar;125B&rpar; on consumer hardware &lpar;RTX 4090&rpar; at 100T/s](https://github.com/Niko1221/Strata)
 <!-- BLOG-POST-LIST:END -->
 
 ---
