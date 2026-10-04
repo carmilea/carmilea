@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Background Passive FTP with No GUI Control Survives Apple Store DFU](https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d)
-- [Blindsight &lpar;Watts Novel&rpar;](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
-- [Car is a smartphone on wheels. Here&#39;s who&#39;s listening](https://automatictransmission.khoury.northeastern.edu/)
-- [RuneScape&#39;s Position on Gen AI](https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/)
-- [Run Qwen 3.8 Flash Next &lpar;125B&rpar; on consumer hardware &lpar;RTX 4090&rpar; at 100T/s](https://github.com/Niko1221/Strata)
+- [I asked Claude build a physically accurate O&#39;Neill cylinder you can walk around](https://island-three.gruberbuilds.workers.dev/)
+- [Remove and Disable Apple Macos27 AI Models Tool](https://github.com/omlahore/RemoveMacAI)
+- [Homa: The End of TCP for AI Clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
+- [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
+- [Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
