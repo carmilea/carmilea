@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I asked Claude build a physically accurate O&#39;Neill cylinder you can walk around](https://island-three.gruberbuilds.workers.dev/)
-- [Remove and Disable Apple Macos27 AI Models Tool](https://github.com/omlahore/RemoveMacAI)
-- [Homa: The End of TCP for AI Clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
+- [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
+- [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
+- [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI)
+- [Homa: The end of TCP for AI clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
 - [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
-- [Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
