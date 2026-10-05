@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;I&#39;m Embarrassed on Behalf of the Tech Industry&quot;](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/)
-- [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
-- [Picard 3.0 Released](https://blog.metabrainz.org/2026/10/04/picard-3-0-released/)
-- [Jonathan Haidt: AI Is the &#39;Neutron Bomb for Education&#39; [video]](https://www.youtube.com/watch?v=RFTfANuLBF4)
-- [Pixel 11 doesn&#39;t yet meet the GrapheneOS security standards and may be skipped](https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped)
+- [Find the flattest route between any two points in SF](https://flattensf.com/)
+- [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
+- [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
+- [A third way of using Linux](https://hisvirusness.com/third-is-the-way)
+- [Incident with Actions](https://www.githubstatus.com/incidents/3q1yb5m7ltvb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
