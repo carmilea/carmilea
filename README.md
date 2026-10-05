@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html)
-- [Replacement of petroleum based products with plant-based materials &lpar;2025&rpar;](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
-- [Nearly 200 people under observation after Irkutsk lab worker dies from plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
-- [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
-- [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
+- [&quot;I&#39;m Embarrassed on Behalf of the Tech Industry&quot;](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/)
+- [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+- [Picard 3.0 Released](https://blog.metabrainz.org/2026/10/04/picard-3-0-released/)
+- [Jonathan Haidt: AI Is the &#39;Neutron Bomb for Education&#39; [video]](https://www.youtube.com/watch?v=RFTfANuLBF4)
+- [Pixel 11 doesn&#39;t yet meet the GrapheneOS security standards and may be skipped](https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped)
 <!-- BLOG-POST-LIST:END -->
 
 ---
