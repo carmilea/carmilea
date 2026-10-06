@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Subscriptions Offer 5x+ More Value Than OpenAI](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x)
-- [Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
-- [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)
-- [Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
-- [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
+- [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
+- [The Early History of Smalltalk &lpar;1993&rpar;](https://worrydream.com/EarlyHistoryOfSmalltalk/)
+- [Vibecoding isn&#39;t as fun as writing code by hand](https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/)
+- [Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer](https://peterszentkiralyi.eu/darkplug/)
+- [Tapo &lpar;Rust/Python library&rpar; now speaks TP-Link&#39;s TPAP protocol](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
