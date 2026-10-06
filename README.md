@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Find the flattest route between any two points in SF](https://flattensf.com/)
-- [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
-- [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
-- [A third way of using Linux](https://hisvirusness.com/third-is-the-way)
-- [Incident with Actions](https://www.githubstatus.com/incidents/3q1yb5m7ltvb)
+- [Photopea creator weighs in on Photosuite project](https://github.com/eolix/photosuite/issues/77)
+- [High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days](https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days)
+- [AI Tutoring with Khanmigo in a Two-Year School Experiment](https://edworkingpapers.com/ai26-1551)
+- [Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
+- [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
