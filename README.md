@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
-- [The Early History of Smalltalk &lpar;1993&rpar;](https://worrydream.com/EarlyHistoryOfSmalltalk/)
-- [Vibecoding isn&#39;t as fun as writing code by hand](https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/)
-- [Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer](https://peterszentkiralyi.eu/darkplug/)
-- [Tapo &lpar;Rust/Python library&rpar; now speaks TP-Link&#39;s TPAP protocol](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)
+- [Mathematical manuscripts and supporting proof artifacts produced by OpenAI](https://github.com/openai/math)
+- [Sharing AI Progress in Mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+- [Ask HN: Why is Ask HN only showing me 14 posts?](https://news.ycombinator.com/item?id=49984484)
+- [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
+- [OpenSSH 10.6](https://www.openssh.org/releasenotes.html#10.6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
