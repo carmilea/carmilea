@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)
-- [Couple was swatted 55 times in 2 years over a post about Norm Macdonald](https://www.cbc.ca/lite/story/9.7370118)
-- [South Korea says AI agents appear to have been used to hack the country&#39;s banks](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
-- [AnyPS5: Port PS5 binaries to PC without emulation &lpar;87% system libraries mapped&rpar;](https://github.com/boykopovar/AnyPS5)
-- [State of Devs 2026 survey results: developers are exhausted](https://2026.stateofdevs.com/en-US/)
+- [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
+- [Reasons to Dislike AI Coding](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
+- [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)
+- [Sharded, encrypted storage between friends over Yggdrasil](https://github.com/peterretief/yggstore)
+- [Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
