@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
-- [Reasons to Dislike AI Coding](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
-- [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)
-- [Sharded, encrypted storage between friends over Yggdrasil](https://github.com/peterretief/yggstore)
-- [Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
+- [EmDash uses Clef to moderate the plugin registry](https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry)
+- [Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth](https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth)
+- [Open source 160 sound visualization experiments](https://www.kagan.in/iwrzwr/visual-archive/)
+- [Show HN: Trigora – durable execution without history replay](https://github.com/trigora-dev/trigora)
+- [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
