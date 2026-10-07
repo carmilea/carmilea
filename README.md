@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mathematical manuscripts and supporting proof artifacts produced by OpenAI](https://github.com/openai/math)
-- [Sharing AI Progress in Mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
-- [Ask HN: Why is Ask HN only showing me 14 posts?](https://news.ycombinator.com/item?id=49984484)
-- [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
-- [OpenSSH 10.6](https://www.openssh.org/releasenotes.html#10.6)
+- [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)
+- [Couple was swatted 55 times in 2 years over a post about Norm Macdonald](https://www.cbc.ca/lite/story/9.7370118)
+- [South Korea says AI agents appear to have been used to hack the country&#39;s banks](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
+- [AnyPS5: Port PS5 binaries to PC without emulation &lpar;87% system libraries mapped&rpar;](https://github.com/boykopovar/AnyPS5)
+- [State of Devs 2026 survey results: developers are exhausted](https://2026.stateofdevs.com/en-US/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
