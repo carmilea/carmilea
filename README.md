@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
-- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
-- [OpenAI annualised revenues $20B less than previously signalled](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a)
-- [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
-- [4-hour battery storage is cheaper to install than gas turbines all across globe](https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/)
+- [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt)
+- [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
+- [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy &lpar;2025&rpar;](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
+- [The value of not getting to the point &lpar;2015&rpar;](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
+- [Theranos.world](https://www.theranos.world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
