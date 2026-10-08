@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090)
-- [Dat-ecosystem: high level applications built on top of P2P protocols](https://dat-ecosystem.org/)
-- [Classic PC demoscene productions running natively in the browser](https://treylorswift.github.io/demoscene-recomp/web/)
-- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
-- [Port of the TypeScript compiler, checker and lsp to Rust, by LLM](https://github.com/pingdotgg/ts-rust)
+- [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
+- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+- [OpenAI annualised revenues $20B less than previously signalled](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a)
+- [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
+- [4-hour battery storage is cheaper to install than gas turbines all across globe](https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
