@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m in love with a German film star](https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/)
-- [Margaret Hamilton, who led software development for the Apollo program, has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
-- [Despite what Watson said, Rosalind Franklin understood structure of DNA first](https://link.springer.com/article/10.1007/s10739-026-09866-7)
+- [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+- [&#39;Jonathan&#39; is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 - [Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
 - [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
