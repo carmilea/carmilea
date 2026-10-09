@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt)
+- [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
+- [Anger as man sentenced to death for Facebook comment](https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304)
+- [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
+- [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
-- [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy &lpar;2025&rpar;](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
-- [The value of not getting to the point &lpar;2015&rpar;](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
-- [Theranos.world](https://www.theranos.world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
