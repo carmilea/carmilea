@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
-- [Anger as man sentenced to death for Facebook comment](https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304)
-- [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
-- [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
-- [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
+- [The Hetzner Cloud network stack – history and technical overview](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
+- [US proposes $100k charge for international students to do post-graduate work](https://www.nature.com/articles/d41586-026-02921-7)
+- [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+- [Nobel Peace Prize for 2026 to Navanethem &quot;NAVI&quot; Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
+- [OpenAI fires three safety researchers for &quot;mishandling research information&quot;](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
