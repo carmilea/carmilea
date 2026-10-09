@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hetzner Cloud network stack – history and technical overview](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
-- [US proposes $100k charge for international students to do post-graduate work](https://www.nature.com/articles/d41586-026-02921-7)
-- [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
-- [Nobel Peace Prize for 2026 to Navanethem &quot;NAVI&quot; Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
-- [OpenAI fires three safety researchers for &quot;mishandling research information&quot;](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
+- [You might want to try being less creative](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
+- [Microsoft-Decision-1, our model for fast decision-making](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
+- [Platforms&#39; Violent Content Rules Are About to Meet The Pentagon&#39;s Firing Squad](https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/)
+- [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
+- [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
