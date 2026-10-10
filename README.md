@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan&#39;s Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen](https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344)
-- [OpenAI mistranslated mathematics into code for its Navier-Stokes proof](https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/)
-- [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
-- [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
-- [You might want to try being less creative](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
+- [If AI is conscient, then we are making slaves](https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi)
+- [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html)
+- [Data Center Darling&#39;s $30B IPO Dream Crushed in 48 Hours](https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours)
+- [Telegram Desktop vulnerability allowed any user&#39;s file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+- [Put a price on breakthroughs](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
