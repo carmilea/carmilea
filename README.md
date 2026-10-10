@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If AI is conscient, then we are making slaves](https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi)
-- [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html)
-- [Data Center Darling&#39;s $30B IPO Dream Crushed in 48 Hours](https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours)
-- [Telegram Desktop vulnerability allowed any user&#39;s file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
-- [Put a price on breakthroughs](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
+- [LLMs Aren&#39;t Inevitable](https://deadsimpletech.com/blog/llms-arent-inevitable)
+- [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
+- [Talorys – A self-hosted personal AI agent on Cloudflare&#39;s free tier](https://github.com/rociiu/talorys)
+- [`123456&#39; password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
+- [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
