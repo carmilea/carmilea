@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs Aren&#39;t Inevitable](https://deadsimpletech.com/blog/llms-arent-inevitable)
-- [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
-- [Talorys – A self-hosted personal AI agent on Cloudflare&#39;s free tier](https://github.com/rociiu/talorys)
-- [`123456&#39; password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
-- [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
+- [AI Is Throwing a Roadside Picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
+- [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)
+- [How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd)
+- [PVX-001: open-source Covid-19 vaccine starts Phase 1 trial](https://chronicles.popvax.com/p/popvax-goes-clinical)
+- [Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal](https://wsj.com/tech/ai/tom-brown-athropic-669005ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
