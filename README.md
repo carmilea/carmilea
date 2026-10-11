@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Bans Cruelty to Claude, Still Won&#39;t Say What It Protects](https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6)
+- [AI agents in a stand-up call](https://atoll92.github.io/agent-standup/)
+- [GameBoy on E-Paper ESP32 at 30FPS [video]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
+- [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+- [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
 - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
-- [A city-building game in which the city would prefer you didn&#39;t](https://housing.over.pizza/)
-- [Nvidia in talks to acquire US &#39;open&#39; model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
-- [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
