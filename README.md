@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How HN: Go-dev-auth zero-dependency authentication library for Go](https://github.com/go-dev-auth/go-dev-auth)
-- [Bot traffic plunged to near 0 following the strike on its Vladimir data center](https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26)
-- [Don&#39;t Put Tilde In Your Path](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
-- [Scandinavia&#39;s first farmers slaughtered hunter-gatherer population, DNA suggests](https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html)
-- [Valen&#39;s Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
+- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+- [NYC&#39;s &quot;Click to Cancel&quot; rule is now in effect](https://www.nyc.gov/main/click-to-cancel)
+- [We&#39;re unlocking the biggest mysteries of the clitoris](https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2)
+- [YouTuber builds &#39;Flock-like&#39; camera to track police vehicles, gets police visit](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)
+- [apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
