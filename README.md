@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [50MB operating system can resurrect your old PC](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/)
-- [Takeshi&#39;s Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
+- [Anthropic Bans Cruelty to Claude, Still Won&#39;t Say What It Protects](https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6)
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
+- [A city-building game in which the city would prefer you didn&#39;t](https://housing.over.pizza/)
 - [Nvidia in talks to acquire US &#39;open&#39; model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
 - [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
-- [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
