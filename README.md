@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
-- [NYC&#39;s &quot;Click to Cancel&quot; rule is now in effect](https://www.nyc.gov/main/click-to-cancel)
-- [We&#39;re unlocking the biggest mysteries of the clitoris](https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2)
-- [YouTuber builds &#39;Flock-like&#39; camera to track police vehicles, gets police visit](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)
-- [apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)
+- [Passkeys are a trap. Do not use them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
+- [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
+- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
+- [Fetching AMD SEV Reports &lpar;With Zig&rpar;](https://bschaatsbergen.com/posts/zig-sev-guest/)
+- [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
