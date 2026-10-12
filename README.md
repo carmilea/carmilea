@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Passkeys are a trap. Do not use them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
-- [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
-- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
-- [Fetching AMD SEV Reports &lpar;With Zig&rpar;](https://bschaatsbergen.com/posts/zig-sev-guest/)
-- [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
+- [Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/)
+- [HashiCorp archives the Boundary open source repo](https://github.com/hashicorp/boundary)
+- [Qt An E2EE post-quantum messenger core in Rust &lpar;10k connections on 124MB RAM](https://github.com/moral666/QT)
+- [Whatever became of holography? &lpar;2011&rpar;](https://www.americanscientist.org/article/whatever-became-of-holography)
+- [Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll)
 <!-- BLOG-POST-LIST:END -->
 
 ---
