@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/)
-- [HashiCorp archives the Boundary open source repo](https://github.com/hashicorp/boundary)
-- [Qt An E2EE post-quantum messenger core in Rust &lpar;10k connections on 124MB RAM](https://github.com/moral666/QT)
-- [Whatever became of holography? &lpar;2011&rpar;](https://www.americanscientist.org/article/whatever-became-of-holography)
-- [Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll)
+- [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
+- [Fable Took My Job](https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html)
+- [Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)
+- [Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)
+- [Postgres isn&#39;t slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
 <!-- BLOG-POST-LIST:END -->
 
 ---
