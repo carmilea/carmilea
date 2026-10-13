@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
-- [AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai)
-- [Introducing OpenFatigue](https://openfatigue.ai/)
-- [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
-- [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
+- [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
+- [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
+- [I turned my unused Kindle into a photo frame with GPT-6 Astra](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai)
+- [RJ Mitte has died](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
+- [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
