@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Coris &lpar;YC S22&rpar; Is Hiring Back End Engineer](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
-- [Show HN: How Random Are You?](https://lab.specr.net/rigged-draw/)
-- [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)
-- [Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24)
-- [Scientists wonder: Is my AI stealing my ideas?](https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/)
+- [AlphaNIST](https://alpha-nist.github.io/)
+- [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
+- [PostEra &lpar;YC W20&rpar; Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
+- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
+- [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
