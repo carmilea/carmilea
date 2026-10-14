@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
-- [Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)
-- [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
-- [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
-- [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
+- [Tiny Little Office](https://tinylittleoffice.com/)
+- [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
+- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
+- [Anthropic&#39;s Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
+- [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
