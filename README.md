@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starlink limit hits Ukraine&#39;s drones. The battlefield depends on SpaceX](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex)
-- [What agents mean for Rust &lpar;and vice versa&rpar;](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
-- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
-- [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
-- [Felix Rieseberg Homepage](https://felixrieseberg.com/)
+- [Why are all these data companies buying internal data?](https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd)
+- [Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
+- [Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)
+- [ASML&#39;s strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
+- [Eric Binnion has died](https://ma.tt/2026/10/rip-eric/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
