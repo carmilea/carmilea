@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is &#39;Attention&#39; the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
-- [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)
-- [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)
-- [Do Frameworks Matter Anymore?](https://brookslybrand.com/posts/do-frameworks-matter-anymore/)
-- [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
+- [Starlink limit hits Ukraine&#39;s drones. The battlefield depends on SpaceX](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex)
+- [What agents mean for Rust &lpar;and vice versa&rpar;](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
+- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
+- [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
+- [Felix Rieseberg Homepage](https://felixrieseberg.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
