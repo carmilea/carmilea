@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are all these data companies buying internal data?](https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd)
-- [Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
-- [Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)
-- [ASML&#39;s strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
-- [Eric Binnion has died](https://ma.tt/2026/10/rip-eric/)
+- [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
+- [Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)
+- [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
+- [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
+- [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
