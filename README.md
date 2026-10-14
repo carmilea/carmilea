@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AlphaNIST](https://alpha-nist.github.io/)
-- [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
-- [PostEra &lpar;YC W20&rpar; Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
-- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
-- [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/)
+- [Is &#39;Attention&#39; the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
+- [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)
+- [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)
+- [Do Frameworks Matter Anymore?](https://brookslybrand.com/posts/do-frameworks-matter-anymore/)
+- [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
