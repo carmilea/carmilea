@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tiny Little Office](https://tinylittleoffice.com/)
-- [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
-- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
-- [Anthropic&#39;s Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
-- [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
+- [Future of Cancer Care Today &lpar;FCCT&rpar;](https://sijbrandijfoundation.org/fcct)
+- [One in ten people are older than 65. Three in four live under a leader who is](https://hannahritchie.substack.com/p/how-old-are-leaders)
+- [Show HN: My Terminal Themes Web App](https://news.ycombinator.com/item?id=50098454)
+- [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
+- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
