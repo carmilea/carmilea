@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
-- [Why We&#39;re Banning AI](https://www.currentaffairs.org/news/why-were-banning-ai)
-- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
-- [An update on independent evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)
-- [More on Anthropic&#39;s Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/)
+- [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+- [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+- [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
+- [We are entering a period of overlapping crises](https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/)
+- [E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
