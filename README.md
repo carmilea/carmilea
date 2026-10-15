@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt injection in HTTP headers: what 217M web responses show](https://www.signalscorps.com/blog/prompt-injection-in-http-headers/)
-- [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
-- [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
-- [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
-- [GridSnap – an open-source Divvy-style window snapper for macOS](https://github.com/konieczkow/gridsnap)
+- [E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
+- [Why We&#39;re Banning AI](https://www.currentaffairs.org/news/why-were-banning-ai)
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
+- [An update on independent evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)
+- [More on Anthropic&#39;s Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
