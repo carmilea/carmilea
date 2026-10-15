@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Future of Cancer Care Today &lpar;FCCT&rpar;](https://sijbrandijfoundation.org/fcct)
-- [One in ten people are older than 65. Three in four live under a leader who is](https://hannahritchie.substack.com/p/how-old-are-leaders)
-- [Show HN: My Terminal Themes Web App](https://news.ycombinator.com/item?id=50098454)
+- [AI was great until it was not](https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not)
+- [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
+- [Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
 - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
 - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
 <!-- BLOG-POST-LIST:END -->
