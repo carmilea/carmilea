@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
-- [BeBox is a Haiku application that emulates Be Inc.&#39;s BeBox](https://github.com/johnrash/bebox)
-- [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
-- [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
-- [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+- [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
+- [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
+- [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
+- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
+- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
