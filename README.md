@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla&#39;s new Roadster makes a flying debut, hitting 60 MPH in under a second](https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second)
-- [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
-- [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
-- [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
-- [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
+- [Piramidal &lpar;YC W24&rpar; Is Hiring](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
+- [/dev/null: social network for developers](https://dev-null.sh)
+- [Desire to Move Permanently to U.S. at New Low](https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx)
+- [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
+- [US Rep Announces Congressional Legislation to Protect Video Game Ownership](https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
