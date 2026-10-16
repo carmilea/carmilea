@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla&#39;s new Roadster makes a flying debut, hitting 60 MPH in under a second](https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second)
+- [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
 - [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
 - [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
 - [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
-- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
-- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
