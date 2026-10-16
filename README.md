@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Piramidal &lpar;YC W24&rpar; Is Hiring](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
-- [/dev/null: social network for developers](https://dev-null.sh)
-- [Desire to Move Permanently to U.S. at New Low](https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx)
-- [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
-- [US Rep Announces Congressional Legislation to Protect Video Game Ownership](https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games)
+- [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
+- [Flux 3 Image Klein: open weights, 5.6B parameters](https://bfl.ai/blog/flux-3-image-klein)
+- [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
+- [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
+- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
