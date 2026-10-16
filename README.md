@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why harnesses matter for energy &lpar;and token&rpar; efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
 - [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
-- [Flux 3 Image Klein: open weights, 5.6B parameters](https://bfl.ai/blog/flux-3-image-klein)
-- [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
+- [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
 - [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
 - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 <!-- BLOG-POST-LIST:END -->
