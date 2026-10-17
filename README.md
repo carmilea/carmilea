@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
+- [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
 - [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
 - [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
-- [Development statistics for the 7.2 kernel](https://lwn.net/Articles/1088776/)
-- [tsc-ts: TypeScript written in TypeScript](https://github.com/vercel-labs/tsc-ts)
-- [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
+- [Codex is EATING my Mac&#39;s disk space](https://github.com/openai/codex/issues/25921)
 <!-- BLOG-POST-LIST:END -->
 
 ---
