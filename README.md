@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+- [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
 - [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
-- [Show HN: Fakeipedia – Wikipedia for worlds that don&#39;t exist](https://fakeipedia.org)
-- [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
-- [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
 <!-- BLOG-POST-LIST:END -->
 
 ---
