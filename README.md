@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why harnesses matter for energy &lpar;and token&rpar; efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
-- [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
+- [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
+- [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
+- [Show HN: Fakeipedia – Wikipedia for worlds that don&#39;t exist](https://fakeipedia.org)
+- [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
 - [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
-- [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
-- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
