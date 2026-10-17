@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GLP-1 may slow biological aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)
-- [Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
-- [Solar surpasses nuclear power globally for first time](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
-- [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
-- [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)
+- [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
+- [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
+- [Development statistics for the 7.2 kernel](https://lwn.net/Articles/1088776/)
+- [tsc-ts: TypeScript written in TypeScript](https://github.com/vercel-labs/tsc-ts)
+- [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
 <!-- BLOG-POST-LIST:END -->
 
 ---
