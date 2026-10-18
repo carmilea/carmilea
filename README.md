@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Matthew Prince on why Cloudflare offers a free version and always will](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
-- [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
-- [Show HN: Sphinx – a hook that quizzes you on your AI&#39;s code before shipping](https://sphinx-six-theta.vercel.app/)
-- [Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5](https://tkgally.github.io/500-clocks/)
-- [How the Elizabeth Holmes Doc &#39;You Can See Everything&#39; Is Deceiving You](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
+- [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/)
+- [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
+- [Matthew Prince on why Cloudflare offers a free version and always will &lpar;2016&rpar;](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
+- [A Mole Infiltrated the Highest Ranks of American Militias &lpar;2025&rpar;](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
+- [Notes on the Complex Roots of Unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
