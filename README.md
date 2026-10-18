@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/)
-- [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
-- [Matthew Prince on why Cloudflare offers a free version and always will &lpar;2016&rpar;](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
-- [A Mole Infiltrated the Highest Ranks of American Militias &lpar;2025&rpar;](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
-- [Notes on the Complex Roots of Unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/)
+- [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
+- [Gen Z Is the First Generation Dumber Than Their Parents](https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/)
+- [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
+- [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
+- [Legal experts warn Meta&#39;s new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
