@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
-- [Someone Behind the Software](https://karrisaarinen.com/posts/someone-behind-the-software/)
-- [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
-- [macOS 15.8.2 Breaks OpenGL](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550)
-- [Will it be a golden age or a dark age for mathematics &lpar;and science&rpar;?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)
+- [Tiny Brutalism – Thanks to HN it&#39;s on Steam](https://store.steampowered.com/app/5426130/Tiny_Brutalism/)
+- [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
+- [Florida&#39;s HOAs and condo associations are making the housing crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
+- [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
+- [Namecheap just seized and disabled all my domains](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
