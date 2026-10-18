@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tiny Brutalism – Thanks to HN it&#39;s on Steam](https://store.steampowered.com/app/5426130/Tiny_Brutalism/)
+- [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
+- [Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux](https://github.com/omnipty-terminal/omnipty)
+- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+- [Netflix vmaf: Perceptual video quality assessment based on multi-method fusion](https://github.com/Netflix/vmaf)
 - [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
-- [Florida&#39;s HOAs and condo associations are making the housing crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
-- [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
-- [Namecheap just seized and disabled all my domains](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
