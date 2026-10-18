@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JDK 28](https://openjdk.org/projects/jdk/28/)
-- [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
-- [Microsoft and CMU team up to train early career software engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
-- [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
-- [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
+- [Matthew Prince on why Cloudflare offers a free version and always will](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
+- [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
+- [Show HN: Sphinx – a hook that quizzes you on your AI&#39;s code before shipping](https://sphinx-six-theta.vercel.app/)
+- [Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5](https://tkgally.github.io/500-clocks/)
+- [How the Elizabeth Holmes Doc &#39;You Can See Everything&#39; Is Deceiving You](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
