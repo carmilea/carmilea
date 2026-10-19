@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
-- [Flatpak – An Insecurity Nightmare](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
-- [DeepSeek V4.1 Flash 1017 &lpar;Max&rpar;](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
-- [Verisign .com Domain Name Registry Consumer Class Action](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
-- [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
+- [Maybe There Was an Egg Cartel After All](https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411)
+- [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)
+- [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)
+- [Harness2 by Google Research – Recursive Agent Harnessing](https://github.com/google-research/harness2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
