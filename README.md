@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [MLOps, LLMOps &amp; Model Hub: Managing AI Models in Production](https://www.youtube.com/watch?v=0YG66LtcNDU)
+- [Low Code AI &amp; Kaggle Grand Masters: H2O&#39;s Technical Edge Explained](https://www.youtube.com/watch?v=MIY_AhWuD7I)
+- [Systems of Record, Content &amp; Intelligence: Where AI Fits in Enterprise Architecture](https://www.youtube.com/watch?v=ldgbLIqjapU)
+- [LLM Applications: Conversational AI, Document Intelligence &amp; Text-to-SQL](https://www.youtube.com/watch?v=sRX1jjvT2l8)
 - [Notebook Walkthrough: SingleStore Fundamentals - SQL, JSON, Pipelines &amp; Vector Search](https://www.youtube.com/watch?v=Ej_I9yT3VjE)
-- [Notebook Walkthrough : Importing Data from AWS S3 to SingleStore Using Pipelines](https://www.youtube.com/watch?v=NebZ9-6ISnw)
-- [Notebook Walkthrough: How to Ingest Data from Confluent Cloud &lpar;Kafka&rpar; to SingleStore](https://www.youtube.com/watch?v=t6swlX24aH0)
-- [From Fragmented Well Data to Real-Time Operational Intelligence | Aura Intelligence Demo](https://www.youtube.com/watch?v=508V4ND_9ak)
-- [Meet SingleStore Aura Intelligence | AI for Your Live Business Data](https://www.youtube.com/watch?v=ntVyQWunOZM)
 <!-- YOUTUBE:END -->
 
 
