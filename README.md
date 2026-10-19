@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
-- [How RC2&#39;s π table was made](https://khalidhamadeh.com/writing/rc2-pi-table)
-- [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
-- [If you don&#39;t run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
-- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+- [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
+- [Flatpak – An Insecurity Nightmare](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
+- [DeepSeek V4.1 Flash 1017 &lpar;Max&rpar;](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
+- [Verisign .com Domain Name Registry Consumer Class Action](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
+- [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
