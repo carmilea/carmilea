@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Maybe There Was an Egg Cartel After All](https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411)
-- [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)
-- [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
-- [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)
-- [Harness2 by Google Research – Recursive Agent Harnessing](https://github.com/google-research/harness2)
+- [Towards Company World Models](https://www.beaconholdings.com/research/towards-company-world-models)
+- [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
+- [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)
+- [Mercury 3: Diffusion at scale](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
+- [Evidence &lpar;YC S21&rpar; Is Hiring Software Engineers](https://evidence.dev/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
