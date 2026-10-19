@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+- [How RC2&#39;s π table was made](https://khalidhamadeh.com/writing/rc2-pi-table)
 - [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
-- [Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux](https://github.com/omnipty-terminal/omnipty)
+- [If you don&#39;t run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
 - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
-- [Netflix vmaf: Perceptual video quality assessment based on multi-method fusion](https://github.com/Netflix/vmaf)
-- [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
