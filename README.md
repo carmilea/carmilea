@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Observability, Monitoring &amp; Telemetry: Keeping AI Systems Healthy](https://www.youtube.com/watch?v=MARhXYZmUbg)
 - [MLOps, LLMOps &amp; Model Hub: Managing AI Models in Production](https://www.youtube.com/watch?v=0YG66LtcNDU)
 - [Low Code AI &amp; Kaggle Grand Masters: H2O&#39;s Technical Edge Explained](https://www.youtube.com/watch?v=MIY_AhWuD7I)
 - [Systems of Record, Content &amp; Intelligence: Where AI Fits in Enterprise Architecture](https://www.youtube.com/watch?v=ldgbLIqjapU)
 - [LLM Applications: Conversational AI, Document Intelligence &amp; Text-to-SQL](https://www.youtube.com/watch?v=sRX1jjvT2l8)
-- [Notebook Walkthrough: SingleStore Fundamentals - SQL, JSON, Pipelines &amp; Vector Search](https://www.youtube.com/watch?v=Ej_I9yT3VjE)
 <!-- YOUTUBE:END -->
 
 
