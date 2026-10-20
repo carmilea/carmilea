@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans Are Spending More Money to Drive Worse Cars](https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/)
-- [Show HN: Death Plan Switch, a self-hosted dead man&#39;s switch for solo devs](https://deathplanswitch.com/)
-- [U.S. Supreme Court to review 1868 federal ban on home distilling of liquor](https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/)
-- [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
-- [OpenBSD 8.0](https://www.openbsd.org/80.html)
+- [Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
+- [Revolut down as users report app not working](https://www.bbc.com/news/articles/cxdd8mm6qy4mo)
+- [AfD Leak: What 421,179 Hacked Emails Show about the German Far Right](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/)
+- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
+- [Fizzpoker – No-login Online Poker with friends](https://www.fizzpoker.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
