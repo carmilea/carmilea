@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
-- [Revolut down as users report app not working](https://www.bbc.com/news/articles/cxdd8mm6qy4mo)
-- [AfD Leak: What 421,179 Hacked Emails Show about the German Far Right](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/)
-- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
-- [Fizzpoker – No-login Online Poker with friends](https://www.fizzpoker.com)
+- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
+- [Voxtral 3](https://mistral.ai/news/voxtral-3/)
+- [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
+- [Why do we have so many meetings?](https://www.nber.org/papers/w35706)
+- [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
