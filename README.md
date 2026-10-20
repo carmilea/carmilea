@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [France&#39;s Supermarket Fridges Were Vulnerable Online for Months](https://ipinfo.io/blog/france-fridges-hack)
-- [Token-maxxing is dead, OpenRouter&#39;s token usage plateaus](https://openrouter.ai/rankings)
-- [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
-- [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
-- [Putting Linux on my RTX Spark laptop because I don&#39;t have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
+- [Americans Are Spending More Money to Drive Worse Cars](https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/)
+- [Show HN: Death Plan Switch, a self-hosted dead man&#39;s switch for solo devs](https://deathplanswitch.com/)
+- [U.S. Supreme Court to review 1868 federal ban on home distilling of liquor](https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/)
+- [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
+- [OpenBSD 8.0](https://www.openbsd.org/80.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
