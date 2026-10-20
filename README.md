@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Towards Company World Models](https://www.beaconholdings.com/research/towards-company-world-models)
-- [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
-- [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)
-- [Mercury 3: Diffusion at scale](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
-- [Evidence &lpar;YC S21&rpar; Is Hiring Software Engineers](https://evidence.dev/jobs)
+- [France&#39;s Supermarket Fridges Were Vulnerable Online for Months](https://ipinfo.io/blog/france-fridges-hack)
+- [Token-maxxing is dead, OpenRouter&#39;s token usage plateaus](https://openrouter.ai/rankings)
+- [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
+- [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
+- [Putting Linux on my RTX Spark laptop because I don&#39;t have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
