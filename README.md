@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On AI writing](https://www.bolkunov.com/p/on-ai-writing)
+- [SimCity, but with Permits](https://permit.petercai.com/)
+- [Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design)
+- [What shall I teach my son?](https://stevekrouse.com/ends)
 - [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
-- [Voxtral 3](https://mistral.ai/news/voxtral-3/)
-- [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
-- [Why do we have so many meetings?](https://www.nber.org/papers/w35706)
-- [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
