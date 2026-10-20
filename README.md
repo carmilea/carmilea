@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On AI writing](https://www.bolkunov.com/p/on-ai-writing)
+- [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
+- [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+- [Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
 - [SimCity, but with Permits](https://permit.petercai.com/)
 - [Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design)
-- [What shall I teach my son?](https://stevekrouse.com/ends)
-- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
