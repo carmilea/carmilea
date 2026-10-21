@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
-- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
-- [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
-- [Muse exposes users&#39; personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
-- [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
+- [Eight Bits of Trust; eMudhra&#39;s CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+- [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
+- [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
+- [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
+- [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
