@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eight Bits of Trust; eMudhra&#39;s CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
-- [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
-- [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
-- [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
-- [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
+- [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
+- [The No Kings Takedown Is Why You Shouldn&#39;t Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
+- [DuckDB 2.0.0 LTS &quot;Cinnamon Teal&quot;](https://duckdb.org/2026/10/21/announcing-duckdb-200)
+- [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
+- [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
 <!-- BLOG-POST-LIST:END -->
 
 ---
