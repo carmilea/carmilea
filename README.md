@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
-- [The No Kings Takedown Is Why You Shouldn&#39;t Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
-- [DuckDB 2.0.0 LTS &quot;Cinnamon Teal&quot;](https://duckdb.org/2026/10/21/announcing-duckdb-200)
-- [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
-- [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
+- [After automation: Solo founding will be the default](https://every.to/thesis-statements/julian-weisser)
+- [Plex laid off the whole player team](https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5)
+- [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
+- [Claude Duet](https://claude.com/product/claude-duet)
+- [Google&#39;s Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
