@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After automation: Solo founding will be the default](https://every.to/thesis-statements/julian-weisser)
-- [Plex laid off the whole player team](https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5)
-- [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
-- [Claude Duet](https://claude.com/product/claude-duet)
-- [Google&#39;s Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
+- [There isn&#39;t an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
+- [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+- [PHP web runtimes &lpar;CVE-2026-109618 and CVE-2026-109619&rpar;](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
+- [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame)
+- [Claude Duet](https://claude.com/resources/articles/claude-duet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
