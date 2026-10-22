@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Quad9 &lpar;DNS Resolver&rpar; to Exit France](https://quad9.net/news/blog/au-revoir-france/)
-- [What&#39;s Getting Pwned](https://pwn.watch/)
-- [eMudhra to Exit Global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
-- [Crystal 1.22.0 Is Released](https://crystal-lang.org/2026/10/12/1.22.0-released/)
-- [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/)
+- [eMudhra logins can be bruteforced](https://mastodon.catgirl.cloud/@49016/117475976434068995)
+- [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
+- [Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest](https://3d.camilleworld.com/play/)
+- [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
+- [Award-Winning AI Literature](https://jamesyu.org/award-winning-ai-literature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
