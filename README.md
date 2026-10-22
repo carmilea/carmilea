@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The recently proposed o&lpar;n log n&rpar; integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+- [LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/)
+- [Epic Games Inc v Apple Inc](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
+- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
 - [There isn&#39;t an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
-- [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
-- [PHP web runtimes &lpar;CVE-2026-109618 and CVE-2026-109619&rpar;](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
-- [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame)
-- [Claude Duet](https://claude.com/resources/articles/claude-duet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
