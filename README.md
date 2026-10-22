@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [eMudhra logins can be bruteforced](https://mastodon.catgirl.cloud/@49016/117475976434068995)
+- [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool)
+- [Railpass](https://train.samismith.com/)
+- [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
 - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
-- [Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest](https://3d.camilleworld.com/play/)
 - [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
-- [Award-Winning AI Literature](https://jamesyu.org/award-winning-ai-literature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
