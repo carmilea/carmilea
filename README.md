@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
-- [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
-- [Achieving AI-style reasoning without an LLM](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/)
-- [OpenAI CLI](https://github.com/openai/openai-cli)
-- [The recently proposed o&lpar;n log n&rpar; integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+- [Quad9 &lpar;DNS Resolver&rpar; to Exit France](https://quad9.net/news/blog/au-revoir-france/)
+- [What&#39;s Getting Pwned](https://pwn.watch/)
+- [eMudhra to Exit Global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
+- [Crystal 1.22.0 Is Released](https://crystal-lang.org/2026/10/12/1.22.0-released/)
+- [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
