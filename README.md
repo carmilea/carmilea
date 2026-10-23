@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool)
-- [Railpass](https://train.samismith.com/)
-- [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
-- [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
-- [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
+- [This I Believe](https://www.awakin.org/v2/read/view.php?tid=468)
+- [The foolishness of &quot;natural language programming&quot; &lpar;1978&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+- [Mapping the Northern Sky](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/)
+- [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
+- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 <!-- BLOG-POST-LIST:END -->
 
 ---
