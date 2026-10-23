@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Did This Without Your Knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
-- [This I Believe &lpar;1952&rpar;](https://www.awakin.org/v2/read/view.php?tid=468)
-- [The foolishness of &quot;natural language programming&quot; &lpar;1978&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
-- [Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)
-- [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
+- [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
+- [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?)
+- [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)
+- [Hacker leaks 281 GB of data from Germany&#39;s far-right AfD party](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd)
+- [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
