@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [This I Believe](https://www.awakin.org/v2/read/view.php?tid=468)
+- [I Did This Without Your Knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
+- [This I Believe &lpar;1952&rpar;](https://www.awakin.org/v2/read/view.php?tid=468)
 - [The foolishness of &quot;natural language programming&quot; &lpar;1978&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
-- [Mapping the Northern Sky](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/)
+- [Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)
 - [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
-- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 <!-- BLOG-POST-LIST:END -->
 
 ---
