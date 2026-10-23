@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Evaluating AI: LLM, RAG &amp; Agent Evaluation in Practice](https://www.youtube.com/watch?v=1grf0g8pd1w)
 - [Model Drift, Risk &amp; Interpretability: When AI Models Change Over Time](https://www.youtube.com/watch?v=Sw6NNbQV6Ak)
 - [Observability, Monitoring &amp; Telemetry: Keeping AI Systems Healthy](https://www.youtube.com/watch?v=MARhXYZmUbg)
 - [MLOps, LLMOps &amp; Model Hub: Managing AI Models in Production](https://www.youtube.com/watch?v=0YG66LtcNDU)
 - [Low Code AI &amp; Kaggle Grand Masters: H2O&#39;s Technical Edge Explained](https://www.youtube.com/watch?v=MIY_AhWuD7I)
-- [Systems of Record, Content &amp; Intelligence: Where AI Fits in Enterprise Architecture](https://www.youtube.com/watch?v=ldgbLIqjapU)
 <!-- YOUTUBE:END -->
 
 
