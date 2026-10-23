@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
-- [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?)
-- [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)
-- [Hacker leaks 281 GB of data from Germany&#39;s far-right AfD party](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd)
-- [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+- [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
+- [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
+- [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
+- [Show HN: Searching for optimal strategies in a puzzle game with chance &lpar;Drop7&rpar;](https://drop7.dev)
+- [Time Nuts &lpar;2005&rpar;](http://leapsecond.com/time-nuts.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
