@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
-- [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
-- [The Goose Programming Language](https://aardappel.github.io/goose/)
-- [John Carmack on the Goose Language: multiple data stacks and relative references](https://twitter.com/ID_AA_Carmack/status/2113704269274636568)
-- [PHP Foundation &#39;under-funded&#39; with one full-time staff member, director says](https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/)
+- [Argus – a free, open-source agentic security operations platform – MIT](https://thomasunise.com/argus)
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+- [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
+- [The Importance of Limitations for Creativity and Learning](https://ratfactor.com/cards/limitations)
+- [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
