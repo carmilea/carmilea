@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Argus- open source security platform to protect against agentic attacks](https://github.com/thomasunise/argus)
-- [Sam Altman: &#39;I No Longer Think We&#39;re Gonna Be Able to Just Patch All the Bugs&#39;](https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947)
-- [The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)
-- [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
-- [Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
+- [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
+- [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
+- [The Goose Programming Language](https://aardappel.github.io/goose/)
+- [John Carmack on the Goose Language: multiple data stacks and relative references](https://twitter.com/ID_AA_Carmack/status/2113704269274636568)
+- [PHP Foundation &#39;under-funded&#39; with one full-time staff member, director says](https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
