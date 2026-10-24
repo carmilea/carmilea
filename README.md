@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
-- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
-- [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
-- [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
-- [Apple Security Research Device](https://security.apple.com/research-device/)
+- [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
+- [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn&#39;t Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
+- [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root)
+- [I Don&#39;t Understand Quantum Physics &lpar;2018&rpar;](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+- [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
 <!-- BLOG-POST-LIST:END -->
 
 ---
