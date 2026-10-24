@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google will pay people to use less electricity so its data centers can use more](https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html)
+- [Alzheimer&#39;s breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
+- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+- [Evolving Threat: http2shell is an RCE in Node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
+- [One Man&#39;s Pan Am 747 Replica [video]](https://www.youtube.com/watch?v=vAFwHGGfPz4)
 - [CVE Tracker](https://cve.0xosprey.com/)
-- [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155)
-- [A whirlwind tour of systemd-nspawn containers](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
-- [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
