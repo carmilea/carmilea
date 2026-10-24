@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
-- [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn&#39;t Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
-- [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root)
-- [I Don&#39;t Understand Quantum Physics &lpar;2018&rpar;](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
-- [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
+- [Show HN: Argus- open source security platform to protect against agentic attacks](https://github.com/thomasunise/argus)
+- [Sam Altman: &#39;I No Longer Think We&#39;re Gonna Be Able to Just Patch All the Bugs&#39;](https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947)
+- [The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)
+- [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
+- [Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
