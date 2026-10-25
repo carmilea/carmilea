@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Argus – a free, open-source agentic security operations platform – MIT](https://thomasunise.com/argus)
-- [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
-- [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
-- [The Importance of Limitations for Creativity and Learning](https://ratfactor.com/cards/limitations)
-- [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
+- [Five Qwen3.8-27B models outperform Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)
+- [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
+- [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
+- [Meta employees say Lula’s accounts restricted in Brazil election: Report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report)
+- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 <!-- BLOG-POST-LIST:END -->
 
 ---
