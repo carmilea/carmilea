@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
-- [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
-- [Fuck Nuance &lpar;2015&rpar;](https://crookedtimber.org/2015/08/31/fuck-nuance/)
-- [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
-- [Sabre Wulf Remastered](https://gp-64.com/swr/)
+- [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
+- [Serbia&#39;s Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
+- [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
+- [What goes into making an animated film?](https://www.disneyanimation.com/process/)
+- [Focused Company Operating Principles](https://focused.io/operating-principles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
