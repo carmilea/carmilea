@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
-- [The Lego group reveals collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
-- [Challenge Is Gone](https://blog.alxgsv.com/challenge-is-gone/)
-- [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)
-- [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
+- [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
+- [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
+- [Fuck Nuance &lpar;2015&rpar;](https://crookedtimber.org/2015/08/31/fuck-nuance/)
+- [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
+- [Sabre Wulf Remastered](https://gp-64.com/swr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
