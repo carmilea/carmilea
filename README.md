@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Qwen3.8-27B models outperform Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)
-- [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
-- [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
-- [Meta employees say Lula’s accounts restricted in Brazil election: Report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report)
+- [Online censorship is crushing indie webcomics](https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463)
+- [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order)
 - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+- [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
+- [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
 <!-- BLOG-POST-LIST:END -->
 
 ---
