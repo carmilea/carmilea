@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
+- [Proton Flock Camera Map](https://proton.me/flock-camera-map)
 - [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
 - [Serbia&#39;s Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
 - [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
-- [What goes into making an animated film?](https://www.disneyanimation.com/process/)
-- [Focused Company Operating Principles](https://focused.io/operating-principles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
