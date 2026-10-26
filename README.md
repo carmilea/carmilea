@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management](https://proc-cli.com/)
-- [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
+- [Tasks as Code: Move Your Tickets into the Repository](https://typemill.net/knowledge-hub/tasks-as-code)
+- [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
+- [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
 - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
-- [Show HN: TitleArt – Make text like it&#39;s 1997](https://titleart.dvy.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
