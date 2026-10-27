@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK to charge universities $1,200 per international student](https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe)
+- [There are now 5 inference providers for abliterated DeepSeek](https://allmodels.io/llm/abliterated)
+- [I still teach OpenGL ES 3.0](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
 - [16-bit Windows &lpar;Windows 1.x, 2.x, 3.0, 3.1, etc.&rpar; on 64-bit Windows](https://github.com/otya128/winevdm)
 - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model &lpar;155 responses&rpar;](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
-- [Is PHP Running on Your ColdFusion Server? How to Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
-- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
-- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
