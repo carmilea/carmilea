@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Just Imagining a Workout Can Make You Stronger](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068)
+- [16-bit Windows &lpar;Windows 1.x, 2.x, 3.0, 3.1, etc.&rpar; on 64-bit Windows](https://github.com/otya128/winevdm)
 - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model &lpar;155 responses&rpar;](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+- [Is PHP Running on Your ColdFusion Server? How to Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
 - [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
-- [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
-- [CorridorKey 2.0](https://corridorkey.com/)
+- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
