@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK to charge universities $1,200 per international student](https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe)
-- [There are now 5 inference providers for abliterated DeepSeek](https://allmodels.io/llm/abliterated)
-- [I still teach OpenGL ES 3.0](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
-- [16-bit Windows &lpar;Windows 1.x, 2.x, 3.0, 3.1, etc.&rpar; on 64-bit Windows](https://github.com/otya128/winevdm)
-- [Cross-request KV cache exposure in the GLM-5.3 Workers AI model &lpar;155 responses&rpar;](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
+- [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
+- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
+- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
+- [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
