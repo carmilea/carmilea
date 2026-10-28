@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [On-Prem, Air-Gapped &amp; Sovereign AI: Deployment Models Explained](https://www.youtube.com/watch?v=4WTQE3lbtz4)
 - [AI Governance, Data Governance &amp; Responsible AI: Building Trust at Scale](https://www.youtube.com/watch?v=BXnQE3GeVI0)
 - [Notebook Walkthrough: SingleStore Fundamentals - SQL, JSON, Pipelines &amp; Vector Search](https://www.youtube.com/watch?v=xdSgJBMU0Wg)
 - [Evaluating AI: LLM, RAG &amp; Agent Evaluation in Practice](https://www.youtube.com/watch?v=1grf0g8pd1w)
 - [Model Drift, Risk &amp; Interpretability: When AI Models Change Over Time](https://www.youtube.com/watch?v=Sw6NNbQV6Ak)
-- [Observability, Monitoring &amp; Telemetry: Keeping AI Systems Healthy](https://www.youtube.com/watch?v=MARhXYZmUbg)
 <!-- YOUTUBE:END -->
 
 
