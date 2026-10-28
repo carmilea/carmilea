@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [碁の国: Play Chess as Town Building](https://gonokuni.plpl.town/)
-- [Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5)
-- [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
-- [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)
-- [Hunger beats tenure: Advice for junior engineers](https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/)
+- [26,400 live credentials found scanning 7.25M repos on China&#39;s Gitee](https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets)
+- [Amazon rainforest cut down to build highway for COP climate summit &lpar;2025&rpar;](https://www.bbc.com/news/articles/c9vy191rgn1o)
+- [Tesla Semi catches fire on I-880](https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/)
+- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
+- [AlpineBSD](https://wiki.alpinebsd.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
