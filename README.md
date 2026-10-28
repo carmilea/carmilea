@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [26,400 live credentials found scanning 7.25M repos on China&#39;s Gitee](https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets)
-- [Amazon rainforest cut down to build highway for COP climate summit &lpar;2025&rpar;](https://www.bbc.com/news/articles/c9vy191rgn1o)
-- [Tesla Semi catches fire on I-880](https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/)
-- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
-- [AlpineBSD](https://wiki.alpinebsd.org)
+- [Alphabet Announces Third Quarter 2026 Results [pdf]](https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf)
+- [Big Tech&#39;s thirst for water is sparking a global resistance](https://restofworld.org/2026/ai-datacenters-water-resistance-global/)
+- [Spiders Spin &#39;Silk Dope&#39; into Nature&#39;s Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
+- [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
+- [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
