@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Read the letter the FBI sent MLK to try to convince him to kill himself &lpar;2014&rpar;](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
-- [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
-- [DoorDash to Acquire Instacart](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx)
-- [Hackers expose the identities of more than 40k DHS employees](https://text.npr.org/nx-s1-6021497)
-- [If IPv4 Were Land](https://iptrust.co/blog/if-ipv4-were-land)
+- [Patrick Stewart Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
+- [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
+- [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
+- [Show HN: Auto Dismiss Mac OS &quot;Allow &lt;app&gt; to find devices on local networks?&quot;](https://github.com/johncassil/dontallow)
+- [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
