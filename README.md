@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alphabet Announces Third Quarter 2026 Results [pdf]](https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf)
-- [Big Tech&#39;s thirst for water is sparking a global resistance](https://restofworld.org/2026/ai-datacenters-water-resistance-global/)
-- [Spiders Spin &#39;Silk Dope&#39; into Nature&#39;s Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
-- [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
-- [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
+- [Get Ready for Touch on Mac](https://developer.apple.com/touch-on-mac/)
+- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+- [The first wired XR glasses powered by Android XR](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)
+- [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
+- [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
