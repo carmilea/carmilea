@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
-- [A Pig, the State, and War: Porco Rosso &lpar;Kurenai No Buta&rpar; &lpar;2014&rpar;](https://journal.animationstudies.org/article/id/66/)
-- [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
-- [Proton goes all in on using AI](https://convo.casa/@b/117525936178835007)
-- [El Niño Is Flooding California&#39;s Coasts with the Highest Tides to Come](https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574)
+- [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/)
+- [Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm)
+- [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
+- [Herdr has released native app](https://github.com/herdrdev/herdr-app)
+- [Cormac McCarthy&#39;s Library](https://cormacmccarthy.lib.utk.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
