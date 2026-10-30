@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel plunges 25%, triggers global chip rout on bleak outlook](https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/)
-- [Pompeii wardrobe found untouched since 79CE holds keepsakes, coins, and two mice](https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/)
-- [Just Noting That Your Candy Corn Is Made of Bug Secretions](https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/)
-- [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
-- [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
+- [French national assembly votes 0.055€/GB internet tax](https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html)
+- [GitHub Incident with Actions, Pages, and Webhooks](https://www.githubstatus.com/incidents/pwxsjgnvrk6b)
+- [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)
+- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+- [Proton&#39;s CEO Cancels AI &#39;Re-Interviews&#39;](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
