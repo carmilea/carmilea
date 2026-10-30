@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patrick Stewart Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
-- [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
-- [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
-- [Show HN: Auto Dismiss Mac OS &quot;Allow &lt;app&gt; to find devices on local networks?&quot;](https://github.com/johncassil/dontallow)
-- [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
+- [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
+- [A Pig, the State, and War: Porco Rosso &lpar;Kurenai No Buta&rpar; &lpar;2014&rpar;](https://journal.animationstudies.org/article/id/66/)
+- [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
+- [Proton goes all in on using AI](https://convo.casa/@b/117525936178835007)
+- [El Niño Is Flooding California&#39;s Coasts with the Highest Tides to Come](https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
