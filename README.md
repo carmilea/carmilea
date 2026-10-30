@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [French national assembly votes 0.055€/GB internet tax](https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html)
-- [GitHub Incident with Actions, Pages, and Webhooks](https://www.githubstatus.com/incidents/pwxsjgnvrk6b)
-- [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)
-- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
-- [Proton&#39;s CEO Cancels AI &#39;Re-Interviews&#39;](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
+- [France is getting download tax for content providers &lpar;€0.055/GB&rpar;](https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/)
+- [Linode Security Incident](https://status.linode.com/incidents/nt58zhx3pmgm)
+- [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
+- [AO3 Down for Maintenance](https://www.otwstatus.org)
+- [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
