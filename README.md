@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/)
-- [Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm)
-- [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
-- [Herdr has released native app](https://github.com/herdrdev/herdr-app)
-- [Cormac McCarthy&#39;s Library](https://cormacmccarthy.lib.utk.edu/)
+- [Intel plunges 25%, triggers global chip rout on bleak outlook](https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/)
+- [Pompeii wardrobe found untouched since 79CE holds keepsakes, coins, and two mice](https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/)
+- [Just Noting That Your Candy Corn Is Made of Bug Secretions](https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/)
+- [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
+- [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
