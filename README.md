@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI raises less than half of $30B target](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)
-- [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
-- [Flock camera searches fell 95% after a dispatcher&#39;s misconduct was caught](https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e)
-- [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
-- [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
+- [French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026)
+- [Shiny Object Syndrome](https://en.wikipedia.org/wiki/Shiny_object_syndrome)
+- [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
+- [Molly&lpar;Signal fork&rpar; has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
+- [Serbia just elected the world&#39;s brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
 <!-- BLOG-POST-LIST:END -->
 
 ---
