@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/)
-- [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
-- [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
-- [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
-- [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
+- [Distributed Proofreaders](https://www.pgdp.net/c/)
+- [With 86% of the words, you might understand only 38% of an anime&#39;s lines](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
+- [Surviving &quot;The Graduate&quot;](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+- [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
