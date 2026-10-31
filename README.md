@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026)
-- [Shiny Object Syndrome](https://en.wikipedia.org/wiki/Shiny_object_syndrome)
-- [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
-- [Molly&lpar;Signal fork&rpar; has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
-- [Serbia just elected the world&#39;s brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
+- [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/)
+- [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
+- [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
+- [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
+- [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
