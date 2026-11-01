@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI delivers &#39;zero financial payoff&#39; to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+- [So I guess everyone uses LLMs to think now](https://eva.ac/blog/llms/)
+- [John Leeson &lpar;the voice of K9&rpar; has died](https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html)
+- [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
 - [Mathematics has changed. Let&#39;s act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
-- [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)
-- [Frontier Airlines Likely Breached](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
-- [Seoul Viosys begins production of rare-earth-free white light emitter](https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml)
-- [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
