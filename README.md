@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Proofreaders](https://www.pgdp.net/c/)
-- [With 86% of the words, you might understand only 38% of an anime&#39;s lines](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
-- [Surviving &quot;The Graduate&quot;](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
-- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
-- [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088)
+- [When electric cars were for women](https://spectrum.ieee.org/early-electric-vehicles)
+- [Altoids Project](https://uvdn7.github.io/altoids-project/)
+- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
+- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+- [AI text watermarking and quality loss](https://blog.keyvan.net/p/ai-text-watermarking-and-quality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
