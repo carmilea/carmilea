@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
-- [OTape](https://www.otape.org/)
-- [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM &lpar;2024&rpar;](https://arxiv.org/abs/2409.02292)
-- [Show HN: BBRouter – Ben Eater&#39;s 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)
-- [Constructing a Quine from Kleene&#39;s Second Recursion Theorem](https://emarzion.github.io/KSRT/)
+- [Lenovo&#39;s &#39;encrypted&#39; fingerprint USB is just an unencrypted SD card in a case](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/)
+- [Novellas with Groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
+- [AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)
+- [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302)
+- [The &quot;Moon Trees&quot;](https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_tree.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
