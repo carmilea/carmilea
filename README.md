@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When electric cars were for women](https://spectrum.ieee.org/early-electric-vehicles)
-- [Altoids Project](https://uvdn7.github.io/altoids-project/)
-- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
-- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
-- [AI text watermarking and quality loss](https://blog.keyvan.net/p/ai-text-watermarking-and-quality)
+- [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
+- [OTape](https://www.otape.org/)
+- [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM &lpar;2024&rpar;](https://arxiv.org/abs/2409.02292)
+- [Show HN: BBRouter – Ben Eater&#39;s 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)
+- [Constructing a Quine from Kleene&#39;s Second Recursion Theorem](https://emarzion.github.io/KSRT/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
