@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI delivers &#39;zero financial payoff&#39; to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
-- [So I guess everyone uses LLMs to think now](https://eva.ac/blog/llms/)
-- [John Leeson &lpar;the voice of K9&rpar; has died](https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html)
-- [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
-- [Mathematics has changed. Let&#39;s act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
+- [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
+- [AI fan wikis riddled with errors are muddying the waters of games culture](https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture)
+- [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026)
+- [OccupySaaS](https://occupysaas.com/)
+- [The Megadonors Who Have Poured $1.2B into the Midterms](https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
