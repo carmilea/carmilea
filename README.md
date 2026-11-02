@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are Soviet math textbooks so hardcore in comparison to US textbooks? &lpar;2017&rpar;](https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1)
-- [WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu)
-- [Jobless Tech Workers Are Being Left Out of San Francisco&#39;s AI Boom](https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near)
-- [Anthropic releases amended IPO prospectus with third-quarter financials](https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html)
-- [Never Complain, Never Explain](https://en.wikipedia.org/wiki/Never_complain,_never_explain)
+- [Anthropic&#39;s growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened)
+- [The SEC Should Block Anthropic&#39;s IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
+- [Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/)
+- [SLAC researchers find proof of altermagnetism, a new magnetic phase](https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase)
+- [Can’t fish Ethernet? Use “invisible” fiber instead](https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
