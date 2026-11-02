@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
-- [AI fan wikis riddled with errors are muddying the waters of games culture](https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture)
-- [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026)
-- [OccupySaaS](https://occupysaas.com/)
-- [The Megadonors Who Have Poured $1.2B into the Midterms](https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html)
+- [Why are Soviet math textbooks so hardcore in comparison to US textbooks? &lpar;2017&rpar;](https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1)
+- [WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu)
+- [Jobless Tech Workers Are Being Left Out of San Francisco&#39;s AI Boom](https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near)
+- [Anthropic releases amended IPO prospectus with third-quarter financials](https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html)
+- [Never Complain, Never Explain](https://en.wikipedia.org/wiki/Never_complain,_never_explain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
