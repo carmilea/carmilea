@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic&#39;s growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened)
-- [The SEC Should Block Anthropic&#39;s IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
-- [Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/)
-- [SLAC researchers find proof of altermagnetism, a new magnetic phase](https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase)
-- [Can’t fish Ethernet? Use “invisible” fiber instead](https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/)
+- [Cloudflare experiencing multiple active incidents](https://www.cloudflarestatus.com/)
+- [Show HN: I built a little browser game to practice Vim commands](https://hjkl.duy.run)
+- [Show HN: Rustable is an open source database client built in Rust](https://rustable.app)
+- [Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities](https://arxiv.org/abs/2608.25820)
+- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
