@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Just a little AI resistance, as a treat](https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/)
-- [Microsoft&#39;s Canada timezone troubles leave admins fixing calendars](https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934)
-- [Anthropic&#39;s IPO Filing Warns It May Be &#39;Imminently&#39; Close to RSI](https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive)
-- [Show HN: Kvittas, an Expense Splitting App](https://kvittas.app)
-- [Show HN: Bema: Work messaging built for humans](https://getbema.app/)
+- [I Dumped Apple&#39;s Fucking Word List](https://helgesver.re/articles/macos-vulgar-word-flags)
+- [Pratt parsing is a black box](https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/)
+- [Preparing for the Flipper One Kickstarter and opening pre-orders](https://flipper.net/pages/flipper-one)
+- [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
+- [How to write comparison content that doesn&#39;t age like milk](https://posthog.com/blog/comparison-content-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
