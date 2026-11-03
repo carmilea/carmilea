@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare experiencing multiple active incidents](https://www.cloudflarestatus.com/)
-- [Show HN: I built a little browser game to practice Vim commands](https://hjkl.duy.run)
-- [Show HN: Rustable is an open source database client built in Rust](https://rustable.app)
-- [Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities](https://arxiv.org/abs/2608.25820)
-- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
+- [Just a little AI resistance, as a treat](https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/)
+- [Microsoft&#39;s Canada timezone troubles leave admins fixing calendars](https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934)
+- [Anthropic&#39;s IPO Filing Warns It May Be &#39;Imminently&#39; Close to RSI](https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive)
+- [Show HN: Kvittas, an Expense Splitting App](https://kvittas.app)
+- [Show HN: Bema: Work messaging built for humans](https://getbema.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
