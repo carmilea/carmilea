@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Notebook Walkthrough: Semantic Search with Hugging Face &amp; SingleStore](https://www.youtube.com/watch?v=m8D-U1W3JGw)
+- [Notebook Walkthrough: Semantic Search in SingleStore - OpenAI Embeddings &amp; SQL](https://www.youtube.com/watch?v=Q0LxHKX-c9c)
+- [Notebook Walkthrough: Querying JSON Data from Amazon S3 with SQL in SingleStore](https://www.youtube.com/watch?v=xzU8D2iC7ZI)
 - [Notebook Walkthrough: Ingesting Kafka Data into SingleStore with a Pipeline](https://www.youtube.com/watch?v=xpideuqdGjA)
 - [SOC2, HIPAA &amp; FedRamp High: AI Compliance in the United States](https://www.youtube.com/watch?v=pyYtitDVwPQ)
-- [On-Prem, Air-Gapped &amp; Sovereign AI: Deployment Models Explained](https://www.youtube.com/watch?v=4WTQE3lbtz4)
-- [AI Governance, Data Governance &amp; Responsible AI: Building Trust at Scale](https://www.youtube.com/watch?v=BXnQE3GeVI0)
-- [Notebook Walkthrough: SingleStore Fundamentals - SQL, JSON, Pipelines &amp; Vector Search](https://www.youtube.com/watch?v=xdSgJBMU0Wg)
 <!-- YOUTUBE:END -->
 
 
