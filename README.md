@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
-- [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
-- [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
-- [US tech giants&#39; hidden AI debt swells 90% to $3.2T in 6 months](https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months)
-- [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)
+- [The lost malloc&lpar;&rpar;](https://napcakes.nekoweb.org/posts/malloc/)
+- [AI stocks slide as Texas governor result raises data center risks](https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html)
+- [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
+- [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
+- [Arrows to arrows, categories to queries &lpar;2025&rpar;](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
