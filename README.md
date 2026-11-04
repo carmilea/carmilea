@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The lost malloc&lpar;&rpar;](https://napcakes.nekoweb.org/posts/malloc/)
-- [AI stocks slide as Texas governor result raises data center risks](https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html)
-- [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
-- [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
-- [Arrows to arrows, categories to queries &lpar;2025&rpar;](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
+- [Kemi Badenoch says Africans should apologise for slavery](https://www.theguardian.com/news/2026/nov/04/kemi-badenoch-says-africans-should-apologise-for-slavery-she-should-read-a-history-book)
+- [AMD expects to outsell Intel in Q4 for the first time in history](https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections)
+- [Letting users trust their own MCP clients, without opening a phishing hole](https://streamvessel.com/blog/mcp-trusted-redirect-uris)
+- [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
+- [YC&#39;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
