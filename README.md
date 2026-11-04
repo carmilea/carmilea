@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kemi Badenoch says Africans should apologise for slavery](https://www.theguardian.com/news/2026/nov/04/kemi-badenoch-says-africans-should-apologise-for-slavery-she-should-read-a-history-book)
-- [AMD expects to outsell Intel in Q4 for the first time in history](https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections)
-- [Letting users trust their own MCP clients, without opening a phishing hole](https://streamvessel.com/blog/mcp-trusted-redirect-uris)
-- [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
-- [YC&#39;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)
+- [Successful People &lpar;2013&rpar;](https://blog.samaltman.com/successful-people)
+- [Less Popular Than Coal](https://www.argmin.net/p/less-popular-than-coal)
+- [Ask HN: What your experience with the monthly &quot;who wants to be hired&quot; thread?](https://news.ycombinator.com/item?id=50372294)
+- [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
+- [Death Comes for XSLT](https://dbushell.com/2026/11/03/xslt-rip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
