@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Dumped Apple&#39;s Fucking Word List](https://helgesver.re/articles/macos-vulgar-word-flags)
-- [Pratt parsing is a black box](https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/)
-- [Preparing for the Flipper One Kickstarter and opening pre-orders](https://flipper.net/pages/flipper-one)
-- [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
-- [How to write comparison content that doesn&#39;t age like milk](https://posthog.com/blog/comparison-content-guide)
+- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+- [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
+- [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+- [US tech giants&#39; hidden AI debt swells 90% to $3.2T in 6 months](https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months)
+- [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
