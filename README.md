@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Successful People &lpar;2013&rpar;](https://blog.samaltman.com/successful-people)
-- [Less Popular Than Coal](https://www.argmin.net/p/less-popular-than-coal)
-- [Ask HN: What your experience with the monthly &quot;who wants to be hired&quot; thread?](https://news.ycombinator.com/item?id=50372294)
-- [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
-- [Death Comes for XSLT](https://dbushell.com/2026/11/03/xslt-rip/)
+- [Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)
+- [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
+- [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
+- [Images 2.6](https://openai.com/index/introducing-images-2-6/)
+- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
