@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Image of Our Satellite-Choked Night Skies](https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies)
-- [Alpine Linux Security advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
-- [September in Servo: &lt;progress&gt;, rounded rectangles, and more](https://servo.org/blog/2026/11/05/september-in-servo/)
-- [MCP Explained](https://mcp-explained.com/)
-- [I wish tech companies knew more about me](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me)
+- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+- [California Gov Newsom commutes death sentences for all 548 people on death row](https://www.bbc.com/news/articles/cqrkyyd2j8mvo)
+- [Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)
+- [The Cost of Blogging](https://onlinegoddess.net/2026/11/the-cost-of-blogging/)
+- [Kagi Search for Everyone](https://kagi.com/changelog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
