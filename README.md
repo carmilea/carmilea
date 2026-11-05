@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)
-- [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
-- [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
-- [Images 2.6](https://openai.com/index/introducing-images-2-6/)
-- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+- [Image of Our Satellite-Choked Night Skies](https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies)
+- [Alpine Linux Security advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
+- [September in Servo: &lt;progress&gt;, rounded rectangles, and more](https://servo.org/blog/2026/11/05/september-in-servo/)
+- [MCP Explained](https://mcp-explained.com/)
+- [I wish tech companies knew more about me](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
