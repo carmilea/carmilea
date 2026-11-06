@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears](https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/)
-- [MoofTCP – A modern replacement for MacTCP on 68k Macs](https://github.com/matthewmrichter/mooftcp)
-- [Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation](https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’)
-- [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/)
-- [Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data](https://www.fgc.org.br/comunicado)
+- [Dutch &#39;idealist&#39; bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
+- [Living Maps: Bay Area tech since 1960s](https://tomorrowasusual.com/living-maps/bay-area-tech/)
+- [App Store 2026 in numbers: AI, pricing, abandoned apps](https://obelisk.club/research/app-store-2026)
+- [Multiplayer tanks that demolish real buildings from OpenStreetMap](https://worldstrike.fun/)
+- [Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
