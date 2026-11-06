@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic IPO valuation talks drop to $1.3T](https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors)
-- [UpCodes &lpar;YC S17&rpar; is hiring SDR&#39;s to sell AI compliance software](https://up.codes/careers?utm_source=HN)
-- [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html)
-- [Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web](https://github.com/anomalyco/rune)
-- [Scriptable GeoDNS: Leaving AWS for Bunny](https://vincent.bernat.ch/en/blog/2026-bunny-geodns)
+- [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+- [Google has acquired Crusoe&#39;s data center site in southeast Wyoming](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update)
+- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
+- [Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0)
+- [As the Japanese countryside empties out, wildlife is disappearing](https://e360.yale.edu/digest/japan-depopulation-biodiversity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
