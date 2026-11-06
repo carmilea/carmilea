@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dutch &#39;idealist&#39; bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
-- [Living Maps: Bay Area tech since 1960s](https://tomorrowasusual.com/living-maps/bay-area-tech/)
-- [App Store 2026 in numbers: AI, pricing, abandoned apps](https://obelisk.club/research/app-store-2026)
-- [Multiplayer tanks that demolish real buildings from OpenStreetMap](https://worldstrike.fun/)
-- [Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz)
+- [Anthropic IPO valuation talks drop to $1.3T](https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors)
+- [UpCodes &lpar;YC S17&rpar; is hiring SDR&#39;s to sell AI compliance software](https://up.codes/careers?utm_source=HN)
+- [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html)
+- [Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web](https://github.com/anomalyco/rune)
+- [Scriptable GeoDNS: Leaving AWS for Bunny](https://vincent.bernat.ch/en/blog/2026-bunny-geodns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
