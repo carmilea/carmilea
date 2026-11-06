@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
-- [California Gov Newsom commutes death sentences for all 548 people on death row](https://www.bbc.com/news/articles/cqrkyyd2j8mvo)
-- [Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)
-- [The Cost of Blogging](https://onlinegoddess.net/2026/11/the-cost-of-blogging/)
-- [Kagi Search for Everyone](https://kagi.com/changelog)
+- [Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears](https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/)
+- [MoofTCP – A modern replacement for MacTCP on 68k Macs](https://github.com/matthewmrichter/mooftcp)
+- [Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation](https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’)
+- [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/)
+- [Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data](https://www.fgc.org.br/comunicado)
 <!-- BLOG-POST-LIST:END -->
 
 ---
