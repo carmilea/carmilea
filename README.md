@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The $8 Linux Computer &lpar;2022&rpar;](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
-- [Upload Your RAM](https://uploadyourram.org)
-- [Every Mac comes with an &lpar;undocumented&rpar; family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
-- [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
-- [Port 0: The Port That Does Not Exist](https://acid.vegas/blog/the-port-that-does-not-exist/)
+- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
+- [The end of Microsoft Research&#39;s AI Frontiers group](https://hunch.net/?p=13764006)
+- [GeoWorks, Microsoft Windows&#39; Upstart &#39;90s Competitor](https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor)
+- [Five memorable books about programming &lpar;2008&rpar;](https://prog21.dadgum.com/19.html)
+- [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
