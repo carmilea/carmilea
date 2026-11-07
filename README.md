@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bong: DuckDuckGo bang alternative, open-source and self-hosted](https://bong.glendalab.com)
-- [The Components of Agent Memory](https://www.anthropic.com/research/components-of-agent-memory)
-- [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/)
-- [A barbarian tribe&#39;s mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
-- [I toured Unitree&#39;s factory. I&#39;m more bullish on the West](https://josef.cn/blog/unitree)
+- [The $8 Linux Computer &lpar;2022&rpar;](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
+- [Upload Your RAM](https://uploadyourram.org)
+- [Every Mac comes with an &lpar;undocumented&rpar; family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
+- [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
+- [Port 0: The Port That Does Not Exist](https://acid.vegas/blog/the-port-that-does-not-exist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
