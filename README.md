@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Toured Unitree&#39;s Factory. I&#39;m More Bullish on the West](https://josef.cn/blog/unitree)
-- [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/)
-- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
-- [Outbound SIP calling is now available to all organizations](https://developers.openai.com/api/docs/guides/voice-sip)
-- [Sodium-ion batteries approach cost parity with LFP](https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/)
+- [Bong: DuckDuckGo bang alternative, open-source and self-hosted](https://bong.glendalab.com)
+- [The Components of Agent Memory](https://www.anthropic.com/research/components-of-agent-memory)
+- [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/)
+- [A barbarian tribe&#39;s mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
+- [I toured Unitree&#39;s factory. I&#39;m more bullish on the West](https://josef.cn/blog/unitree)
 <!-- BLOG-POST-LIST:END -->
 
 ---
