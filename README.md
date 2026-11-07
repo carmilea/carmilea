@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
-- [Google has acquired Crusoe&#39;s data center site in southeast Wyoming](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update)
-- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
-- [Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0)
-- [As the Japanese countryside empties out, wildlife is disappearing](https://e360.yale.edu/digest/japan-depopulation-biodiversity)
+- [I Toured Unitree&#39;s Factory. I&#39;m More Bullish on the West](https://josef.cn/blog/unitree)
+- [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/)
+- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
+- [Outbound SIP calling is now available to all organizations](https://developers.openai.com/api/docs/guides/voice-sip)
+- [Sodium-ion batteries approach cost parity with LFP](https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
