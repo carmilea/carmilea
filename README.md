@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Person of Interest](https://krthr.co/person-of-interest/)
-- [Petered &lpar;what happens after the Peter Principle&rpar;](https://aworkinglibrary.com/writing/petered)
-- [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
-- [Writing as a Thinking Tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
-- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
+- [Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren&#39;t Buying It](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
+- [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+- [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
+- [A Little Snitch for Windows](https://packethound.app/)
+- [A field guide to CAPTCHA types and how they break](https://github.com/vsmutok/FuckCaptcha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
