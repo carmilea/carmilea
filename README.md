@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kirlian Photography: Building Your Own Equipment](https://imagesco.com/articles/kirlian/kirlian-photography.html)
-- [ISponsorBlockTV: SponsorBlock client for all YouTube TV clients](https://github.com/dmunozv04/isponsorblocktv)
-- [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
-- [Consumer brain wave headsets threaten privacy](https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F)
-- [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
+- [Person of Interest](https://krthr.co/person-of-interest/)
+- [Petered &lpar;what happens after the Peter Principle&rpar;](https://aworkinglibrary.com/writing/petered)
+- [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
+- [Writing as a Thinking Tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
+- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
