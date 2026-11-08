@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)
-- [IRA Velinsky – Commodore&#39;s Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/)
-- [Making any integer with four 2s &lpar;2025&rpar;](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
-- [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)
-- [MeccanicOS](https://meccanicos.com/)
+- [Kirlian Photography: Building Your Own Equipment](https://imagesco.com/articles/kirlian/kirlian-photography.html)
+- [ISponsorBlockTV: SponsorBlock client for all YouTube TV clients](https://github.com/dmunozv04/isponsorblocktv)
+- [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
+- [Consumer brain wave headsets threaten privacy](https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F)
+- [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
