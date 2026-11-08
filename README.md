@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
-- [The end of Microsoft Research&#39;s AI Frontiers group](https://hunch.net/?p=13764006)
-- [GeoWorks, Microsoft Windows&#39; Upstart &#39;90s Competitor](https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor)
-- [Five memorable books about programming &lpar;2008&rpar;](https://prog21.dadgum.com/19.html)
-- [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
+- [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)
+- [IRA Velinsky – Commodore&#39;s Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/)
+- [Making any integer with four 2s &lpar;2025&rpar;](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
+- [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)
+- [MeccanicOS](https://meccanicos.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
