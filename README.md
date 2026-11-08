@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren&#39;t Buying It](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
-- [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
-- [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
-- [A Little Snitch for Windows](https://packethound.app/)
-- [A field guide to CAPTCHA types and how they break](https://github.com/vsmutok/FuckCaptcha)
+- [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
+- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
+- [Nvidia CEO Jensen Huang&#39;s letter to staff about affair](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
+- [Show HN: SafeScript, a safe version of JavaScript for executing untrusted code](https://github.com/SafeScript/safescript)
+- [Ask HN: What are you working on? &lpar;November 2026&rpar;](https://news.ycombinator.com/item?id=50417407)
 <!-- BLOG-POST-LIST:END -->
 
 ---
