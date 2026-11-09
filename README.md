@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
-- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
-- [Nvidia CEO Jensen Huang&#39;s letter to staff about affair](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
-- [Show HN: SafeScript, a safe version of JavaScript for executing untrusted code](https://github.com/SafeScript/safescript)
-- [Ask HN: What are you working on? &lpar;November 2026&rpar;](https://news.ycombinator.com/item?id=50417407)
+- [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
+- [The Qlobe: Rotating Quine &lpar;2010&rpar;](http://mamememo.blogspot.com/2010/09/qlobe.html)
+- [A Bit about Email](https://maurycyz.com/misc/email/)
+- [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
+- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
