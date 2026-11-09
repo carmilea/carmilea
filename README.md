@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
-- [The Qlobe: Rotating Quine &lpar;2010&rpar;](http://mamememo.blogspot.com/2010/09/qlobe.html)
-- [A Bit about Email](https://maurycyz.com/misc/email/)
-- [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
-- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
+- [Crypto foundation demanded employees endorse suicide pledge](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)
+- [I Saw Your HN Comment](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/)
+- [Zebkit – Chromium as an embeddable library](https://github.com/ikey4u/zebkit)
+- [Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
+- [Fold Epic Paper Airplanes](https://www.foldableflight.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
