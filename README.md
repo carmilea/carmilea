@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [GDPR, the EU AI Act &amp; ISO 27001: AI Compliance in Europe](https://www.youtube.com/watch?v=TJlTyLBq2QQ)
 - [Notebook Walkthrough: Semantic Search with Hugging Face &amp; SingleStore](https://www.youtube.com/watch?v=m8D-U1W3JGw)
 - [Notebook Walkthrough: Semantic Search in SingleStore - OpenAI Embeddings &amp; SQL](https://www.youtube.com/watch?v=Q0LxHKX-c9c)
 - [Notebook Walkthrough: Querying JSON Data from Amazon S3 with SQL in SingleStore](https://www.youtube.com/watch?v=xzU8D2iC7ZI)
 - [Notebook Walkthrough: Ingesting Kafka Data into SingleStore with a Pipeline](https://www.youtube.com/watch?v=xpideuqdGjA)
+- [Notebook Walkthrough: SingleStore Fundamentals - SQL, JSON, Pipelines &amp; Vector Search](https://www.youtube.com/watch?v=xdSgJBMU0Wg)
 <!-- YOUTUBE:END -->
 
 
