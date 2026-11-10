@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
-- [Tailscale&#39;s DNS IPv6 spells out &quot;Tailscale&quot;](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
-- [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
-- [Gemini 4 Carbon is now available](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
-- [.NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)
+- [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
+- [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
+- [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)
+- [Sherman Anti-Trust Act &lpar;1890](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
+- [Toyota brand Scion is back and it&#39;s going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
