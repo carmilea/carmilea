@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [M John Harrison becomes first science fiction author to win the Booker prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
-- [ClickHouse Acquires Xata](https://xata.io/blog/xata-is-joining-clickhouse)
-- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
-- [Your TV can see through walls](https://maurycyz.com/projects/fading/)
-- [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
+- [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
+- [Tailscale&#39;s DNS IPv6 spells out &quot;Tailscale&quot;](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
+- [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
+- [Gemini 4 Carbon is now available](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
+- [.NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
