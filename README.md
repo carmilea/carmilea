@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracking the Harm of DOGE Cuts](https://www.clasp.org/doge-tracker/)
-- [Fable 5.2 one-shotted my nephew&#39;s dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
-- [Exact – a new cross platform UI framework by the Expo team](https://github.com/expo/exact)
-- [I did a meditation and it sort of changed my personality?](https://www.benkuhn.net/meditation/)
-- [TPUs](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
+- [M John Harrison becomes first science fiction author to win the Booker prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
+- [ClickHouse Acquires Xata](https://xata.io/blog/xata-is-joining-clickhouse)
+- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
+- [Your TV can see through walls](https://maurycyz.com/projects/fading/)
+- [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
