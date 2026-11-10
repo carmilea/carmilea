@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto foundation demanded employees endorse suicide pledge](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)
-- [I Saw Your HN Comment](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/)
-- [Zebkit – Chromium as an embeddable library](https://github.com/ikey4u/zebkit)
-- [Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
-- [Fold Epic Paper Airplanes](https://www.foldableflight.com)
+- [Tracking the Harm of DOGE Cuts](https://www.clasp.org/doge-tracker/)
+- [Fable 5.2 one-shotted my nephew&#39;s dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
+- [Exact – a new cross platform UI framework by the Expo team](https://github.com/expo/exact)
+- [I did a meditation and it sort of changed my personality?](https://www.benkuhn.net/meditation/)
+- [TPUs](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
