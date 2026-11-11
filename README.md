@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Greg Kurtzer&#39;s Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
-- [Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)
-- [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
-- [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
-- [A great old-timey game-programming hack &lpar;2013&rpar;](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
+- [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
+- [Launch HN: Pomerado &lpar;YC F26&rpar; – Turn any website into an MCP for agents](https://pomerado.ai/)
+- [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
+- [A false smoke alarm almost drowned Jane Street&#39;s only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+- [Multiple remote code execution vulnerabilities in danfoss sm-800A](https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
