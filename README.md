@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
-- [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
-- [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)
-- [Sherman Anti-Trust Act &lpar;1890](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
-- [Toyota brand Scion is back and it&#39;s going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
+- [A great old-timey game-programming hack &lpar;2013&rpar;](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
+- [LLMs Play Zachtronics&#39; TIS-100](https://tis-100.wincon.dev/)
+- [AI is an information gateway. Audiences still don&#39;t want it making their news](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/)
+- [The DRAM interface and the PHY &lpar;why a DDR3+ interface must be tuned at boot&rpar;](https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md)
+- [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
