@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Greg Kurtzer&#39;s Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
+- [Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)
+- [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
+- [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
 - [A great old-timey game-programming hack &lpar;2013&rpar;](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
-- [LLMs Play Zachtronics&#39; TIS-100](https://tis-100.wincon.dev/)
-- [AI is an information gateway. Audiences still don&#39;t want it making their news](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/)
-- [The DRAM interface and the PHY &lpar;why a DDR3+ interface must be tuned at boot&rpar;](https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md)
-- [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
