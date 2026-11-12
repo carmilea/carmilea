@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
-- [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
-- [Bad ideas that aren&#39;t bad anymore](https://devonestes.com/bad-ideas-that-arent-bad-anymore)
-- [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
-- [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
+- [AI Models Know What Women, Peace and Security Is. They Just Don&#39;t Bring It Up](https://blog.cip.org/p/ai-models-know-what-women-peace-and)
+- [Paths in Pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
+- [AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory)
+- [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
+- [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
