@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
-- [93% of Paint Splatters Are Valid Perl Programs &lpar;2019&rpar;](https://www.mcmillen.dev/sigbovik/)
-- [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
-- [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
-- [Jensen Huang said to have had relationship with executive who reports to him](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)
+- [I&#39;m Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
+- [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
+- [Bad ideas that aren&#39;t bad anymore](https://devonestes.com/bad-ideas-that-arent-bad-anymore)
+- [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
+- [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
