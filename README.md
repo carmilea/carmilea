@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
-- [Launch HN: Pomerado &lpar;YC F26&rpar; – Turn any website into an MCP for agents](https://pomerado.ai/)
-- [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
-- [A false smoke alarm almost drowned Jane Street&#39;s only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
-- [Multiple remote code execution vulnerabilities in danfoss sm-800A](https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a)
+- [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
+- [93% of Paint Splatters Are Valid Perl Programs &lpar;2019&rpar;](https://www.mcmillen.dev/sigbovik/)
+- [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
+- [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
+- [Jensen Huang said to have had relationship with executive who reports to him](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
