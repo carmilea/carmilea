@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [AI Compliance in Latin America: LGPD &amp; the Growing Regulatory Landscape](https://www.youtube.com/watch?v=qTVllFj8rXQ)
 - [AI Compliance in APAC: Navigating a Fragmented Landscape](https://www.youtube.com/watch?v=wcNW_ePZey0)
 - [GDPR, the EU AI Act &amp; ISO 27001: AI Compliance in Europe](https://www.youtube.com/watch?v=TJlTyLBq2QQ)
 - [Notebook Walkthrough: Semantic Search with Hugging Face &amp; SingleStore](https://www.youtube.com/watch?v=m8D-U1W3JGw)
 - [Notebook Walkthrough: Semantic Search in SingleStore - OpenAI Embeddings &amp; SQL](https://www.youtube.com/watch?v=Q0LxHKX-c9c)
-- [Notebook Walkthrough: Querying JSON Data from Amazon S3 with SQL in SingleStore](https://www.youtube.com/watch?v=xzU8D2iC7ZI)
 <!-- YOUTUBE:END -->
 
 
