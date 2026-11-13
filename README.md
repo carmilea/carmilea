@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Richard A. Posner has died](https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge)
-- [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
-- [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
-- [AI is turning Apple&#39;s app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
-- [Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay](https://github.com/cerulion-inc/cerulion)
+- [Global Microsoft Outage](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
+- [Scientists claim the universe is twice as old as believed](https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/)
+- [The average cost for a new vehicle in the U.S. hits a record high: over $51,000](https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high)
+- [Microsoft Outlook/365 still down after 12 hours](https://twitter.com/MSFT365Status/status/2121079061774491735)
+- [IceWM](https://ice-wm.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
