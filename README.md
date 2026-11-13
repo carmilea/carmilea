@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Models Know What Women, Peace and Security Is. They Just Don&#39;t Bring It Up](https://blog.cip.org/p/ai-models-know-what-women-peace-and)
-- [Paths in Pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
-- [AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory)
-- [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
-- [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)
+- [Richard A. Posner has died](https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge)
+- [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
+- [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
+- [AI is turning Apple&#39;s app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
+- [Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay](https://github.com/cerulion-inc/cerulion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
