@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Palmfrets, Minnesota guitarist&#39;s invention, strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
-- [EU Digital Identity Wallet rollout: every EU state on one board](https://myid.ie/business/eu-digital-wallet-tracker/)
-- [U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years](https://news.ycombinator.com/item?id=50484421)
-- [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
-- [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
+- [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
+- [FAA issues nationwide ground stop due to &quot;extraordinary circumstances&quot;](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
+- [All US airports are currently ground stopped](https://twitter.com/flightradar24/status/2121347654714077605)
+- [FAA Issues National Ground Stop](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111)
+- [Autonomous &lpar;YC F25&rpar; is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
