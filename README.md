@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
-- [FAA issues nationwide ground stop due to &quot;extraordinary circumstances&quot;](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
-- [All US airports are currently ground stopped](https://twitter.com/flightradar24/status/2121347654714077605)
-- [FAA Issues National Ground Stop](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111)
-- [Autonomous &lpar;YC F25&rpar; is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
+- [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
+- [Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
+- [FAA lifted National Ground Stop at 0119Z](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5)
+- [Ukraine knocks out 36% of Russia&#39;s oil refining capacity in under two weeks](https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html)
+- [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
