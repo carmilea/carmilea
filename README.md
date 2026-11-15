@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Picasso taught me about building AI Agents](https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/)
-- [The Atheist Bible](https://suchanek.name/texts/atheism/)
-- [&#39;Duffy Lied&#39;: Controllers Refute Transportation Secretary&#39;s Ground Stop Story](https://www.commondreams.org/news/duffy-ground-stop-explanation)
-- [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
-- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
+- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
+- [Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/)
+- [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
+- [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
+- [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
