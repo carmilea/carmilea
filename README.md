@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)
-- [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)
-- [Kiri – The Modern Container Runtime](https://runkiri.com/)
-- [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
-- [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)
+- [What Picasso taught me about building AI Agents](https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/)
+- [The Atheist Bible](https://suchanek.name/texts/atheism/)
+- [&#39;Duffy Lied&#39;: Controllers Refute Transportation Secretary&#39;s Ground Stop Story](https://www.commondreams.org/news/duffy-ground-stop-explanation)
+- [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
+- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
