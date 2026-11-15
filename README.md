@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
-- [L3Harris statement on the Nov. 13 ground stop](https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop)
-- [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
-- [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
-- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
+- [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)
+- [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)
+- [Kiri – The Modern Container Runtime](https://runkiri.com/)
+- [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
+- [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
