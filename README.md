@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
-- [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
-- [Did the Apollo Guidance Computer use 60% of the ICs in 1963?](https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963)
-- [Debian Becomes Unresponsive after 6.1.0-55 Kernel Update](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
-- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
+- [Caltech professor no longer grades homework&#39;s because everyone uses AI](https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11)
+- [Launch HN: Axonnic &lpar;YC F26&rpar; – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
+- [Rust Changed Me as a Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
+- [How to Intercept HTTP/3 Traffic: QUIC and Qpack](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
+- [Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
