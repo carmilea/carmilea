@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
-- [Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/)
-- [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
-- [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
-- [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
+- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
+- [&quot;Who is Hiring?&quot; postings stuck near 12-year lows as AI reaches half of all jobs](https://www.hntrends.com/2026/november.html)
+- [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
+- [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
+- [Skydio&#39;s asymmetrical F10 Lightrunner solves a problem with fixed-wing drones](https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
