@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
-- [&quot;Who is Hiring?&quot; postings stuck near 12-year lows as AI reaches half of all jobs](https://www.hntrends.com/2026/november.html)
-- [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
-- [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
-- [Skydio&#39;s asymmetrical F10 Lightrunner solves a problem with fixed-wing drones](https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone)
+- [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
+- [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
+- [Did the Apollo Guidance Computer use 60% of the ICs in 1963?](https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963)
+- [Debian Becomes Unresponsive after 6.1.0-55 Kernel Update](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
 <!-- BLOG-POST-LIST:END -->
 
 ---
