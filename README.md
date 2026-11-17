@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Caltech professor no longer grades homework&#39;s because everyone uses AI](https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11)
-- [Launch HN: Axonnic &lpar;YC F26&rpar; – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
-- [Rust Changed Me as a Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
-- [How to Intercept HTTP/3 Traffic: QUIC and Qpack](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
-- [Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
+- [The most expensive bargaining chip in history](https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/)
+- [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
+- [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
+- [Show HN: A free interactive course on AI agent governance](https://studio.sinapsdata.com.br)
+- [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
