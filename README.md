@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
-- [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
-- [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
-- [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
-- [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+- [Human.md](https://www.human-md.ai/)
+- [Web Browser Engineering &lpar;2021&rpar;](https://browser.engineering/)
+- [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
+- [Effects of a Nuclear Detonation in Low Earth Orbit](https://arxiv.org/abs/2611.09827)
 <!-- BLOG-POST-LIST:END -->
 
 ---
