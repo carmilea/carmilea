@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The most expensive bargaining chip in history](https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/)
+- [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
+- [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
 - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
-- [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
-- [Show HN: A free interactive course on AI agent governance](https://studio.sinapsdata.com.br)
-- [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
+- [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
+- [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
