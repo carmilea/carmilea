@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Notebook Walkthrough: Working with Vector Data](https://www.youtube.com/watch?v=OssZSXe6WBE)
 - [Forecasting, Time Series &amp; Anomaly Detection: Predicting What Comes Next](https://www.youtube.com/watch?v=WWGOee9uqRw)
 - [Predictive AI, AutoML &amp; Tabular Foundation Models: H2O&#39;s Core Strength](https://www.youtube.com/watch?v=PSlnDuGy-2M)
 - [AI Compliance in Latin America: LGPD &amp; the Growing Regulatory Landscape](https://www.youtube.com/watch?v=qTVllFj8rXQ)
 - [AI Compliance in APAC: Navigating a Fragmented Landscape](https://www.youtube.com/watch?v=wcNW_ePZey0)
-- [GDPR, the EU AI Act &amp; ISO 27001: AI Compliance in Europe](https://www.youtube.com/watch?v=TJlTyLBq2QQ)
 <!-- YOUTUBE:END -->
 
 
