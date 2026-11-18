@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
-- [Human.md](https://www.human-md.ai/)
-- [Web Browser Engineering &lpar;2021&rpar;](https://browser.engineering/)
-- [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
-- [Effects of a Nuclear Detonation in Low Earth Orbit](https://arxiv.org/abs/2611.09827)
+- [GoGoGrandparent &lpar;YC S16&rpar; Is a Front End JavaScript / TypeScript Engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
+- [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
+- [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
+- [Google&#39;s AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
+- [Archive Team is archiving the Apple Support Community &lpar;closes November 20, 2026&rpar;](https://wiki.archiveteam.org/index.php/Apple_Discussions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
