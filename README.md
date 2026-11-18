@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
-- [Evidence &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
-- [Show HN: Type Fighter 2](https://typefighter2.com/)
-- [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
-- [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
+- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+- [Just Because You Can, Doesn&#39;t Mean You Should: Re-Evaluating Galera Node Weights](https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/)
+- [Google Gemini&#39;s &quot;Tasks&quot; Personal Assistant Is Now Free](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
+- [Search Browser – Minimalist WebKit browser with Chrome extension support](https://searchbrowser.app/)
+- [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
