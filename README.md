@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GoGoGrandparent &lpar;YC S16&rpar; Is a Front End JavaScript / TypeScript Engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
-- [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
-- [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
-- [Google&#39;s AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
-- [Archive Team is archiving the Apple Support Community &lpar;closes November 20, 2026&rpar;](https://wiki.archiveteam.org/index.php/Apple_Discussions)
+- [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
+- [Evidence &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
+- [Show HN: Type Fighter 2](https://typefighter2.com/)
+- [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
+- [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
