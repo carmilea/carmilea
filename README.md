@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI will not make you rich &lpar;2025&rpar;](https://colossus.com/article/ai-will-not-make-you-rich/)
-- [FailTrace – Reproduce a failed GitHub Actions run locally from its URL](https://github.com/Ri4dH/failtrace)
-- [Unreal Tournament 2004 in the Browser](https://ut2004.dev/)
-- [Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction](https://arxiv.org/abs/2607.29378)
-- [Black high school students sue after AI mistakes Doritos bag for gun](https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/)
+- [The AI Superintelligence Debate Has Serious Flaws](https://spectrum.ieee.org/ai-superintelligence-debate)
+- [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
+- [DeepMind Employees Are Unionising](https://www.gdmunion.co.uk)
+- [What&#39;s New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
+- [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
