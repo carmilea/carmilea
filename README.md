@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
-- [Just Because You Can, Doesn&#39;t Mean You Should: Re-Evaluating Galera Node Weights](https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/)
-- [Google Gemini&#39;s &quot;Tasks&quot; Personal Assistant Is Now Free](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
-- [Search Browser – Minimalist WebKit browser with Chrome extension support](https://searchbrowser.app/)
-- [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
+- [AI will not make you rich &lpar;2025&rpar;](https://colossus.com/article/ai-will-not-make-you-rich/)
+- [FailTrace – Reproduce a failed GitHub Actions run locally from its URL](https://github.com/Ri4dH/failtrace)
+- [Unreal Tournament 2004 in the Browser](https://ut2004.dev/)
+- [Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction](https://arxiv.org/abs/2607.29378)
+- [Black high school students sue after AI mistakes Doritos bag for gun](https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
