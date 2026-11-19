@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [NLP Prediction, Vision Modeling &amp; Clustering: AI Across Data Types](https://www.youtube.com/watch?v=CrttGe_IwcY)
 - [Deep Learning, Transformers &amp; Neural Networks: How Modern AI Learns](https://www.youtube.com/watch?v=RVcK3C86Vxc)
 - [Notebook Walkthrough: Working with Vector Data](https://www.youtube.com/watch?v=OssZSXe6WBE)
 - [Forecasting, Time Series &amp; Anomaly Detection: Predicting What Comes Next](https://www.youtube.com/watch?v=WWGOee9uqRw)
 - [Predictive AI, AutoML &amp; Tabular Foundation Models: H2O&#39;s Core Strength](https://www.youtube.com/watch?v=PSlnDuGy-2M)
-- [AI Compliance in Latin America: LGPD &amp; the Growing Regulatory Landscape](https://www.youtube.com/watch?v=qTVllFj8rXQ)
 <!-- YOUTUBE:END -->
 
 
