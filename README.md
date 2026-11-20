@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSSL: Buffer overflow in EVP_EncodeBlock&lpar;&rpar; &lpar;CVE-2026-121481, CVSS 9.8&rpar;](https://github.com/openssl/openssl/pull/33652)
-- [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
-- [Postgres 19 is out, and it&#39;s available on Neon and Databricks Lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)
-- [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)
-- [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
+- [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
+- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
+- [UK fridges secured from hackers in secret nationwide operation](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
+- [If you can&#39;t explain something in simple terms, you don&#39;t understand it &lpar;2017&rpar;](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
+- [Carnival Cruises emits ten times more sulphur oxide than all of Europe&#39;s cars](https://ecohustler.com/article/one-corporation-to-pollute-them-all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
