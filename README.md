@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
-- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
-- [UK fridges secured from hackers in secret nationwide operation](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
-- [If you can&#39;t explain something in simple terms, you don&#39;t understand it &lpar;2017&rpar;](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
-- [Carnival Cruises emits ten times more sulphur oxide than all of Europe&#39;s cars](https://ecohustler.com/article/one-corporation-to-pollute-them-all/)
+- [GrapheneOS claims Google is now waging war against it, could lock Pixel bootload](https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/)
+- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
+- [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
+- [Vibecoding an Inference Chip](https://ankitg.me/blog/vibecoding-inference-chip/)
+- [Anthropic shares tank after IPO as the Nasdaq erases 2026 gains](https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
