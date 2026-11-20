@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](https://www.youtube.com/watch?v=lwfewYL7X0o)
-- [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
-- [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
-- [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
-- [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+- [OpenSSL: Buffer overflow in EVP_EncodeBlock&lpar;&rpar; &lpar;CVE-2026-121481, CVSS 9.8&rpar;](https://github.com/openssl/openssl/pull/33652)
+- [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
+- [Postgres 19 is out, and it&#39;s available on Neon and Databricks Lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)
+- [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)
+- [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
 <!-- BLOG-POST-LIST:END -->
 
 ---
