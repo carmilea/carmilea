@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GrapheneOS claims Google is now waging war against it, could lock Pixel bootload](https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/)
-- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
-- [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
-- [Vibecoding an Inference Chip](https://ankitg.me/blog/vibecoding-inference-chip/)
-- [Anthropic shares tank after IPO as the Nasdaq erases 2026 gains](https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394)
+- [Re: Riemann](https://borretti.me/article/re-riemann)
+- [Uncontacted Indigenous people emerge from Amazon forest to ask for food](https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/)
+- [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
+- [AI may have solved the most important problem in mathematics](https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics)
+- [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
