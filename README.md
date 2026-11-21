@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Re: Riemann](https://borretti.me/article/re-riemann)
-- [Uncontacted Indigenous people emerge from Amazon forest to ask for food](https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/)
-- [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
-- [AI may have solved the most important problem in mathematics](https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics)
-- [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
+- [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
+- [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
+- [Backblaze Notice at Collection and Privacy Policy](https://www.backblaze.com/company/policy/privacy)
+- [Clojure will affect the way you think about programming &lpar;2017&rpar;](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
+- [Catching Crumbs from the Table [pdf]](https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
