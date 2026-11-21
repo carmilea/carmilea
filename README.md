@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Zero C#, Power of C# without any GC](https://onurgumus.github.io/zero-csharp/index.html)
-- [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
-- [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
-- [Astra 6.2 and Sol 6.2 flop at Simple Bench](https://simple-bench.com/)
-- [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
+- [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
+- [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
+- [Tasklet &lpar;YC P26&rpar; Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
+- [The Emergence of Inequality in the Czech Corded Ware Culture](https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746)
+- [Upload2Shell &lpar;CVE-2026-125396&rpar;](https://pwn.ai/upload2shell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
