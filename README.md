@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
-- [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
-- [Backblaze Notice at Collection and Privacy Policy](https://www.backblaze.com/company/policy/privacy)
-- [Clojure will affect the way you think about programming &lpar;2017&rpar;](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
-- [Catching Crumbs from the Table [pdf]](https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf)
+- [Show HN: Zero C#, Power of C# without any GC](https://onurgumus.github.io/zero-csharp/index.html)
+- [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+- [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
+- [Astra 6.2 and Sol 6.2 flop at Simple Bench](https://simple-bench.com/)
+- [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
