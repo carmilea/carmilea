@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
-- [Leonida – PC Recompilation of the Xbox Version of GTA 6](https://github.com/ItsNotRexed/Leonida)
-- [Sandwich Simulator](https://stulle.app/)
-- [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
-- [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
+- [Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts](https://arxiv.org/abs/2606.14068)
+- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
+- [Notes on the discrete Fourier transform &lpar;DFT&rpar;](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
+- [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)
+- [Fast-Anything: Don&#39;t rewrite it in Rust. Rewrite the 5% that&#39;s slow](https://github.com/EL4CTEO/fast-anything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
