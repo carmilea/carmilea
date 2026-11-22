@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts](https://arxiv.org/abs/2606.14068)
-- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
-- [Notes on the discrete Fourier transform &lpar;DFT&rpar;](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
-- [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)
-- [Fast-Anything: Don&#39;t rewrite it in Rust. Rewrite the 5% that&#39;s slow](https://github.com/EL4CTEO/fast-anything)
+- [All Delta Flights Through Atlanta Delayed as Automated System Falters](https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html)
+- [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
+- [Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
+- [The Birds of GTA 6: A Field Guide to Vice City and Leonida&#39;s Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
+- [Dirac&#39;s Theorem at a Dinner Party](https://prideout.net/blog/dirac-dinner-party/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
