@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
+- [Leonida – PC Recompilation of the Xbox Version of GTA 6](https://github.com/ItsNotRexed/Leonida)
+- [Sandwich Simulator](https://stulle.app/)
 - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
 - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
-- [Tasklet &lpar;YC P26&rpar; Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
-- [The Emergence of Inequality in the Czech Corded Ware Culture](https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746)
-- [Upload2Shell &lpar;CVE-2026-125396&rpar;](https://pwn.ai/upload2shell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
