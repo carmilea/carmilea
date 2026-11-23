@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All Delta Flights Through Atlanta Delayed as Automated System Falters](https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html)
-- [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
-- [Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
-- [The Birds of GTA 6: A Field Guide to Vice City and Leonida&#39;s Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
-- [Dirac&#39;s Theorem at a Dinner Party](https://prideout.net/blog/dirac-dinner-party/)
+- [Nespresso&#39;s project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
+- [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
+- [What should AAA game devs do](https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/)
+- [Progress map for the Lean formalization of Alessandro Masullo&#39;s manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
+- [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
