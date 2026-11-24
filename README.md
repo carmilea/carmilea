@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VP != VNP over Every Field [pdf]](https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf)
-- [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp)
-- [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
-- [The horse made the state](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
-- [GPUI is getting its own repository](https://github.com/zed-industries/gpui)
+- [India&#39;s opposition storms Meta&#39;s offices to get its Instagram accounts back](https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html)
+- [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
+- [Show HN: Genesis Map – Visualize your agent&#39;s changes. See where they can break](https://github.com/GenesisAgentInfra/genesis)
+- [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
+- [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
