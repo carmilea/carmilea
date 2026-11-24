@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [India&#39;s opposition storms Meta&#39;s offices to get its Instagram accounts back](https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html)
-- [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
-- [Show HN: Genesis Map – Visualize your agent&#39;s changes. See where they can break](https://github.com/GenesisAgentInfra/genesis)
-- [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
-- [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
+- [“Pervert glasses&quot; named word of the year by Macquarie Dictionary](https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/)
+- [AstridVPN: A VPN that doesn&#39;t know who you are](https://astridvpn.com/)
+- [Top MIT Physicist: Anthropic Staff Openly Talk About &#39;Taking over the World&#39;](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/)
+- [Microsoft declares &#39;Code Red&#39; after historic outage, internal memos show](https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/)
+- [Weave &lpar;YC W25&rpar; is hiring ML, AI, product, &amp; design engineers](https://jobs.ashbyhq.com/weave-os)
 <!-- BLOG-POST-LIST:END -->
 
 ---
