@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Pervert glasses&quot; named word of the year by Macquarie Dictionary](https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/)
-- [AstridVPN: A VPN that doesn&#39;t know who you are](https://astridvpn.com/)
-- [Top MIT Physicist: Anthropic Staff Openly Talk About &#39;Taking over the World&#39;](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/)
-- [Microsoft declares &#39;Code Red&#39; after historic outage, internal memos show](https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/)
-- [Weave &lpar;YC W25&rpar; is hiring ML, AI, product, &amp; design engineers](https://jobs.ashbyhq.com/weave-os)
+- [Matrix Multiplication is Θ&lpar;n^2.25&rpar; [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
+- [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/)
+- [Here in the World: Letters of Albert Camus, 1944–1959](https://literaryreview.co.uk/here-in-the-world)
+- [Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance)
+- [An unclassified CIA system was breached in a cyberattack](https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77)
 <!-- BLOG-POST-LIST:END -->
 
 ---
