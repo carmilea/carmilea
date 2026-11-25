@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [AI Fundamentals Glossary - Course Wrap Up](https://www.youtube.com/watch?v=KtyvNlnkPF4)
 - [The Data Science Lifecycle: From Feature Engineering to Model Scoring](https://www.youtube.com/watch?v=-DdBJqSqEvE)
 - [Responsible AI for Enterprise Leaders | H2O.ai](https://www.youtube.com/watch?v=grTVrTmuegk)
 - [NLP Prediction, Vision Modeling &amp; Clustering: AI Across Data Types](https://www.youtube.com/watch?v=CrttGe_IwcY)
 - [Deep Learning, Transformers &amp; Neural Networks: How Modern AI Learns](https://www.youtube.com/watch?v=RVcK3C86Vxc)
-- [Notebook Walkthrough: Working with Vector Data](https://www.youtube.com/watch?v=OssZSXe6WBE)
 <!-- YOUTUBE:END -->
 
 
