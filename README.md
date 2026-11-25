@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hazel &lpar;YC W24&rpar; Is Hiring a Product Designer](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
-- [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
-- [The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map](https://marioschlosser.org/riemann/)
-- [Smart People Who Give a Shit Use Tools](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools)
-- [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
+- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
+- [Defang Security Incident](https://defang.io/blog/post/security-incident-november-2026/)
+- [The New York Times tells photographers not to use the latest Photoshop](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/)
+- [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
+- [Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel&#39;s NFS server](https://opensec.in/blog/nfs2root-cve-2026-99362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
