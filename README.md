@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
-- [Defang Security Incident](https://defang.io/blog/post/security-incident-november-2026/)
-- [The New York Times tells photographers not to use the latest Photoshop](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/)
-- [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
-- [Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel&#39;s NFS server](https://opensec.in/blog/nfs2root-cve-2026-99362)
+- [Qualcomm&#39;s Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
+- [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806)
+- [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
+- [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
+- [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
