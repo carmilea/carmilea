@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
-- [45°C inlets just killed the chiller. Most people haven&#39;t noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)
-- [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)
-- [Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
-- [Intel One Mono font](https://github.com/intel/intel-one-mono)
+- [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
+- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
+- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+- [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
+- [Top-cited AI scientists at four US companies compared](https://topcitedscientists.com/figures/ai-at-four-us-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
