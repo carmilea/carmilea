@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qualcomm&#39;s Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
-- [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806)
-- [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
-- [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
-- [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)
+- [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
+- [45°C inlets just killed the chiller. Most people haven&#39;t noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)
+- [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)
+- [Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
+- [Intel One Mono font](https://github.com/intel/intel-one-mono)
 <!-- BLOG-POST-LIST:END -->
 
 ---
