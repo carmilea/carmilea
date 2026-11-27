@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
-- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
-- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
-- [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
-- [Top-cited AI scientists at four US companies compared](https://topcitedscientists.com/figures/ai-at-four-us-companies/)
+- [Ladybird browser&#39;s first downloadable alpha is surprisingly capable](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/)
+- [The group chat where your AI talks behind your back](https://construct22.com/)
+- [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
+- [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
+- [&quot;What&#39;s Claude&#39;s Fursona?&quot; and Other Questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
