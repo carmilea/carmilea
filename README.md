@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Supervised, Unsupervised, Classification &amp; Regression: The Building Blocks of Prediction](https://www.youtube.com/watch?v=iv38sdN0Jk8)
 - [Get certified now with H2O.ai University](https://www.youtube.com/shorts/wIQSx6VSPN0)
 - [AI Fundamentals Glossary - Course Wrap Up](https://www.youtube.com/watch?v=KtyvNlnkPF4)
 - [The Data Science Lifecycle: From Feature Engineering to Model Scoring](https://www.youtube.com/watch?v=-DdBJqSqEvE)
 - [Responsible AI for Enterprise Leaders | H2O.ai](https://www.youtube.com/watch?v=grTVrTmuegk)
-- [NLP Prediction, Vision Modeling &amp; Clustering: AI Across Data Types](https://www.youtube.com/watch?v=CrttGe_IwcY)
 <!-- YOUTUBE:END -->
 
 
