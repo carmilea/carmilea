@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ladybird browser&#39;s first downloadable alpha is surprisingly capable](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/)
-- [The group chat where your AI talks behind your back](https://construct22.com/)
-- [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
-- [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
-- [&quot;What&#39;s Claude&#39;s Fursona?&quot; and Other Questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/)
+- [I&#39;m Scared of AI](https://thesoapbox.email/archive/3)
+- [France Slips into Recession as Exports Sag](https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5)
+- [Palliative Care for the Chronically Online](https://idiotecon.substack.com/p/palliative-care-for-the-chronically)
+- [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
+- [False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
