@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alaska seized his plane over some beers. He is asking the Supreme Court for help](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
-- [Passkey blues](https://ssg.dev/passkey-blues/)
-- [Painting 1990s anime scenes in Python](https://www.fofr.ai/greenhouse-after-the-typhoon)
+- [FastLanes: Next-gen File Format [pdf]](https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf)
+- [Knuth: Moratorium on Error Reports](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html)
+- [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
+- [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
 - [Google&#39;s DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
-- [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
