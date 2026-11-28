@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Scared of AI](https://thesoapbox.email/archive/3)
-- [France Slips into Recession as Exports Sag](https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5)
-- [Palliative Care for the Chronically Online](https://idiotecon.substack.com/p/palliative-care-for-the-chronically)
-- [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
-- [False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html)
+- [Alaska seized his plane over some beers. He is asking the Supreme Court for help](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
+- [Passkey blues](https://ssg.dev/passkey-blues/)
+- [Painting 1990s anime scenes in Python](https://www.fofr.ai/greenhouse-after-the-typhoon)
+- [Google&#39;s DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
+- [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
